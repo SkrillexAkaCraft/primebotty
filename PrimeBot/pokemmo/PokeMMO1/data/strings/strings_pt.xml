@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="pt" lang_full="Português (Portuguese)">
+  <string id="9">Creche</string>
+  <string id="10">Senhor da Creche</string>
+  <string id="11">Senhora da Creche</string>
+
+<!-- COMMON -->
+
+  <string id="49">Tudo</string>
+  <string id="50">Sim</string>
+  <string id="51">Não</string>
+
+  <string id="53">Cancelar</string>
+  <string id="54">Guardar</string>
+  <string id="55">A Carregar...</string>
+  <string id="56">Comprar</string>
+  <string id="57">Preço</string>
+  <string id="58">VOLTAR ATRÁS</string>
+  <string id="59">Nv.</string>
+  <string id="60">Aceitar</string>
+  <string id="61">Nenhum</string>
+  <string id="62">Vender</string>
+  <string id="63">Rejeitar</string>
+  <string id="64">Bloquear</string>
+  <string id="65">Fechar</string>
+  <string id="66">Editar</string>
+  <string id="67">Mudar</string>
+  <string id="68">Não foi possível encontrar o jogador.</string>
+  <string id="69">Submeter</string>
+  <string id="70">Por favor resolva o seguinte código\nCAPTCHA para continuar.\n\n{00} tentativa(s) restante(s).</string>
+  <string id="71">Pequeno</string>
+  <string id="72">Médio</string>
+  <string id="73">Grande</string>
+  <string id="74">A carregar... Por favor aguarde.</string>
+  <string id="75">Não pode fazer isto enquato o servidor está a reiniciar.</string>
+  <string id="76">Saír</string>
+  <string id="77">Nenhum registo encontrado.</string>
+  <string id="78">Capaz</string>
+  <!--Can learn move-->
+
+  <string id="79">Incapaz</string>
+  <!--Can learn move-->
+
+  <string id="80">Fatal LWJGLException.\n\nIsto pode ser resolvido procurando o seguinte erro no google.\n\nError: {00}</string>
+  <string id="81">Fatal OutOfMemoryError.\n\nPor favor reinicie a aplicação e tente outra vez.\nSe este erro persistir por favor aumente a memória.\n\nPor favor visite https://pokemmo.eu/oom para mais informação.</string>
+  <string id="82">Erro fatal de render ocorreu.\n\nPor favor coloque a sua console.log (Na pasta Logs) Na secção Bug Reports dos forums.</string>
+  <string id="83">Sistema</string>
+  <!--Author for system generated mail-->
+
+  <string id="84">Erro ao abrir pasta. Por favor contacte o suporte.</string>
+
+  <string id="86">PokeMMO está a correr em modo de compatabilidade.\nA performance será pior.\nVisite https://pokemmo.eu/swr para mais informação.</string>
+  <string id="87">Erro ao gravar configuração.\nPor favor verifique se a aplicação está instalada numa pasta com devidas autorizações.</string>
+
+  <string id="100">Batalha Simples</string>
+  <string id="101">Batalha Dupla</string>
+  <string id="102">Batalha Múltipla</string>
+  <string id="103">Batalha Múltipla (PvP)</string>
+
+  <string id="105">Batalha Simples (Ranqueada)</string>
+  <string id="106">Batalha Dupla (Ranqueada)</string>
+
+  <string id="110">Modo Normal</string>
+  <string id="111">Modo Torneio</string>
+  <string id="120">Você ganhou {00} Pontos de Batalha.</string>
+  <string id="121">Pontos de Batalha</string>
+  <string id="122">Enviar Pedido</string>
+
+  <string id="200">Aceitar Pedido de Batalha</string>
+  <string id="201">Rejeitar Pedido de Batalha</string>
+  <string id="202">Bloquear Usuário ( de entrar em contato consigo )</string>
+  <string id="203">Aceitar Pedido de Troca</string>
+  <string id="204">Rejeitar Pedido de Troca</string>
+
+<!-- DUEL REQUEST -->
+
+  <string id="220">Alvo de Batalha:</string>
+  <string id="221">Tipo de Batalha:</string>
+  <string id="222">Modo de Batalha:</string>
+  <string id="223">Tempo Limite:</string>
+  <string id="224">Classificação Permitida:</string>
+  <string id="225">Cláusulas Ativas:</string>
+  <string id="226">{00} Minutos</string>
+
+  <string id="250">Não foi possível criar um duelo porque a parte {00} viola a cláusula {01}.</string>
+  <string id="251">Não foi possível criar um duelo porque a parte {00} viola as restrições de nível.</string>
+  <string id="252">Não foi possível criar um duelo porque a parte {00} viola a proibição {01+}.</string>
+  <string id="253">Não foi possível criar um duelo porque a parte {00} viola a proibição {02+} durante a cláusula {01}.</string>
+
+<!-- STAT NAMES -->
+
+<!-- UPDATER RELATED -->
+
+<!-- START LOGIN RELATED -->
+
+  <string id="1000">ENTRAR</string>
+  <string id="1001">Nome de Usuário:</string>
+  <string id="1002">Senha:</string>
+  <string id="1003">A iniciar sessão...</string>
+  <string id="1004">Avisos</string>
+  <string id="1005">Registrar</string>
+  <string id="1006">Esqueci-me do Nome de Usuário</string>
+  <string id="1007">Esqueci-me da Senha</string>
+  <string id="1008">Configurações</string>
+  <string id="1009">Sair</string>
+<!-- SERVER SELECT -->
+
+  <string id="1010">Nome do Servidor</string>
+  <string id="1011">Status do Servidor</string>
+  <string id="1012">Entrar no Servidor</string>
+  <string id="1013">SELECIONAR SERVIDOR</string>
+
+<!-- SERVER STATUS -->
+
+  <string id="1021">Desligar</string>
+  <string id="1022">Alto</string>
+  <string id="1023">Cheio</string>
+
+  <string id="1025">Lembre-se de Mim</string>
+
+  <string id="1027">&lt;Salvo&gt;</string>
+  <string id="1028">&lt;Outro Nome de Usuário&gt;</string>
+
+<!-- CHARACTER SELECT/CREATE -->
+
+  <string id="1049">Seleção de Personagem</string>
+  <string id="1050">NOVO PERSONAGEM</string>
+  <string id="1051">CRIAR PERSONAGEM</string>
+  <string id="1052">DEVOLVER</string>
+  <string id="1053">Nome do Personagem:</string>
+  <string id="1054">Nome do Rival:</string>
+  <string id="1055">Género:</string>
+  <string id="1056">Masculino</string>
+  <string id="1057">Feminino</string>
+  <string id="1058">O Personagem selecionado ({00}) não consegue iniciar  sessão.\nInício do Castigo: {01}\nFim do Castigo: {02}\nNota do Castigo: {03}</string>
+  <string id="1059">A Conta selecionada não consegue iniciar  sessão.\nInício do Castigo: {00}\nFim do Castigo: {01}\nNota do Castigo: {02}</string>
+  <string id="1060">Região Inicial:</string>
+  <string id="1061">O nome do personagem {00} foi encontrado em violação do Código de Conduta e foi bloqueado {01}.\n\nVocê não pode usar um nome de personagem:\n► Ofensivo/Palavras impróprias\n► Intenção de personificar outros jogadores\n► Criminoso/Referências as drogas\n► Bobagens\n\nSelecione um novo nome de personagem para continuar:</string>
+
+<!-- QUEUE -->
+
+  <string id="1075">O servidor está cheio, de momento. Por favor aguarde...</string>
+  <string id="1076">Posição Atual na Fila:</string>
+
+  <string id="1080">Não foi possível salvar o bilhete de reconexão. A opção Reconexão ficará indisponível para esta sessão.</string>
+  <string id="1081">TENTAR RECONECTAR</string>
+<!-- HUD -->
+
+  <string id="1100">Bolsa</string>
+  <string id="1101">Treinador</string>
+
+  <string id="1103">Lista de Amigos</string>
+  <string id="1110">Voltar</string>
+  <string id="1111">Configurações</string>
+
+  <string id="1113">Trocar de Canal</string>
+  <string id="1114">Sair</string>
+  <string id="1115"> Tem certeza que deseja sair do PokeMMO?</string>
+  <string id="1116">Loja de Presentes</string>
+  <string id="1117">Grupo</string>
+  <string id="1118">Caixa de Depósito do PC</string>
+  <string id="1119">CAIXA {00}</string>
+  <string id="1120">Time</string>
+  <string id="1121">Jogadores Próximos</string>
+  <string id="1122">Não Há Jogadores Próximos</string>
+  <string id="1123">Você mesmo</string>
+  <string id="1124">Solicitação de Suporte</string>
+  <string id="1125">Selecionar Seguidor</string>
+  <string id="1126">Comunidade</string>
+  <string id="1127">Classificação</string>
+  <string id="1128">Torneios</string>
+
+  <string id="1150">Status de Doador Ativo.</string>
+  <string id="1151">{00} passo(s) de repelente.</string>
+  <string id="1152">{00} passo(s) no safari</string>
+  <string id="1153">Tempo de Jogo</string>
+  <string id="1154">Horário Local</string>
+  <string id="1155">TJ {00}</string>
+  <string id="1156">HL {00}</string>
+  <string id="1157">Horário do Dia</string>
+  <string id="1158">Horário da Noite</string>
+  <string id="1159">Sair</string>
+  <string id="1160">Tem certeza que deseja sair?</string>
+  <string id="1161">JvJ</string>
+<!-- CLIENT/ROM MANAGEMENT -->
+
+  <string id="1170">ROMs Carregados:</string>
+  <string id="1171">Deseja reparar seu cliente de PokeMMO?</string>
+  <string id="1172">Reparar Cliente</string>
+  <string id="1173">Abra  a pasta onde as roms possam ser facilmente armazenadas para uso.\n\nA utilização desta opção não é necessária se tiver selecionado as roms utilizando o menu acima.</string>
+  <string id="1174">Abrir Pasta de Roms</string>
+  <string id="1175">Gerenciamento de Cliente</string>
+  <string id="1176">Arquivo Selecionado</string>
+  <string id="1177">Informação</string>
+  <string id="1178">{00} É necessário para começar o jogo.\n\nPor favor selecione para continuar.</string>
+  <string id="1179">O jogo deve ser reiniciado.</string>
+  <string id="1180">{00} Já está carregado.</string>
+  <string id="1181">Por favor descompacte o arquivo antes de selecionar.</string>
+  <string id="1182">{00} não é válido {01} rom.\n\nNota: Arquivos compactados devem ser descompactados antes de selecionar.</string>
+  <string id="1183">{00} não é um {01} rom.\n\nPor favor verifique se selecionou o jogo correto.</string>
+  <string id="1184">{00} está agora carregado.</string>
+
+  <string id="1186">{00} não está carregado.</string>
+  <string id="1187">O idioma {00} selecionado não é {01}. Alguns textos não serão mostrados em{01}.</string>
+  <string id="1188">O tema selecionado foi revertido devido a uma atualização de cliente.\nO tema pode exigir modificações para ser compatível.</string>
+
+<!-- MOD MANAGEMENT -->
+
+  <string id="1189">Abrir a pasta de Mods</string>
+  <string id="1190">Gerenciamento de Mod</string>
+  <string id="1191">Obter Mods</string>
+  <string id="1192">Autor: {00}</string>
+  <string id="1193">Versão: {00}</string>
+  <string id="1194">Habilitar</string>
+  <string id="1195">Link da Web</string>
+  <string id="1196">Não há link na web para este mod.</string>
+  <string id="1197">Os recursos oficiais de PokeMMO não podem ser desativados.</string>
+  <string id="1198">Mod Debugs Detalhados</string>
+  <string id="1199">Está opção adicionará mais informações para o log/mods.log file.\nEssa opção pode causar demora para o jogo iniciar.</string>
+
+<!-- SETTINGS -->
+
+  <string id="1200">Configurações</string>
+
+  <string id="1202">Som</string>
+  <string id="1203">Controle</string>
+  <string id="1204">Jogabilidade</string>
+  <string id="1205">Outro</string>
+  <string id="1206">Linguagem</string>
+  <string id="1208">Bate-papo</string>
+  <string id="1209">Utilidades</string>
+
+<!-- SETTINGS VIDEO -->
+
+  <string id="1250">Resolução de Vídeo:</string>
+  <string id="1251">Tela Cheia:</string>
+  <string id="1252">Mostrar Telhas da Borda:</string>
+  <string id="1254">Limite de FPS:</string>
+  <string id="1255">Mostre o Fundo da Batalha:</string>
+  <string id="1256">Render o Tempo:</string>
+  <string id="1257">Mostrar o Mundo na Batalha:</string>
+  <string id="1258">Mostrar contador de FPS:</string>
+
+  <string id="1260">Tema:</string>
+  <string id="1261">Pequeno Menu HUD:</string>
+  <string id="1262">Ativar o Modo de Compatibilidade:</string>
+  <string id="1263">Sprites de Batalha de Jogadores Beta:</string>
+
+<!-- SETTINGS SOUND -->
+
+  <string id="1275">Estéreo:</string>
+  <string id="1276">Volume da Música:</string>
+  <string id="1277">Volume dos Efeitos Sonoros:</string>
+  <string id="1279">Volume dos Efeitos de Sistema:</string>
+
+<!-- Mobile Settings -->
+
+  <string id="1286">Nenhum</string>
+
+  <string id="1288">Médio</string>
+  <string id="1289">Alto</string>
+
+<!-- SETTINGS CONTROLS -->
+
+  <string id="1300">Tecla A:</string>
+  <string id="1301">Tecla B:</string>
+  <string id="1302">Tecla Cima:</string>
+  <string id="1303">Tecla Baixo:</string>
+  <string id="1304">Tecla Esquerda:</string>
+  <string id="1305">Tecla Direita:</string>
+  <string id="1306">Tecla de Atalho:</string>
+  <string id="1307">Cartão do Treinador:</string>
+  <string id="1308">Mochila:</string>
+  <string id="1309">Lista de Amigos:</string>
+  <string id="1310">Menu do Jogo:</string>
+  <string id="1311">Esconder GUI:</string>
+  <string id="1312">Perguntas Frequentes:</string>
+  <string id="1313">Time:</string>
+  <string id="1314">Captura de Tela:</string>
+
+<!-- SETTINGS GAMEPLAY -->
+
+  <string id="1321">JvJ</string>
+
+  <string id="1324">Fluente em outro idioma? Ajude-nos a traduzir o PokeMMO.</string>
+  <string id="1325">Velocidade do Texto:</string>
+  <string id="1326">Filtro de Profanidade:</string>
+  <string id="1327">Som de destaque:</string>
+  <string id="1328">Misturar o Mundo na Batalha:</string>
+  <string id="1329">Tema Antigo do Bate-papo:</string>
+  <string id="1330">Balões de Bate-papo:</string>
+  <string id="1332">Idioma do Cliente:</string>
+  <string id="1333">Aguardar até Pressionar as Teclas em Batalha:</string>
+  <string id="1334">Formato da Captura de Tela:</string>
+  <string id="1335">Data/Hora do Bate-papo:</string>
+  <string id="1336">Exibir Tipo de Bate-papo:</string>
+  <string id="1337">Idioma do Bate-papo</string>
+  <string id="1338">Exibir Idioma do Bate-papo:</string>
+  <string id="1339">Bate-papo Visível dos\nIdiomas:</string>
+  <string id="1341">Pré-carregamento dos Sprites dos Seguidores:</string>
+  <string id="1342">Tamanho da Roleta do Bate-papo:</string>
+  <string id="1343">Pedido de Batalha\nSom de Notificação:</string>
+  <string id="1344">Balões de Bate-papo do NPC:</string>
+  <string id="1345">Alternar execução com\na tecla pressionada:</string>
+  <string id="1346">Mostrar os {STRING_0} Sprites\nno Bate-papo:</string>
+  <string id="1347">Mostrar o Próprio Nome do Mundo:</string>
+  <string id="1348">Som de Destaque no Sussurro:</string>
+  <string id="1349">Ativar Suporte ao Controlador:</string>
+
+<!-- SETTINGS OTHER -->
+
+  <string id="1350">Declínio Automático de Pedidos de Duelo:</string>
+  <string id="1351">Declínio Automático de Pedidos de Amizade:</string>
+  <string id="1352">Declínio Automático de Pedidos de Troca:</string>
+  <string id="1353">Declínio Automático de Convites para Times:</string>
+  <string id="1354">Declínio Automático de Convites para Links:</string>
+
+  <string id="1360">Outros</string>
+  <string id="1361">Amigos</string>
+  <string id="1362">Time</string>
+
+  <string id="1375">Algumas configurações que você escolheu não serão ativadas até a próxima reinicialização.</string>
+  <string id="1376">Esvaziar as Cordas para o XML:</string>
+  <string id="1377">Utilitário de Execução</string>
+  <string id="1378">As Cordas XML foram esvaziadas para a pasta 'dump/strings'.</string>
+  <string id="1379">Erro ao executar a tarefa. Por favor certifique-se que você  tem permissão de gravação na pasta do cliente.</string>
+  <string id="1380">Esvaziar os recursos modificáveis.</string>
+  <string id="1381">Os recursos foram esvaziados para a pasta 'dump/resources'.</string>
+  <string id="1382">Esvaziar as Cordas de Enredo:</string>
+  <string id="1383">Este utilitário pode levar algum tempo para ser executado, continuar?\n\nNota: Este utilitário não irá esvaziar os recursos modificáveis.</string>
+  <string id="1384">Tema da Cor 1</string>
+  <string id="1385">Tema da Cor 2</string>
+  <string id="1386">Cor da Barra do Título do Tema:</string>
+
+<!-- BAG -->
+
+  <string id="1400">Bolsa</string>
+  <string id="1401">Itens</string>
+  <string id="1402">Itens Indispensáveis</string>
+  <string id="1403">Cosméticos</string>
+  <string id="1404">Medicamento</string>
+  <string id="1405">Itens de Batalha</string>
+
+  <string id="1410">Usar</string>
+  <string id="1411">Entregar</string>
+  <string id="1412">Registrar</string>
+  <string id="1413">Espaço de Tecla de Atalho #{00}</string>
+
+  <string id="1420">Barra da Tecla de Atalho</string>
+  <string id="1421">Tomar {00}</string>
+  <string id="1422">Usar {00}</string>
+  <string id="1423">Cancelar</string>
+
+  <string id="1425">Não Negociável</string>
+
+  <string id="1450">Item Desconhecido</string>
+  <string id="1451">Seu cliente atualmente não suporta\neste item.\nPor favor verifique se possui todas as roms necessárias.</string>
+<!-- CHAT -->
+
+  <string id="1501">Gritar</string>
+  <string id="1502">Sussurros</string>
+  <string id="1503">Comércio</string>
+
+  <string id="1505">Canal</string>
+  <string id="1506">Sistema de Anúncios</string>
+  <string id="1507">Time</string>
+  <string id="1508">Batalha</string>
+  <string id="1509">Sistema de Mensagens</string>
+
+  <string id="1521">Desculpe, a mensagem contém caracteres não suportados. Por favor tente novamente.</string>
+  <string id="1522">{00} está atualmente desconectado. Por favor tente novamente em breve.</string>
+  <string id="1523">Você agora receberá {00} mensagens de bate-papo.</string>
+  <string id="1524">Por favor especifique um alvo para sussurrar.</string>
+  <string id="1525">Enviar</string>
+  <string id="1526">Sussurrando</string>
+  <string id="1527">{00} está atualmente no modo Não Perturbe.</string>
+  <string id="1528">{00} está atualmente no modo Não Perturbe com a mensagem "{01}".</string>
+  <string id="1529">Você está agora no modo Não Perturbe.</string>
+  <string id="1530">Você não está mais no modo Não Perturbe.</string>
+  <string id="1531">Você precisa estar em um Time para usar o bate-papo de Time.</string>
+  <string id="1532">Configurações da Aba de Bate-papo</string>
+  <string id="1533">Adicionar nova Aba</string>
+  <string id="1534">Nome da Aba:</string>
+  <string id="1535">Tipos de Bate-papo Exibidos:</string>
+  <string id="1536">Adicionar Aba</string>
+  <string id="1537">Atualizar Aba</string>
+  <string id="1538">Remover Aba</string>
+  <string id="1539">Nome da Aba inválido</string>
+  <string id="1540">O Jogador {00} não pôde ser encontrado.</string>
+  <string id="1541">Você não pode sussurrar você mesmo.</string>
+  <string id="1542">Você não pode usar este tipo de Bate-papo.</string>
+  <string id="1543">{00} mensagens podem apenas serem enviadas a cada {01} segundos. Por favor aguarde {02} segundos.</string>
+  <string id="1544">Você mandou muitas mensagens. Por favor aguarde {00} segundos.</string>
+  <string id="1545">Desculpe, a mensagem solicitada era muito grande. Por favor tente novamente.</string>
+  <string id="1546">Opções de Notificação de Som do Bate-papo</string>
+  <string id="1547">Digite a lista de palavras para as quais deseja ouvir as notificações.\n(Separar as palavras por nova linha)</string>
+  <string id="1548">De</string>
+  <string id="1549">Para</string>
+
+  <string id="1551">Gerente de Comunidade</string>
+  <string id="1552">Modificação do Suporte</string>
+  <string id="1553">Modificação do Erro</string>
+  <string id="1554">Modificação Global</string>
+  <string id="1555">Mestre do Jogo Júnior</string>
+  <string id="1556">Mestre do Jogo</string>
+  <string id="1557">Mestre do Jogo Sênior</string>
+  <string id="1558">Mestre do Jogo Principal</string>
+  <string id="1559">Desenvolvedor</string>
+  <string id="1560">Administrador</string>
+  <string id="1599">Amigo</string>
+<!-- TRAINER CARD -->
+
+  <string id="1600">Treinador desde:</string>
+  <!-- DEPRECATED -->
+
+  <string id="1601">Nome:</string>
+  <string id="1602">Dinheiro:</string>
+  <string id="1603">Tempo de Jogo: {00} hora(s).</string>
+  <string id="1604">CARTÃO DE VIRAR</string>
+  <string id="1605">Pontos de Batalha:</string>
+  <string id="1606">Emitido</string>
+
+<!-- FRIENDSLIST -->
+
+  <string id="1649">Amigos</string>
+  <string id="1650">Lista de Amigos</string>
+  <string id="1651">Nome do Jogador</string>
+  <string id="1652">Amigo Desde</string>
+  <string id="1653">Adicionar Amigo</string>
+  <string id="1654">Você deseja remover {00} da sua lista de amigos?</string>
+  <string id="1655">Sem Entradas.</string>
+  <string id="1656">Remover</string>
+  <string id="1657">Você agora é amigo de {00}.</string>
+  <string id="1658">Você não é mais amigo de {00}.</string>
+  <string id="1659">Última vez Online</string>
+  <string id="1660">Lista de Bloqueados</string>
+  <string id="1661">Razão do Bloqueio:</string>
+  <string id="1662">Data do Bloqueio</string>
+  <string id="1663">Desbloquear</string>
+  <string id="1664">Você deseja remover {00} da sua lista de bloqueados?</string>
+  <string id="1665">Bloquear</string>
+  <string id="1666">A lista de bloqueados está cheia.</string>
+  <string id="1667">{00} já está em sua lista de bloqueados.</string>
+  <string id="1668">Você não pode bloquear os funcionários administrativos.</string>
+  <string id="1669">Você bloqueou {00} com a razão "{01}".</string>
+  <string id="1670">Você desbloqueou {00}.</string>
+  <string id="1671">Você não pode bloquear você mesmo.</string>
+  <string id="1672">O jogador {00} bloqueou você.</string>
+  <string id="1673">Você não pode adicionar você mesmo como amigo.</string>
+  <string id="1674">Sua lista de amigos está cheia.</string>
+  <string id="1675">{00} possui a lista de amigos cheia.</string>
+  <string id="1676">Erro ao criar amizade. Uma de suas listas de amigos está cheia.</string>
+  <string id="1677">{00} já está em sua lista de amigos.</string>
+  <string id="1678">Agora</string>
+  <!-- Last online -->
+
+  <string id="1679">{00} dia(s) {01} hora(s) atrás.</string>
+  <!-- Last online -->
+
+  <string id="1680">{00} hora(s) atrás.</string>
+  <!-- Last online -->
+
+  <string id="1681">Você não pode sussurrar um jogador que está em sua lista de bloqueados.</string>
+
+<!-- TRACKER -->
+
+  <string id="1700">Mostrar apenas conhecidos.</string>
+  <string id="1701">Visto:</string>
+  <string id="1702">Possuído:</string>
+  <string id="1703">Resumo</string>
+  <string id="1704">Movimentos</string>
+  <string id="1705">Não.</string>
+  <!-- Number Abbreviation -->
+
+  <string id="1706">Tipo</string>
+  <string id="1707">Descrição</string>
+  <string id="1708">Rendimento de EV</string>
+  <string id="1709">Altura</string>
+  <string id="1710">Peso</string>
+  <string id="1711">NÍVEL</string>
+  <string id="1712">TIPO</string>
+  <string id="1713">PODER</string>
+  <string id="1714">PRECISÃO</string>
+  <string id="1715">PONTOS DE PODER</string>
+  <string id="1716">NOME</string>
+  <string id="1717">Status Base</string>
+  <string id="1720">Pontos de Vida:</string>
+  <string id="1721">Ataque:</string>
+  <string id="1722">Defesa:</string>
+  <string id="1723">Velocidade:</string>
+  <string id="1724">Ataque Especial:</string>
+  <string id="1725">Defesa Especial:</string>
+
+  <string id="1727">Reprodução de Voz</string>
+  <string id="1728">Treinador Original que Capturou:</string>
+  <string id="1729">Ver {STRING_1} Entrada</string>
+
+  <string id="1730">Grupo de Ovos</string>
+  <string id="1731">Nv. {00}</string>
+  <string id="1732">COMEÇAR</string>
+
+  <string id="1750">OVO</string>
+
+  <string id="1752">ESPECIAL</string>
+  <string id="1753">PRÉ EVOLUÇÃO</string>
+
+  <string id="1775">Locais Selvagens</string>
+  <string id="1776">Tipo</string>
+  <string id="1777">Região</string>
+  <string id="1778">Local</string>
+  <string id="1779">Níveis</string>
+  <string id="1781">Raridade</string>
+  <string id="1782">Comum</string>
+  <string id="1783">Incomum</string>
+  <string id="1784">Raro</string>
+  <string id="1785">Grama</string>
+  <string id="1786">Água</string>
+  <string id="1787">Rochas</string>
+  <string id="1788">Pescaria</string>
+
+  <string id="1790">ENXAME</string>
+  <string id="1791">Nenhum local selvagem encontrado.</string>
+  <string id="1792">Caverna</string>
+  <string id="1793">Dentro</string>
+
+  <string id="1795">Especial</string>
+
+<!-- SUMMARY -->
+
+  <string id="1801">Resumo</string>
+
+  <string id="1803">Nome:</string>
+  <string id="1804">Tipo:</string>
+  <string id="1805">Natureza:</string>
+  <string id="1806">Sem Alterações de Status.</string>
+  <string id="1807">TO:</string>
+  <string id="1808">Treinador Original</string>
+  <string id="1809">Pontos de Vida:</string>
+  <string id="1810">Experiência:</string>
+  <string id="1811">Felicidade:</string>
+  <string id="1812">Ataque:</string>
+  <string id="1813">Defesa:</string>
+  <string id="1814">Ataque Especial:</string>
+  <string id="1815">Defesa Especial:</string>
+  <string id="1816">Velocidade:</string>
+  <string id="1817">VE de Pontos de Vida:</string>
+  <string id="1818">VE de Ataque:</string>
+  <string id="1819">VE de Defesa:</string>
+  <string id="1820">VE de Ataque Especial:</string>
+  <string id="1821">VE de Defesa Especial:</string>
+  <string id="1822">VE de Velocidade:</string>
+  <string id="1823">Jogada {00}:</string>
+  <string id="1824">Habilidade:</string>
+  <string id="1825">LIBERAR {00}\n\nEsta função não pode ser desfeita.\n\nSó libere {00}\no que você não deseja mais.</string>
+  <string id="1826">Confirmar Liberação</string>
+  <string id="1827">Você deseja remover {00} de {01}?</string>
+  <string id="1828">Capturado:</string>
+  <string id="1829">Para o Próximo Nv.</string>
+  <string id="1830">VI de Pontos de Vida:</string>
+  <string id="1831">VI de Ataque:</string>
+  <string id="1832">VI de Defesa:</string>
+  <string id="1833">VI de Ataque Especial:</string>
+  <string id="1834">VI de Defesa Especial:</string>
+  <string id="1835">VI de Velocidade:</string>
+  <string id="1836">O que são VIs?</string>
+  <string id="1837">VIs são status herdados dos pais de {STRING_0}\nque decidem a sua proficiência natural.\n\nEles são escolhidos quando o {STRING_0} nasce e\nnão pode ser mudado.\n\nCada VI tem um valor máximo de 31.</string>
+  <string id="1838">O que são VEs?</string>
+  <string id="1839">VEs são esforços de status ganhos ao derrotar \n{STRING_0} selvagens, ou ao dar Vitaminas.\n\nCada {STRING_0} pode ganhar um máximo de 510 VEs.\nEles podem ser removidos com frutos especiais.</string>
+  <string id="1840">Nível:</string>
+  <string id="1841">Espécies:</string>
+  <string id="1842">Item Segurado:</string>
+  <string id="1843">Movimentos:</string>
+  <string id="1844">GIFT,\nThis {STRING_0} was a gift.\nIt cannot be traded.</string>
+  <string id="1845">Digite um novo apelido para {00}:</string>
+  <string id="1846">Informação:</string>
+  <string id="1847">Fitas:</string>
+
+<!-- MOVES -->
+
+  <string id="1850">Poder:</string>
+  <string id="1851">Precisão:</string>
+  <string id="1852">Pontos de Poder:</string>
+  <string id="1853">Custo:</string>
+  <string id="1854">Nome:</string>
+  <string id="1855">Tipo:</string>
+  <string id="1856">Descrição:</string>
+  <string id="1857">Precisão:</string>
+  <string id="1858">Pressione para mostrar os status do {STRING_0} no nível 50 ou 5.</string>
+  <string id="1859">(No Nv. {00})</string>
+  <string id="1860">Este {STRING_0} pode\nreaprender movimentos especiais:\n\n{00}</string>
+  <string id="1861">Prioridade:</string>
+
+<!-- INFO TAB -->
+
+<!-- {00} is {STRING_1871} if from trade -->
+<!-- {01} is action (1872-1874) -->
+<!-- {02} is level (1875) -->
+<!-- {03} is location (1876-1877) -->
+<!-- {04} is capture date (1878) -->
+
+  <string id="1871">Aparentemente</string>
+  <string id="1872">Encontrado</string>
+  <string id="1873">Chocado</string>
+  <string id="1874">Obtido</string>
+  <!-- Only during egg -->
+
+  <string id="1875">No Nv. {00}</string>
+  <string id="1876">\nde uma troca</string>
+  <string id="1877">\nem {00}</string>
+  <string id="1878">\nno {00}</string>
+<!-- Level Cap indicators -->
+
+  <string id="1891">This {STRING_0} has no particles.</string>
+
+<!-- CHANNELS -->
+
+  <string id="1900">Canal {00}</string>
+  <string id="1901">Canal {00} -- Canal Atual</string>
+  <string id="1902">Mudar</string>
+  <string id="1903">Você não pode trocar para o canal em que já está.</string>
+  <string id="1904">Tempo de Recarga: {00} segundos.</string>
+  <string id="1905">Atualmente, você não pode fazer isso por {00} segundo(s).</string>
+  <string id="1906">Definir Canal Preferido</string>
+
+<!-- MART -->
+
+  <string id="1926">Preço: ${00}</string>
+  <string id="1927">Você não tem dinheiro suficiente.</string>
+  <string id="1928">Dinheiro Atual: ${00}</string>
+  <string id="1929">Contagem Atual: x{00}</string>
+  <string id="1930">Preço de Venda: ${00}</string>
+
+<!-- COIN TRADE -->
+
+  <string id="1939">Total: {00} Moedas</string>
+  <string id="1940">Preço: {00} Moedas</string>
+  <string id="1941">Moedas Atuais: {00}</string>
+  <string id="1942">Você não tem moedas suficientes.</string>
+<!-- BP TRADE -->
+
+  <string id="1944">Total: {00} PB</string>
+  <string id="1945">Preço: {00} Pontos de Batalha</string>
+  <string id="1946">Pontos de Batalha: {00}</string>
+  <string id="1947">Você não tem Pontos de Batalha suficientes.</string>
+<!-- ITEM EXCHANGE -->
+
+  <string id="1948">Itens Necessários:</string>
+  <string id="1949">Você não tem todos os itens necessários.</string>
+<!-- TRADE -->
+
+  <string id="1950">Comércio</string>
+  <string id="1951">Lista de Bloqueios</string>
+  <string id="1952">Desbloqueado</string>
+  <string id="1953">Confirmar Troca</string>
+  <string id="1954">Aguardando Confirmação</string>
+  <string id="1955">Lista Bloqueada</string>
+  <string id="1956">Confirmação da Troca</string>
+  <string id="1957">Dinheiro:</string>
+  <string id="1958">O {STRING_0} solicitado não pode ser trocado até atingir o nível {00}.</string>
+  <string id="1959">O {STRING_0} solicitado não pode ser trocado porque está segurando {00} que não pode ser trocado.</string>
+  <string id="1960">Você não pode trocar um OVO.</string>
+  <string id="1961">Você não pode depositar um OVO.</string>
+  <string id="1962">Quantos {00} você deseja trocar?</string>
+  <string id="1963">Você tem certeza de que deseja confirmar a troca?</string>
+  <string id="1964">Para:</string>
+  <string id="1965">Você está trocando:</string>
+  <string id="1966">{00} não é um item trocável.</string>
+  <string id="1967">Itens:</string>
+  <string id="1968">Troca completa.</string>
+  <string id="1969">Troca cancelada.</string>
+  <string id="1970">O {STRING_0} solicitado não pode ser trocado porque foi um presente.</string>
+
+  <string id="1973">The requested {STRING_0} cannot be traded because it has stored up XP.\nPlease level it up before trading.</string>
+
+<!-- LOGIN ERROR MESSAGES -->
+
+  <string id="2000">Erro no Sistema. Por favor, tente novamente mais tarde.</string>
+  <string id="2001">Combinação de nome de usuário/senha inválida.</string>
+  <string id="2002">Não existem servidores de jogos disponíveis. Por favor, tente novamente mais tarde.</string>
+  <string id="2003">A sessão foi encerrada pelo usuário.</string>
+  <string id="2004">O servidor selecionado está atualmente desativado. Por favor, tente novamente mais tarde.</string>
+  <string id="2005">A conta que você está tentando acessar foi fechada.\nSe nenhuma razão for exibida acima, isso pode ser devido a um estorno.</string>
+  <string id="2006">O servidor selecionado está atualmente restrito a funcionários. Por favor, tente novamente mais tarde.</string>
+  <string id="2007">Você não pode acessar o jogo através deste IP.</string>
+  <string id="2008">Você introduziu sua senha incorretamente muitas vezes.\nPor favor, tente novamente mais tarde.</string>
+  <string id="2009">Erro ao conectar ao servidor de autorização. Por favor, tente novamente mais tarde.</string>
+  <string id="2010">Revisão de Termos de Serviço inválida. Seu cliente pode estar desatualizado. Por favor, verifique os fóruns para obter mais suporte.</string>
+  <string id="2011">Você não pode acessar o jogo através deste IP. Ele está listado em uma lista de bloqueios.</string>
+  <string id="2012">Esta conta não tem acesso ao PokeMMO Android Alpha. Por favor, tente novamente mais tarde.</string>
+  <string id="2013">Não é possível iniciar sessão através deste endereço de IP.</string>
+  <string id="2014">Erro ao conectar ao servidor do jogo. Por favor, tente novamente mais tarde.</string>
+  <string id="2015">O ticket de autenticação salvo foi inválido ou expirou. Por favor, inicie a sessão normalmente.</string>
+
+  <string id="2020">Sua conta ainda está conectada.\nDeseja reconectar-se à sessão existente?</string>
+
+<!-- CHARACTER CREATE ERROR MESSAGES -->
+
+  <string id="2100">Sua conta está atualmente cheia. Você não pode criar nenhum novo personagem.</string>
+  <string id="2101">Nome de personagem inválido. Por favor, digite de 2-16 caracteres sem números ou símbolos.</string>
+  <string id="2102">Nome de personagem já existente.</string>
+  <string id="2103">Erro no Sistema. Por favor, tente novamente mais tarde.</string>
+  <string id="2104">Gênero Inválido.</string>
+  <string id="2105">Cor Inválida.</string>
+  <string id="2106">Nome do rival inválido. Por favor, digite de 1-7 caracteres sem números ou símbolos.</string>
+  <string id="2107">Dados de aparência do jogador inválidos.</string>
+  <string id="2108">Seu cliente não suporta a região selecionada.\nPor favor, verifique se você possui todas as ROMs requeridas.</string>
+
+<!-- REQUESTS -->
+
+  <string id="2200">{00} solicitou um {04} duelo com você.\n\n{STRING_0} Contagem: {01}\n{STRING_0} Nível Médio: {02}\n{STRING_0} Nível Máx: {03}\nModo de Duelo: {05}\nTempo Limite: {06}\nClassificação Permitida: {07}\nCláusulas: {08}\n\nDeseja aceitar?</string>
+  <string id="2201">{00} Solicitou você como amigo.\nDeseja aceitar?</string>
+  <string id="2202">{00} solicitou uma troca com você.\nDeseja aceitar?</string>
+  <string id="2203">{00} convidou você para o time {01}.\nDeseja aceitar?</string>
+  <string id="2204">{00} solicitou um link para você.\nDeseja aceitar?</string>
+<!-- PLAYER MENU -->
+
+  <string id="2250">Duelo</string>
+  <string id="2251">Sussurro</string>
+  <string id="2252">Comércio</string>
+  <string id="2253">Adicionar Amigo</string>
+  <string id="2254">Remover Amigo</string>
+  <string id="2255">Bloquear</string>
+  <string id="2256">Não Convocável</string>
+  <string id="2257">Espectador</string>
+  <string id="2258">Convidar para Link</string>
+  <string id="2259">Janela de Sussurro</string>
+
+<!-- PC MENU -->
+
+  <string id="2300">Resumo</string>
+  <string id="2301">Mover para</string>
+  <string id="2302">Liberar</string>
+  <string id="2303">Subir</string>
+  <string id="2304">Descer</string>
+
+  <string id="2310">Tem certeza de que deseja liberar {00}?</string>
+  <string id="2311">Tem certeza de que deseja liberar {00}?\n\nLiberando {00} também excluirá o {01}.</string>
+
+  <string id="2350">Qual função você gostaria acessar?</string>
+  <string id="2351">PC do {01}</string>
+  <string id="2352">Relação de Comércio Global</string>
+  <string id="2353">Correio</string>
+
+<!-- MISC WINDOW TITLES -->
+
+  <string id="2400">Perguntas Frequentes</string>
+
+<!-- LINK RELATED -->
+
+  <string id="2500">Chute do Link</string>
+  <string id="2501">Deixar Link</string>
+
+<!-- BREEDING DIALOG -->
+
+  <string id="2525">Reprodução</string>
+  <string id="2526">Coloque um dos pais aqui.</string>
+  <string id="2527">Coloque o pai oposto aqui.</string>
+  <string id="2528">\nReproduzir\n</string>
+  <!-- Extra \n for positioning -->
+
+  <string id="2529">\nEsses dois {STRING_0}\nnão podem reproduzirem juntos.\n</string>
+  <string id="2530">Herança garantida devido a {00}</string>
+  <string id="2531">Possível herança devido a {00}</string>
+  <string id="2532">Qualquer natureza pode ocorrer.</string>
+  <string id="2533">Movimento normalmente aprendido.</string>
+  <string id="2534">Movimento normalmente aprendido, ensinado precocemente pelos pais.</string>
+  <string id="2535">{STRING_3} movimento aprendido por um pai.</string>
+  <string id="2536">Movimento de OVO aprendido por um pai.</string>
+  <string id="2537">Movimento especial, devido a um item segurado por um pai.</string>
+  <string id="2538">Esta repdrodução {STRING_0} não conta para o 'Treinador Original que capturou {STRING_1}'\nporque seu pai principal não tem seu TO.</string>
+  <string id="2539">Treinador Original: {00}</string>
+  <string id="2540">Treinador Original Desconhecido.</string>
+
+<!-- EVO TYPES -->
+
+  <string id="2550">Árvore de Evolução</string>
+  <string id="2551">Felicidade</string>
+
+  <string id="2554">Nível {00}</string>
+  <string id="2555">Comércio</string>
+  <string id="2556">Troque enquanto segura {00}</string>
+
+  <string id="2558">Usar Item {00}</string>
+  <string id="2559">Nível {00} - Status de Ataque maior que a Defesa</string>
+  <string id="2560">Nível {00} - Status de Ataque igual a Defesa</string>
+  <string id="2561">Nível {00} - Status de Ataque menor que a Defesa</string>
+  <string id="2562">Aleatório</string>
+  <string id="2563">Aleatório</string>
+  <string id="2564">Nível {00}</string>
+  <string id="2565">Nível {00} - Espaço no grupo com um {STRING_240004}</string>
+  <string id="2566">Status de Alta Beleza</string>
+
+<!-- GUILD RELATED -->
+
+  <string id="2600">{00} agora é membro do time {01}.</string>
+
+<!-- GUILD WINDOW -->
+
+<!-- CUSTOMIZATION -->
+
+  <string id="2803">Nenhum</string>
+
+  <string id="2809">Clothing and hairstyles can be bought at\nMarts, in the {STRING_3000}, and\nsome other places in the world.\n\nYour base appearance can only be changed\nwith a {STRING_100009}, found in the {STRING_3000}.</string>
+
+<!-- SUPPORT REQUEST -->
+
+  <string id="2900">Solicitação de Suporte</string>
+
+  <string id="2903">Tipo:</string>
+  <string id="2904">Enviar Pedido</string>
+
+<!-- GIFTSHOP -->
+
+  <string id="3000">Loja de Presentes</string>
+
+  <string id="3013">Erro no Sistema. Por favor, tente novamente mais tarde.</string>
+
+  <string id="3021">Nome</string>
+
+<!-- WARDROBE -->
+
+  <string id="3201">Preço</string>
+
+  <string id="3349">Selected Adjacent {STRING_0}</string>
+  <string id="3350">Selected {STRING_0}</string>
+
+  <string id="3353">Selected {STRING_0} Foe</string>
+  <string id="3354">All Adjacent {STRING_0}</string>
+
+  <string id="3358">Tudo</string>
+
+  <string id="3363">Especial</string>
+
+  <string id="3401">Can be prevented with {STRING_110182}/{STRING_110197}.</string>
+  <string id="3402">Can be reflected by {STRING_110277}.</string>
+  <string id="3403">Can be stolen by {STRING_110289}.</string>
+  <string id="3404">Can be copied by {STRING_110119}.</string>
+  <string id="3405">Can be used with {STRING_240187}.</string>
+  <string id="3406">Sound based; Prevented by {STRING_210043}.</string>
+  <string id="3407">Bypasses {STRING_110164}.</string>
+
+  <string id="3525">Does 2x damage to {STRING_0} in the\n  semi-invulnerable turn of {STRING_110091}.</string>
+  <string id="3526">Does 2x damage to {STRING_0} in the\n  semi-invulnerable turn of {STRING_110019} and {STRING_110340}.</string>
+  <string id="3527">Does 2x damage to {STRING_0} in the\n  semi-invulnerable turn of {STRING_110291}.</string>
+
+  <string id="3528">Can hit {STRING_0} in the\n  semi-invulnerable turn of {STRING_110091}.</string>
+  <string id="3529">Can hit {STRING_0} in the\n  semi-invulnerable turn of {STRING_110019} and {STRING_110340}.</string>
+  <string id="3530">Can hit {STRING_0} in the\n  semi-invulnerable turn of {STRING_110091},\n  {STRING_110019}, {STRING_110340}, and {STRING_110291}.</string>
+
+  <string id="3533">Boosts the SP.DEFENSE of Rock-type {STRING_0} by half while active.</string>
+
+  <string id="3538">This Normal-type move can affect Ghost-type {STRING_0}</string>
+  <string id="3539">Will never miss if used by a Poison-type {STRING_0}</string>
+
+<!-- BATTLE RELATED -->
+
+  <string id="5006">But {00} can't steal from fainted {STRING_0}.</string>
+
+  <string id="5012">But the wild {STRING_0} doesn't have\nany money!</string>
+
+  <string id="5022">{00} {01} sent\nout all of their {STRING_0}!</string>
+
+  <string id="5031">Select your {STRING_0} for Slot {00}:</string>
+
+  <string id="5103">Switch current {STRING_0}.</string>
+
+<!-- BATTLE STATUS INFO -->
+
+<!-- MATCHMAKING RELATED -->
+
+  <string id="5509">Stats of this match will be recorded and reflect on the leaderboards.\n\nOnly {STRING_0} level 50 or above may be used.</string>
+
+  <string id="5511">{STRING_0} Rental</string>
+  <string id="5512">Guardar</string>
+
+  <string id="5515">Registrar</string>
+
+  <string id="5536">Torneios</string>
+
+  <string id="5605">Could not signup for matchmaking because one of your {STRING_0} is banned from matchmaking.</string>
+
+  <string id="5659">Batalha</string>
+
+  <string id="5667">Espectador</string>
+
+  <string id="5711">You may only sleep one of your opponent's \n{STRING_0} at a time.</string>
+
+  <string id="5714">If you faint your opponent's last {STRING_0} \nwith a move that also faints your own last \n{STRING_0}, you lose.</string>
+  <string id="5715">All {STRING_0} must use a unique held item.</string>
+  <string id="5716">{STRING_245221}, {STRING_245327}, {STRING_245217},\n{STRING_245213}, {STRING_245230}, and {STRING_245255}\ncan not be used.</string>
+  <string id="5730">All {STRING_0} must not be above level 50.</string>
+
+<!-- MAIL -->
+
+  <string id="5807">Você não tem dinheiro suficiente.</string>
+
+  <string id="5809">The requested attached {STRING_0} could not be found.</string>
+  <string id="5810">You cannot mail your last alive {STRING_0}.</string>
+
+  <string id="5812">Você não pode trocar um OVO.</string>
+
+  <string id="5814">O {STRING_0} solicitado não pode ser trocado porque foi um presente.</string>
+
+  <string id="5827">Correio</string>
+
+  <string id="5833">Attached {STRING_0}</string>
+
+  <string id="5846">You can only attach {STRING_0}, items and money from the PC.</string>
+
+  <string id="5852">Você não tem dinheiro suficiente.</string>
+
+  <string id="5854">The requested attached {STRING_0} could not be found.</string>
+  <string id="5855">You cannot sell your last alive {STRING_0}.</string>
+
+  <string id="5858">The requested attached {STRING_0} is holding an item. Please remove it to continue.</string>
+  <string id="5859">O {STRING_0} solicitado não pode ser trocado porque foi um presente.</string>
+
+  <string id="5863">You have reached the maximum amount of active {STRING_0} listings.</string>
+
+<!-- GAME MESSAGES -->
+
+  <string id="6014">O Jogador {00} não pôde ser encontrado.</string>
+
+  <string id="6039">You are only permitted to swap a single {STRING_0}.</string>
+  <string id="6040">{STRING_0} swaps are currently\ndisabled for this battle.</string>
+
+<!-- LINK RELATED -->
+
+  <string id="6061">Obtained {00}\n{STRING_6} decoration item.</string>
+
+  <string id="6067">{00} used its {STRING_240194}!</string>
+
+  <string id="6081">None of your {STRING_0} know {00}!</string>
+
+<!-- NICKNAME -->
+
+<!-- PARTICLE -->
+
+<!-- HIDOUT -->
+
+  <string id="6750">Create {STRING_6} here</string>
+  <string id="6751">Enter {00}'s {STRING_6}</string>
+  <string id="6752">Cannot enter {00}'s {STRING_6}.\nThey may no longer be online, or you no longer have permission.</string>
+  <string id="6753">Cannot enter {STRING_6}.\nThe owner may no longer be online, or you no longer have permission.</string>
+
+<!-- PING RELATED -->
+
+<!-- DISCONNECT MESSAGES -->
+
+<!-- OVERWORLD LEGENDARIES -->
+
+  <string id="6906">The wild {00} forces itself to walk outside of its {STRING_240004}.</string>
+  <!-- Follower change attempt message -->
+
+  <string id="6907">A {STRING_240001} cannot be used on\nthis wild {STRING_0}.</string>
+
+  <string id="6910">This species of {STRING_0} is too shy to come out of the {STRING_245004}.</string>
+
+<!-- TOOLTIP MESSAGES -->
+
+  <string id="7000">• Always confirm your trades before final confirmation.\n• Make sure you have enough free slots in your party, or the trade will fail.\n• When a shiny {STRING_0} is placed in trade slot it will have a special gold outline:</string>
+  <string id="7001">Party Slot shortcuts:\n\n• Right Click ➤ Open popup menu.\n• Ctrl + Right Click ➤ Open {STRING_0} window.\n• Ctrl + Left Click ➤ Move to first free slot.\n• Shift + Left Click ➤ Multiselect.\n• Alt + Left Click ➤ Move to tab popup.\n• Shift + Ctrl + Left Click ➤ Release popup.</string>
+
+<!-- INSTANCE INFO -->
+
+  <string id="7901">Região</string>
+
+<!-- TRADE HOUSE -->
+
+  <string id="8000">Relação de Comércio Global</string>
+  <string id="8001">{STRING_0} Listings</string>
+
+  <string id="8009">Vender</string>
+
+  <string id="8012">Preço</string>
+
+  <string id="8014">Comprar</string>
+
+  <string id="8020">Cancelar</string>
+
+  <string id="8025">You have obtained {00} {01}(s) from the {STRING_8000}.</string>
+  <string id="8026">You have been mailed {00} {01}(s) from the {STRING_8000}.</string>
+  <string id="8027">You have obtained ${00} from the {STRING_8000}.</string>
+
+  <string id="8034">Comércio</string>
+
+<!-- SEARCH -->
+
+  <string id="8107">Grupo de Ovos</string>
+
+  <!-- Shop dialog -->
+
+  <string id="8580">A {STRING_100045} is required to harvest seeds.</string>
+  <string id="8581">A {STRING_240372} is required to crush berries.</string>
+
+<!-- TOURNAMENTS -->
+
+  <string id="9152">Torneios</string>
+
+  <string id="9155">Nome</string>
+
+<!-- BAG SUBCATEGORIES -->
+
+  <string id="10503">{STRING_240273}:</string>
+
+  <string id="10999">\n\nUse to assign this particle to a {STRING_0}.\n\nCan only be used once.</string>
+
+  <string id="11200">Unique to shiny {STRING_0}.</string>
+
+<!-- 11400-11599 are particle item description string ids. -->
+
+  <string id="11402">{STRING_11202}{STRING_10999}</string>
+  <string id="11403">{STRING_11203}{STRING_10999}</string>
+  <string id="11404">{STRING_11204}{STRING_10999}</string>
+  <string id="11405">{STRING_11205}{STRING_10999}</string>
+  <string id="11406">{STRING_11206}{STRING_10999}</string>
+  <string id="11407">{STRING_11207}{STRING_10999}</string>
+  <string id="11408">{STRING_11208}{STRING_10999}</string>
+  <string id="11409">{STRING_11209}{STRING_10999}</string>
+  <string id="11410">{STRING_11210}{STRING_10999}</string>
+  <string id="11411">{STRING_11211}{STRING_10999}</string>
+
+<!-- CUSTOM MULTICHOICE -->
+
+<!-- CUSTOM ITEMS -->
+
+  <string id="100001">An untradeable item to be held by a {STRING_0}.\nIt makes the holder forget any new battle\nexperience while retaining effort values.</string>
+
+  <string id="100016">An item to be held by a {STRING_0} when\nbreeding. Holding this item will make the\n{STRING_0}'s Hp IV the dominant trait.\nThis item is consumed upon use.</string>
+
+  <string id="100018">An item to be held by a {STRING_0} when\nbreeding. Holding this item will make the\n{STRING_0}'s Attack IV the dominant trait.\nThis item is consumed upon use.</string>
+
+  <string id="100020">An item to be held by a {STRING_0} when\nbreeding. Holding this item will make the\n{STRING_0}'s Defense IV the dominant\ntrait.\nThis item is consumed upon use.</string>
+
+  <string id="100022">An item to be held by a {STRING_0} when\nbreeding. Holding this item will make the\n{STRING_0}'s Special Attack IV the\ndominant trait.\nThis item is consumed upon use.</string>
+
+  <string id="100024">An item to be held by a {STRING_0} when\nbreeding. Holding this item will make the\n{STRING_0}'s Special Defense IV the\ndominant trait.\nThis item is consumed upon use.</string>
+
+  <string id="100026">An item to be held by a {STRING_0} when\nbreeding. Holding this item will make the\n{STRING_0}'s Speed IV the dominant trait.\nThis item is consumed upon use.</string>
+
+  <string id="100028">A ticket required to sail between\nthe {STRING_250000} and {STRING_250001} regions.</string>
+
+  <string id="100032">A pill that can be used to switch the\nability of a {STRING_0}.\nIs consumed on use.</string>
+
+  <string id="100034">A scary looking snack.\n\nIt restores the HP of one {STRING_0}\nby a random amount.</string>
+
+  <string id="100081">A fancy looking snack.\n\nIt restores the HP of one {STRING_0}\nby a random amount.</string>
+
+  <string id="100095">A delicious looking fruit.\nUnfortunately there's nothing written on it.\n\nIt restores the HP of one {STRING_0} slightly.</string>
+
+  <string id="101127">A charm which increases the chance to\nencounter a shiny {STRING_0}.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 5% bonus.</string>
+
+  <string id="101130">{STRING_245231} (Small)</string>
+
+  <string id="101200">{STRING_270600}</string>
+  <string id="101201">Raises the {STRING_310418} of\na {STRING_0}.</string>
+  <string id="101202">{STRING_270601}</string>
+  <string id="101203">Raises the {STRING_310419} of\na {STRING_0}.</string>
+  <string id="101204">{STRING_270602}</string>
+  <string id="101205">Raises the {STRING_310420} of\na {STRING_0}.</string>
+  <string id="101206">{STRING_270603}</string>
+  <string id="101207">Raises the {STRING_310421} of\na {STRING_0}.</string>
+  <string id="101208">{STRING_270604}</string>
+  <string id="101209">Raises the {STRING_310422} of\na {STRING_0}.</string>
+  <string id="101210">{STRING_270612}</string>
+  <string id="101211">Raises all contest stats of\na {STRING_0}.</string>
+  <string id="101212">{STRING_270600} Plus</string>
+  <string id="101213">Greatly raises the {STRING_310418} of\na {STRING_0}.</string>
+  <string id="101214">{STRING_270601} Plus</string>
+  <string id="101215">Greatly raises the {STRING_310419} of\na {STRING_0}.</string>
+  <string id="101216">{STRING_270602} Plus</string>
+  <string id="101217">Greatly raises the {STRING_310420} of\na {STRING_0}.</string>
+  <string id="101218">{STRING_270603} Plus</string>
+  <string id="101219">Greatly raises the {STRING_310421} of\na {STRING_0}.</string>
+  <string id="101220">{STRING_270604} Plus</string>
+  <string id="101221">Greatly raises the {STRING_310422} of\na {STRING_0}.</string>
+  <string id="101222">{STRING_270612} Plus</string>
+  <string id="101223">Greatly raises all contest stats of\na {STRING_0}.</string>
+  <string id="101224">{STRING_270611}</string>
+  <string id="101225">Lowers all contest stats of\na {STRING_0}.</string>
+
+  <string id="101300">{STRING_110015} Ocarina</string>
+  <string id="101301">Summons a {STRING_0} which will use\n{STRING_110015} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101302">{STRING_110019} Ocarina</string>
+  <string id="101303">Summons a {STRING_0} which will use\n{STRING_110019} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101304">{STRING_110057} Ocarina</string>
+  <string id="101305">Summons a {STRING_0} which will use\n{STRING_110057} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101306">{STRING_110070} Ocarina</string>
+  <string id="101307">Summons a {STRING_0} which will use\n{STRING_110070} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101308">{STRING_110148} Ocarina</string>
+  <string id="101309">Summons a {STRING_0} which will use\n{STRING_110148} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101310">{STRING_110249} Ocarina</string>
+  <string id="101311">Summons a {STRING_0} which will use\n{STRING_110249} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101312">{STRING_110127} Ocarina</string>
+  <string id="101313">Summons a {STRING_0} which will use\n{STRING_110127} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101314">{STRING_110291} Ocarina</string>
+  <string id="101315">Summons a {STRING_0} which will use\n{STRING_110291} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+
+<!-- Charms allocation -->
+
+  <string id="101400">{STRING_101120} (+25%)</string>
+  <string id="101401">{STRING_101120} (+50%)</string>
+  <string id="101402">{STRING_101120} (+100%)</string>
+  <string id="101403">{STRING_101122} (+25%)</string>
+  <string id="101404">{STRING_101122} (+50%)</string>
+  <string id="101405">{STRING_101122} (+100%)</string>
+  <string id="101406">{STRING_101124} (+25%)</string>
+  <string id="101407">{STRING_101124} (+50%)</string>
+  <string id="101408">{STRING_101124} (+100%)</string>
+  <string id="101409">{STRING_101126} (+10%)</string>
+  <string id="101410">{STRING_101126} (+15%)</string>
+  <string id="101411">{STRING_101126} (+20%)</string>
+  <string id="101412">{STRING_101128} (+25%)</string>
+  <string id="101413">{STRING_101128} (+50%)</string>
+  <string id="101414">{STRING_101128} (+100%)</string>
+
+<!-- Transform potion allocation -->
+
+  <string id="101500">{STRING_101116} (Elfbot)</string>
+  <string id="101501">{STRING_101118} (Elfbot)</string>
+  <string id="101502">{STRING_101116} (Robosanta)</string>
+  <string id="101503">{STRING_101118} (Robosanta)</string>
+  <string id="101504">{STRING_101116} (Elf)</string>
+  <string id="101505">{STRING_101118} (Elf)</string>
+
+<!-- ADDON NAMES -->
+
+<!-- Colors -->
+
+  <string id="120168">An attack which steals the foe's held\nitem if the user isn't already holding one.\n\nIts effects are temporary when stealing\nfrom Trainers.\n\nIt will not steal from a wild {STRING_0} if\nthey faint.</string>
+
+  <string id="120230">Expels a sweet scent which lowers\nthe foe's Evasion.\n\nIt lures hordes of {STRING_0} when\nused in tall grass, but requires more PP.</string>
+
+  <string id="120273">A turn after this move is used,\nit heals the {STRING_0} in the user's\ncurrent position by half of the\nuser's max HP.</string>
+  <string id="120301">An attack which lasts 5 turns,\nbecoming stronger every time it hits.\n\nIts power is doubled if\n{STRING_110111} was used.</string>
+  <string id="120343">An attack which steals the foe's held\nitem if the user isn't already holding one.\n\nIts effects are temporary when stealing\nfrom Trainers.\n\nIt will not steal from a wild {STRING_0} if\nthey faint.</string>
+
+<!--EVENT MOVES-->
+
+  <string id="135037">A very bitter herb.\n\nIt revives a {STRING_0} to half its max HP\nif they were fainted.</string>
+  <string id="135158">When held by a {STRING_0},\nif their HP falls below half,\nit will heal for a quarter of their max HP.</string>
+
+  <string id="135220">An item to be held by a {STRING_0}.\nHolding this item will increase\nAttack by 50% when in battle,\nbut only allows the use of\nthe first move selected.</string>
+  <string id="135222">An item to be held by a {STRING_0}.\n\nIt increases the power of\nBug-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+
+  <string id="135225">A special item to be held by a\n{STRING_150380} or {STRING_150381}.\n\nIt increases the power of their\nPsychic-type and Dragon-type moves by 20%.</string>
+  <string id="135228">When held by a {STRING_0},\nit increases the chance to escape from\na wild {STRING_0}.</string>
+  <string id="135229">An item to be held by a {STRING_0}.\n\nThe holding {STRING_0} is prevented\nfrom evolving.\n\nIf held by a {STRING_0} while breeding,\nthe child will always have the holder's Nature.</string>
+
+  <string id="135233">An item to be held by a {STRING_0}.\n\nIt increases the power of\nSteel-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135234">An item to be held by a {STRING_0}.\nWhen in battle, 6.25% of the holder's HP\nis restored at the end of each turn.</string>
+  <string id="135236">An item to be held by {STRING_150025}\nwhich doubles its Attack and Sp.Attack\nwhen in battle.\n\nIf held by a {STRING_150025} while breeding a\n{STRING_150172},\nit will learn {STRING_110344}.</string>
+  <string id="135237">An item to be held by a {STRING_0}.\n\nIt increases the power of\nGround-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135238">An item to be held by a {STRING_0}.\n\nIt increases the power of\nRock-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135239">An item to be held by a {STRING_0}.\n\nIt increases the power of\nGrass-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135240">An item to be held by a {STRING_0}.\n\nIt increases the power of\nDark-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135241">An item to be held by a {STRING_0}.\n\nIt increases the power of\nFighting-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135242">An item to be held by a {STRING_0}.\n\nIt increases the power of\nElectric-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135243">An item to be held by a {STRING_0}.\n\nIt increases the power of\nWater-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135244">An item to be held by a {STRING_0}.\n\nIt increases the power of\nFlying-type moves by 20%..\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135245">An item to be held by a {STRING_0}.\n\nIt increases the power of\nPoison-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135246">An item to be held by a {STRING_0}.\n\nIt increases the power of\nIce-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135247">An item to be held by a {STRING_0}.\n\nIt increases the power of\nGhost-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135248">An item to be held by a {STRING_0}.\n\nIt increases the power of\nPsychic-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135249">An item to be held by a {STRING_0}.\n\nIt increases the power of\nFire-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135250">An item to be held by a {STRING_0}.\n\nIt increases the power of\nDragon-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135251">An item to be held by a {STRING_0}.\n\nIt increases the power of\nNormal-type moves by 20%.\n\nIt is popular among certain Move Tutors.</string>
+  <string id="135253">An item to be held by a {STRING_0}.\nIt restores HP to the holder equal to\n12.5% of damage inflicted by a move.\nThe effects of this item can be\nnullified by the ability {STRING_110377}.</string>
+  <string id="135254">An item to be held by a {STRING_0}.\nIt increases the power of\nWater-type moves by 20%.\n\nIf held by a {STRING_150183} or\n{STRING_150184} while breeding,\nit may help them produce a {STRING_150298} egg.</string>
+  <string id="135255">An item to be held by a {STRING_0}.\n\nIt slightly reduces\nthe foe's Accuracy.\n\nIf held by a {STRING_150202} while breeding,\nit may help them produce a {STRING_150360} egg.</string>
+  <string id="135266">An item to be held by a {STRING_0}.\nIt boosts the power of Physical moves by 10%.</string>
+  <string id="135268">An item to be held by a {STRING_0}.\nIt boosts the power of Super Effective moves by 20%.</string>
+  <string id="135269">An item to be held by a {STRING_0}.\nIf the holder uses the moves\n{STRING_110113} or {STRING_110115}, their effects\nwill be increased from 5 to 8 turns.</string>
+  <string id="135270">An item to be held by a {STRING_0}.\nHolding this item will increase\nthe power of moves by 30% when in battle,\nbut at the cost of 10% of user's Maximum HP per-turn.</string>
+  <string id="135275">An item to be held by a {STRING_0}.\nIf it has full HP,\nThe holder will endure a potential KO attack\nwith 1HP.\n\nThis item is consumed upon use.</string>
+  <string id="135277">An item to be held by a {STRING_0}.\nIt boosts the power of a move by 20%\nfor each consecutive use,\nup to a maximum increase of 100%.</string>
+  <string id="135281">An item to be held by a {STRING_0}.\nWhen held by a {STRING_230003}-type {STRING_0} in battle,\n6.25% of the holder's HP\nis restored at the end of each turn.\n\nWhen held by a Non-{STRING_230003}-type {STRING_0},\nit inflicts 12.5% of damage\n at the end of each turn.\n{STRING_0} with the ability {STRING_210098} are immune to this effect.</string>
+  <string id="135286">When held by a {STRING_0},\nit causes binding moves used by\nthe holder to always continue for 7 turns.</string>
+  <string id="135287">An item to be held by a {STRING_0}.\nHolding this item will increase\nSpeed by 50% when in battle,\nbut only allows the use\nof the first move selected.</string>
+  <string id="135288">An item to be held by a {STRING_0}.\nIt inflicts the holder with 12.5% of\nits maximum HP each turn.\n\nIf the holder is hit with a move that makes contact\nthe {STRING_245288} will latch onto the opponent.\n\n{STRING_0} with the ability{STRING_210098}\ndo not take damage from this item.</string>
+  <string id="135289">An item to be held by a {STRING_0}\nwhen breeding.\n\nHolding this item will guarantee the\nchild inherits this {STRING_0}'s Attack IV.\n\nThis item is consumed upon use.</string>
+  <string id="135290">An item to be held by a {STRING_0}\nwhen breeding.\n\nHolding this item will guarantee the\nchild inherits this {STRING_0}'s Defense IV.\n\nThis item is consumed upon use.</string>
+  <string id="135291">An item to be held by a {STRING_0}\nwhen breeding.\n\nHolding this item will guarantee the\nchild inherits this {STRING_0}'s Sp.Atk IV.\n\nThis item is consumed upon use.</string>
+  <string id="135292">An item to be held by a {STRING_0}\nwhen breeding.\n\nHolding this item will guarantee the\nchild inherits this {STRING_0}'s Sp.Def IV.\n\nThis item is consumed upon use.</string>
+  <string id="135293">An item to be held by a {STRING_0}\nwhen breeding.\n\nHolding this item will guarantee the\nchild inherits this {STRING_0}'s Speed IV.\n\nThis item is consumed upon use.</string>
+  <string id="135294">An item to be held by a {STRING_0}\nwhen breeding.\n\nHolding this item will guarantee the\nchild inherits this {STRING_0}'s HP IV.\n\nThis item is consumed upon use.</string>
+  <string id="135297">An item to be held by a {STRING_0}.\nHolding this item will increase\nSp.Atk by 50% when in battle,\nbut only allows the use of\nthe first move selected.</string>
+  <string id="135314">An item to be held by a {STRING_0}.\nIt increases the power of\nPsychic-type moves by 20%.\n\nIf held by a {STRING_150122} while breeding,\nit may help them produce a {STRING_150439} egg.</string>
+  <string id="135315">An item to be held by a {STRING_0}.\nIt increases the power of\nRock-type moves by 20%.\n\nIf held by a {STRING_150185} while breeding,\nit may help them produce a {STRING_150438} egg.</string>
+  <string id="135316">An item to be held by a {STRING_0}.\nit causes the {STRING_0} to move last \nwhen using a move of the same\npriority as the opponent.\n\nIf held by a {STRING_150143} while breeding,\nit may help them produce a {STRING_150446} egg.</string>
+  <string id="135316">An item to be held by a {STRING_0}.\nit causes the {STRING_0} to move last \nwhen using a move of the same\npriority as the opponent.\n\nIf held by a {STRING_150143} while breeding,\nit may help them produce a {STRING_150446} egg.</string>
+  <string id="135317">An item to be held by a {STRING_0}.\nIt increases the power of\nWater-type moves by 20%.\n\nIf held by a {STRING_150226} while breeding,\nit may help them produce a {STRING_150458} egg.</string>
+  <string id="135318">An item to be held by a {STRING_0}.\nIt increases the power of\nGrass-type moves by 20%.\n\nIf held by a {STRING_150315} or\n{STRING_150407} while breeding,\nit may help them produce a {STRING_150406} egg.</string>
+  <string id="135319">An item to be held by a {STRING_0}.\n\nIf held by a {STRING_150113} while breeding,\nit may help them produce a {STRING_150440} egg.</string>
+  <string id="135320">An item to be held by a {STRING_0}.\n\nIt slightly reduces\nthe chance of encountering wild {STRING_0}.\n\nIf held by a {STRING_150358} while breeding,\nit may help them produce a {STRING_150433} egg.</string>
+  <string id="135526">An item to be held by {STRING_150373}\nwhich raises its Sp.Attack.</string>
+  <string id="135527">An item to be held by {STRING_150373}\nwhich raises its Sp.Defense.</string>
+  <string id="135536">When held by a {STRING_0},\nit will heal for 25% HP if they\nare hit by a super effective move.</string>
+  <string id="135540">An item to be held by a {STRING_0}.\n\nIf the holder of this item\nis hit by a move that makes contact,\nit will inflict damage on the attacker\nfor 16.67% of their maximum HP per-hit.</string>
+  <string id="135544">When held by a {STRING_0},\nit causes the damage inflicted by binding moves\nused by the holder to increase\nfrom 6.25% to 12.5% of the opponents maximum HP\nat the end of each turn.</string>
+  <string id="135548">An item to be held by a {STRING_0}.\n\nIt increases the power of\nFire-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135549">An item to be held by a {STRING_0}.\n\nIt increases the power of\nWater-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135550">An item to be held by a {STRING_0}.\n\nIt increases the power of\nElectric-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135551">An item to be held by a {STRING_0}.\n\nIt increases the power of\nGrass-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135552">An item to be held by a {STRING_0}.\n\nIt increases the power of\nIce-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135553">An item to be held by a {STRING_0}.\n\nIt increases the power of\nFighting-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135554">An item to be held by a {STRING_0}.\n\nIt increases the power of\nPoison-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135555">An item to be held by a {STRING_0}.\n\nIt increases the power of\nGround-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135556">An item to be held by a {STRING_0}.\n\nIt increases the power of\nFlying-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135557">An item to be held by a {STRING_0}.\n\nIt increases the power of\nPsychic-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135558">An item to be held by a {STRING_0}.\n\nIt increases the power of\nBug-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135559">An item to be held by a {STRING_0}.\n\nIt increases the power of\nRock-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135560">An item to be held by a {STRING_0}.\n\nIt increases the power of\nGhost-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135561">An item to be held by a {STRING_0}.\n\nIt increases the power of\nDragon-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135562">An item to be held by a {STRING_0}.\n\nIt increases the power of\nDark-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135563">An item to be held by a {STRING_0}.\n\nIt increases the power of\nSteel-type moves by 50%.\n\nThis item is consumed upon use.</string>
+  <string id="135564">An item to be held by a {STRING_0}.\n\nIt increases the power of\nNormal-type moves by 50%.\n\nThis item is consumed upon use.</string>
+
+<!--EVENT MAPS-->
+
+<!--EVENT MONSTERS-->
+
+  <string id="151003">Elfbot ({STRING_230001})</string>
+  <string id="151004">Elfbot ({STRING_230002})</string>
+  <string id="151005">Elfbot ({STRING_230003})</string>
+  <string id="151006">Elfbot ({STRING_230004})</string>
+  <string id="151007">Elfbot ({STRING_230005})</string>
+  <string id="151008">Elfbot ({STRING_230006})</string>
+  <string id="151009">Elfbot ({STRING_230007})</string>
+  <string id="151010">Elfbot ({STRING_230008})</string>
+  <string id="151011">Elfbot ({STRING_230010})</string>
+  <string id="151012">Elfbot ({STRING_230011})</string>
+  <string id="151013">Elfbot ({STRING_230012})</string>
+  <string id="151014">Elfbot ({STRING_230013})</string>
+  <string id="151015">Elfbot ({STRING_230014})</string>
+  <string id="151016">Elfbot ({STRING_230015})</string>
+  <string id="151017">Elfbot ({STRING_230016})</string>
+  <string id="151018">Elfbot ({STRING_230017})</string>
+
+<!--EVENT TRAINER CLASSES-->
+
+  <string id="200387">Your {STRING_0} is still too scared\nto fight.</string>
+
+<!--EVENT ABILITIES-->
+
+  <string id="211001">-15% wild {STRING_0} encounter rate.</string>
+  <string id="211008">-25% wild {STRING_0} encounter rate during sandstorms.</string>
+
+  <string id="211028">20% chance for wild {STRING_0}'s nature to match.</string>
+  <string id="211035">+10% wild {STRING_0} encounter rate.</string>
+
+  <string id="211053">Potential to pickup items from wild {STRING_0} encounters.</string>
+
+  <string id="211068">+10% wild {STRING_0} encounter rate.</string>
+  <string id="211071">+10% wild {STRING_0} encounter rate.</string>
+  <string id="211073">-15% wild {STRING_0} encounter rate.</string>
+  <string id="211081">-25% wild {STRING_0} encounter rate during snowstorms.</string>
+  <string id="211095">-10% wild {STRING_0} encounter rate.</string>
+  <string id="211099">+10% wild {STRING_0} encounter rate.</string>
+
+  <string id="220037">Doubles the {STRING_0}'s Attack.</string>
+
+  <string id="220053">May pick up items after\ndefeating wild {STRING_0}.</string>
+
+  <string id="220074">Doubles the {STRING_0}'s Attack.</string>
+
+  <string id="181013">{STRING_150132}</string>
+
+<!-- DIALOG OVERRIDES -->
+
+  <string id="1538045">TRAINER TIPS\n\nSome {STRING_0} can be\nfound more often on certain days.</string>
+
+  <string id="270776032">A small crevice is seen on the wall.\n\nA {STRING_110290} may allow you to\nbreak it open.</string>
+  <string id="271009606">An imposing tree stands in your way.\n\nA {STRING_110290} may allow you to climb it.</string>
+  <string id="271009757">A large clump of grass blocks the path.\n\nA {STRING_110290} may allow you\nto move it.</string>
+
+<!-- CUSTOM STRINGS -->
+
+  <string id="16777219">Would you like to allow {00}\nto train with the other {STRING_0} and\ngain experience?</string>
+
+  <string id="16777221">Do you have a {STRING_240004}\nto hold this Egg?</string>
+  <string id="16777223">Come back when you have\na {STRING_240004}!</string>
+
+  <string id="16777227">Would you like to buy a {00}?\n{STRING_0} can't get enough!\n\nJust ${01} each!|br|Get some while you can!</string>
+
+  <string id="16777311">Coming Up: An exclusive interview!\nA {STRING_140000} mother claims to have\nliterally millions of children!</string>
+
+  <string id="16777313">Commercial: The bestseller "Mystery of\nJumpeon" is now available in the\n{STRING_140108} Store 7F!\nOnly $4999!</string>
+
+<!-- 16777400 - 16777409 legacy NPC. No longer in the game. -->
+
+  <string id="16777410">I am a {STRING_140052} psychic.\n\nMy psychic abilities allow me to change the\n{STRING_110237} of a {STRING_0}</string>
+  <string id="16777411">Bring me a piece of the earth and I will be able\nto alter your {STRING_0}'s {STRING_110237}.</string>
+  <string id="16777412">I sense you have a piece\nof the earth in your possession!\n\nWould you like me to alter\nyour {STRING_0}'s {STRING_110237}?</string>
+
+  <string id="16777414">Changing a {STRING_0}'s {STRING_110237}\nis dangerous work.\n\nThe {STRING_0} will have its individual values\npermanently reduced.\n\nAre you sure?</string>
+  <string id="16777415">What {STRING_0} do you want to change?</string>
+  <string id="16777416">Which type of {STRING_110237} should\nthis {STRING_0} have?</string>
+  <string id="16777417">This will cost ${00} and a {STRING_240204}.\nIs this OK?</string>
+  <string id="16777418">This {STRING_0} is too weak to\nhave its {STRING_110237} changed.</string>
+  <string id="16777419">That {STRING_0}'s {STRING_110237} is already\n{00}!</string>
+
+  <string id="16777421">Come back with ${00} and a\n{STRING_240204}.</string>
+
+  <string id="16777423">Bring me a {STRING_240204} and I will be able\nto change your {STRING_0}'s {STRING_110237}.</string>
+  <string id="16777424">Would you like me to alter\nyour {STRING_0}'s {STRING_110237}?</string>
+  <string id="16777425">I am a {STRING_142056} psychic.\n\nMy psychic abilities allow me to change the\n{STRING_110237} of a {STRING_0}</string>
+
+<!-- 16777500 - 16777505 legacy egg move -->
+
+  <string id="16778000">Would you like to retire\nfrom the {STRING_140091}?</string>
+  <string id="16778001">Sorry, the PvP {STRING_140091}\nis not currently available.</string>
+  <string id="16778002">Would you like to register for\nthe PvP {STRING_140091}?</string>
+
+  <string id="16778005">Would you like to register for\nthe Mixed {STRING_140091}?</string>
+
+  <string id="16778007">Você não tem dinheiro suficiente.</string>
+
+  <string id="16778100">I'm the Move Maniac.\n\nI know every single move that\n{STRING_0} can learn.\n\nI'm also a mushroom maniac.\n\nBring me some {STRING_240604}, or twice\nas many {STRING_240603}, and I'll teach\na move to one {STRING_0}.</string>
+
+<!-- CUSTOM MOVE TUTOR1 -->
+
+  <string id="16778904">Do you want me to tutor a {STRING_0}\nof yours?</string>
+
+  <string id="16778914">Do you want me to tutor a {STRING_0}\nof yours?</string>
+
+  <string id="16778924">Do you want me to tutor a {STRING_0}\nof yours?</string>
+
+  <string id="16778930">Which {STRING_0} do you want to teach?</string>
+
+<!-- RED -->
+
+  <string id="16779001">I have been searching for {STRING_240048}s\nin {STRING_140081} but wandered\ntoo far.</string>
+  <string id="16779002">If you bring me some, I may be able\nto teach your {STRING_0} something\nspecial.</string>
+  <string id="16779003">What's that?\nYou have {STRING_240048}s?</string>
+  <string id="16779004">Do you want me to tutor a {STRING_0}\nof yours?</string>
+
+  <string id="16779009">It appears that I don't have any moves\nto teach that {STRING_0}.</string>
+
+<!-- GREEN -->
+
+  <string id="16779011">I have come to these islands seeking\n{STRING_240051}s to rejuvenate\nher mind, but I am no longer a\nTrainer.</string>
+  <string id="16779012">If you bring me {STRING_240051}s I can\nteach your {STRING_0} techniques\nunlike any other.</string>
+  <string id="16779013">You have {STRING_240051}s?</string>
+  <string id="16779014">Do you want me to tutor a {STRING_0}\nof yours?</string>
+
+<!-- YELLOW -->
+
+  <string id="16779020">My Master sent me to {STRING_140055} to\ntrain with red hot ferocity in order to\nbecome a Master Tutor!</string>
+  <string id="16779021">I am seeking {STRING_240050}s to help\nhone my abilities. Rumor has it they\nhelp you run faster and stay strong!</string>
+  <string id="16779022">Bring me {STRING_240050}s and I'll\nteach your {STRING_0} to fight with\nstrength they have never had\nbefore!</string>
+  <string id="16779023">Oh? So you do have {STRING_240050}s?</string>
+  <string id="16779024">Do you want me to tutor a {STRING_0}\nof yours?</string>
+
+<!-- BLUE -->
+
+  <string id="16779031">I've been sent to gather\n{STRING_240049}s to study their\nproperties.\n\nNobody around here has proven useful,\nbut maybe you will.</string>
+  <string id="16779032">If you find any, bring them to me\nand I can teach your {STRING_0}\nsomething interesting.</string>
+  <string id="16779033">You have {STRING_240049}s?\nLet's get started then!</string>
+  <string id="16779034">You do want me to tutor a {STRING_0}\nof yours, don't you?</string>
+  <string id="16779035">Don't worry, this experiment's failure\nrates are very low.\n\nOnly 0.012% of {STRING_0} have\nunintended side-effects.</string>
+
+<!-- BP Tutor -->
+
+  <string id="16779040">Hello!\nI am the Special Move Tutor,\n\nI can teach your {STRING_0} moves\nthey cannot normally learn\nin exchange for Battle Points.</string>
+  <string id="16779041">Would you like me to teach a\nspecial move to your {STRING_0}?</string>
+
+  <string id="16779045">Your {00} now knows\n{01}!\n\nWould you like me to teach one\nof your {STRING_0} another move?</string>
+
+<!-- REUSABLE MOVE TUTOR -->
+
+  <string id="16779051">Você não tem dinheiro suficiente.</string>
+
+<!-- DELETER -->
+
+  <string id="16779056">Você não tem dinheiro suficiente.</string>
+
+<!-- BP Store -->
+
+  <string id="16779066">Pontos de Batalha: {00}</string>
+
+<!-- Brace Store -->
+
+  <string id="16779080">I'm the {STRING_10}.\n\nI breed {STRING_0} to help them\nunlock their true potential.\n\nYour {STRING_0} seem healthy!\nHow about a trade?\n\nI'll keep two of your {STRING_0}, and\nin return I will give you an egg.</string>
+  <string id="16779081">You don't seem to have enough\n{STRING_0}...</string>
+  <string id="16779082">You won't get these {STRING_0} back.\n\nAre you sure?</string>
+  <string id="16779083">Which {STRING_0} would you like\nto trade?</string>
+  <string id="16779084">Fine, I'll take your {00}.\n\nWhich other {STRING_0} would you\nlike to trade?</string>
+  <string id="16779085">These {STRING_0} are unable to\nproduce an Egg...</string>
+
+  <string id="16779087">Ah, it’s you!\n\nYou're just in time.\nYour {STRING_0} had an Egg!\n\nAs promised, it belongs to you.\n\nYou do want it, yes?</string>
+
+  <string id="16779090">The requested {STRING_0} cannot\nbe traded because it was a gift.</string>
+
+  <string id="16779094">Você não tem dinheiro suficiente.</string>
+  <string id="16779095">That {STRING_0} looks special.\nYou should hold onto it for now.</string>
+  <string id="16779096">Both of those {STRING_0} are holding\na {00}!\n\nYou should retrieve one.</string>
+
+<!-- REGION LINK FERRY -->
+
+  <string id="16780102">Your {STRING_0} will be sent to the PC.\nIs that okay?</string>
+
+  <string id="16780105">Your PC does not have enough room.\nYou can't deposit all of your {STRING_0}.\n\nCome back when you are ready.</string>
+
+<!-- REGION RETURN -->
+
+<!-- MAILMAN -->
+
+<!-- VANITY SHOPS -->
+
+<!-- SEED PLANTING -->
+
+  <string id="16780323">A {STRING_240268} is needed to plant seeds.</string>
+
+  <string id="16780375">I used to be a farmer, but as we all\ngrow older, it becomes harder to do\nthe things we once loved.\n\nPlease take this, and use it to grow\ndelicious berries for your {STRING_0}.</string>
+
+<!-- BLEND -->
+
+<!-- EVENTS -->
+
+  <string id="16800002">Sob..\n\nSob..\n\nHalloween makes me so sad.\n\nIt's been so long since\nI've tasted candy...\n\nCan you bring me some?\n\nI'll give you a {STRING_100035}\nif you give me {00}!</string>
+  <string id="16800003">What? You have {STRING_100033}?\n\nWould you please let me have them?</string>
+
+  <string id="16800005">{01} handed over {00} {STRING_100033}.</string>
+  <string id="16800006">If you bring me more {STRING_100033}\nI'll give you another {STRING_100035}.</string>
+  <string id="16800007">Delicious..\nI'm almost th-\n\nHey, you!\nGo beat up some trick-or-treaters\nand bring me their candy!\n\nI'll give you a {STRING_100035} for {00} {STRING_100033}.</string>
+  <string id="16800008">What? You have {STRING_100033}?\n\nGive them to me!</string>
+
+  <string id="16800010">{01} handed over {00} {STRING_100033}.</string>
+  <string id="16800011">Bring me more {STRING_100033} and\nI'll give you another {STRING_100035}.</string>
+  <string id="16800012">Hey you...\n\nYeah you.\n\nYou have any more {STRING_100033}?\n\nI'm getting a head start for next year.\nBring me {00} {STRING_100033}\n\nI'll reward you with another {STRING_100035}!</string>
+  <string id="16800013">You have {STRING_100033}?\n\nGive them here!</string>
+
+  <string id="16800015">{01} handed over {00} {STRING_100033}.</string>
+  <string id="16800016">I have plenty more {STRING_100035} left.\nBring me more {STRING_100033}.</string>
+
+  <string id="16800030">Gwahaha!\nYou fools!\n\nThanks to you\nI have finally been revived!\n\nWith this much {STRING_100033},\nI'm undefeatable!</string>
+  <string id="16800031">Blech, you got lucky.\n\nYou caught me before I could eat all of my\n{STRING_100033}!\n\n*Munch* *Munch*\n\n*Burp Burp*</string>
+
+  <string id="16800101">A mysterious girl in {STRING_140004} is collecting candy!\nCollect {STRING_100033} from trick-or-treaters and turn them in for {STRING_100035}S.</string>
+  <string id="16800102">The little ghost girl in {STRING_140004} has collected enough candy!\nShe wants to thank you personally for your contribution.</string>
+  <string id="16800103">The little "ghost girl" in {STRING_140004} is fading away!\nTurn in your {STRING_100033} for {STRING_100035}S before it's too late!</string>
+
+  <string id="16800200">A giant pumpkin has been spotted outside {STRING_142010}. Strange things happen when you feed it candy...</string>
+
+  <string id="16801005">There should be some Robot Parts in\nthis cave.\n\nIf you can get me {00} {STRING_100039}(S) and\n{01} {STRING_100041}(S), I'll give you an extra\n{STRING_100043}!\n\nWhat did you need?</string>
+
+  <string id="16801010">{01} handed over {00} {STRING_100039}(S) and\n{02} {STRING_100041}(S).</string>
+  <string id="16801011">I need at least {00} {STRING_100039}(S) and\n{01} {STRING_100041}(S)!</string>
+
+  <string id="16801020">The last working Robot Santa is broken!\n\nWithout a new one I won't be able to deliver all the presents!\n\n{STRING_16801005}</string>
+  <string id="16801021">The Robot Santa you all helped make is\nout delivering the presents.\n\nMrs. Claus was right, I needed to make\nspare Robot Santas.\n\n{STRING_16801005}</string>
+  <string id="16801022">I think we have a problem...\nThat Robot Santa is refusing to give back\nmy {STRING_150234}...\n\nWhat did you need?</string>
+  <string id="16801023">Mrs. Claus was right, I needed to make\nspare Robot Santas...\n\nAnd... to program a remote kill switch...\n\n{STRING_16801005}</string>
+
+  <!--Before you talk to santa after spawning-->
+
+  <string id="16801033">Your {STRING_0} are looking worn out...\n\nShall I heal them with a little bit of\nChristmas magic?</string>
+
+  <string id="16801101">Santa needs your help to build a replacement Robot Santa to deliver presents on time!\nHe's waiting in {STRING_140010} for volunteers!</string>
+  <string id="16801102">Santa needs your help defeating the malfunctioning Robot Santa!\nHe's waiting in {STRING_140010} for volunteers!</string>
+  <string id="16801103">Santa needs your help to build a spare Robot Santas for years to come!\nHe's waiting in {STRING_140010} for volunteers!</string>
+
+  <string id="16802011">You can't enter with more than\n3 {STRING_0}!</string>
+
+<!-- World //announce message -->
+
+  <string id="16802015">Santa needs your help defeating the malfunctioning Robot Elves!\nHe's waiting in {STRING_140010} for volunteers!</string>
+
+<!-- Overworld dialogue -->
+<!-- BEFORE OR ON DECEMBER 25TH -->
+
+<!-- AFTER DECEMBER 25TH -->
+
+  <string id="16802021">Fine, you win.\nTake a {STRING_100039}.\n\nThose elfthings are less\nmerciful than I am.\n\nTake care.</string>
+  <string id="16802022">CRITICAL FAILURE\n\nObtained 2 {STRING_100039}.</string>
+
+  <string id="16804005">Santa needs your help with a secret mission!\nHe's waiting in {STRING_142012} for volunteers!</string>
+
+  <string id="16804008">Santa has departed, but his elves are still\ncleaning up!\nTurn in your parts in {STRING_142012} before it's too late!</string>
+
+  <string id="16805009">It's a paper lantern,\nto help celebrate the new year.\n\n"Made in {STRING_142007}" is etched\non the back.</string>
+  <string id="16805010">It's a pig balloon,\nto help celebrate the new year.\n\n"Made in {STRING_142007}" is etched\non the back.</string>
+  <string id="16805011">It's a firework,\nto help celebrate the new year.\n\n"Made in {STRING_142007}" is etched\non the back.</string>
+  <string id="16805012">(The {STRING_150186} is helping the fortune teller\ndistribute red envelopes.)</string>
+
+  <string id="16805020">Happy Lunar New Year!\n\nOr it would be,\nif things were peaceful...\n\nThe {STRING_0} at the {STRING_142070} are\nfighting over who should be celebrated next\nyear and are causing a ruckus!\n\nCalm them down for me, would you?\nI'll lend you one of my {STRING_0}.</string>
+
+<!--<string id="16801000">
+EXAMPLE event has started.</string>
+  <string id="16801001">EXAMPLE event has ended.</string>-->
+
+  <string id="17000009">I will show you the amazing power\nof {STRING_0}!</string>
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <string id="17000049">Wahahaha!\nMy {STRING_0} are full of power.</string>
+
+  <string id="17000061">Every one of my {STRING_0}\n are strong.</string>
+  <string id="17000062">Your {STRING_0} are far too strong!</string>
+  <string id="17000063">In {STRING_0} matches, nicknames are\nimportant, aren't they?!</string>
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <string id="17000089">Isac: Our {STRING_110089} will make you\nshake!\n\nMag: My {STRING_0} won't tremble.</string>
+
+  <!-- Referenced by female data -->
+
+  <string id="17000093">Mag: My {STRING_0} won't tremble.\n\nIsac: Our {STRING_110089} will make you shake!</string>
+
+  <string id="17000099">As a {STRING_190102}\nit's my job to help {STRING_0}.</string>
+
+  <string id="17000103">As a {STRING_190102}\nit's my job to protect nature.</string>
+
+  <string id="17000109">A {STRING_0} battle...\nI won't lose!</string>
+
+  <string id="17000113">How's this {STRING_110230}?</string>
+
+  <string id="17000115">Using {STRING_110312} is refreshing.</string>
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <string id="17000157">I'm a {STRING_190007} girl.\nGood luck trying to beat me!</string>
+
+  <string id="17000161">Nice to meet you.\nI'm a high-class {STRING_190105}.</string>
+  <string id="17000162">How did a {STRING_190105} lose?</string>
+
+  <string id="17000165">I'm a {STRING_190074}.\nBut you knew that, right?</string>
+
+  <string id="17000181">Let's have a big {STRING_110153} party!</string>
+
+  <string id="17000185">Shocking! Here it is, {STRING_110086}!</string>
+  <string id="17000186">Were you paralyzed by my {STRING_230013}\n{STRING_110018}?</string>
+
+  <string id="17000189">This power...\nI went to {STRING_190021} school.</string>
+  <string id="17000190">Let's go. {STRING_110134}!\n...! What's this!?</string>
+  <string id="17000191">That's it. I'll be entering the {STRING_110134}\nHall of Fame!</string>
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by female data -->
+
+  <string id="17000209">Kati: Hehehe. {STRING_110086} and\n{STRING_110201} will hum happily\ntogether.\n\nGeb: She's the plus to my minus\nin this magnetic field of love.</string>
+
+  <!-- Referenced by male data -->
+
+  <string id="17000213">Geb: She's the plus to my minus.\n\nKati:  Hehehe. {STRING_110086} and\n{STRING_110201} will hum happily together.</string>
+
+  <string id="17000237">That's right!\nI'm the {STRING_110208} champion.</string>
+
+  <string id="17000250">Oh! You really love {STRING_0}.</string>
+  <string id="17000251">My treasure? {STRING_0} of course!</string>
+
+  <string id="17000254">Was my {STRING_110017} too weak?</string>
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <string id="17000263">Nick: Oh man!\nI can't live up to her {STRING_110241}.</string>
+
+  <string id="17000267">Did {STRING_110174} make you nervous? </string>
+
+  <string id="17000269">Because it's a hot day,\nI'll use {STRING_110346}!</string>
+  <string id="17000270">{STRING_110346} didn't win?</string>
+
+  <string id="17000274">Mine is the style of a {STRING_190014}.</string>
+  <string id="17000275">Wow!\n... {STRING_110196}!</string>
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <string id="17000301">I'll use my flying {STRING_0} to win.</string>
+
+  <string id="17000303">My {STRING_0} aren't skilled at flying\nin the air.</string>
+
+</strings>

@@ -1,0 +1,2950 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<strings is_primary="0" lang="it" lang_full="Italiano (Italian)">
+  <string id="9">Pensione</string>
+  <string id="10">Uomo Pensione</string>
+  <string id="11">Donna Pensione</string>
+
+  <string id="38">Questa applicazione non può funzionare su questa piattaforma.</string>
+  <string id="39">Questa applicazione non può funzionare in una Virtual Machine.</string>
+  <string id="40">Errore di Rendering Fatale</string>
+  <string id="41">Si è verificato un errore di rendering fatale.\n\nVuoi inviare una segnalazione dell'errore?</string>
+  <string id="42">Segnalazione errore inviata con successo.\nSegnalazione errore #{00}\n\nInserisci questo numero in ogni richiesta di supporto.\n\n(Numero Segnalazione Errore copiata negli appunti)</string>
+  <string id="43">Impossibile inviare la segnalazione di errore.</string>
+  <string id="44">È stato trovato un errore da una precedente sessione.\n\nVuoi inviare una segnalazione di errore?</string>
+  <string id="45">Vuoi segnalare un errore?</string>
+  <string id="46">Segnala un errore</string>
+
+<!-- COMMON -->
+
+  <string id="49">Tutto</string>
+  <string id="50">Si</string>
+
+  <string id="53">Annulla</string>
+  <string id="54">Salva</string>
+  <string id="55">Caricamento...</string>
+  <string id="56">Compra</string>
+  <string id="57">Prezzo</string>
+  <string id="58">INDIETRO</string>
+
+  <string id="60">Accetta</string>
+  <string id="61">Nessuno</string>
+  <string id="62">Vendi</string>
+  <string id="63">Rifiuta</string>
+  <string id="64">Blocca</string>
+  <string id="65">Chiudi</string>
+  <string id="66">Modifica</string>
+  <string id="67">Cambia</string>
+  <string id="68">Impossibile trovare il giocatore richiesto.</string>
+  <string id="69">Invia</string>
+  <string id="70">Per favore risolvi il seguente\ncodice CAPTCHA per continuare.\n\n{00} tentativi rimasti.</string>
+  <string id="71">Piccolo</string>
+  <string id="72">Medio</string>
+  <string id="73">Grande</string>
+  <string id="74">Caricamento... Attendere prego.</string>
+  <string id="75">Non puoi farlo mentre il server si sta arrestando.</string>
+  <string id="76">Abbandona</string>
+  <string id="77">Nessun salvataggio trovato.</string>
+  <string id="78">Capace</string>
+  <!--Can learn move-->
+
+  <string id="79">Non capace</string>
+  <!--Can learn move-->
+
+  <string id="80">Eccezione LWJGL Fatale.\n\nSi può risolvere cercando il seguente errore.\n\nErrore: {00}</string>
+  <string id="81">Errore Fatale: Memoria Esaurita.\n\nRiavvia l'applicazione e prova di nuovo.\nSe il problema persiste aumenta la tua memoria.\nVisita https://pokemmo.eu/oom per maggiori informazioni.</string>
+  <string id="82">Errore fatale di render avvenuto.\n\nPosta il tuo console.log (Nella cartella logs) sul forum per ricevere assistenza.</string>
+  <string id="83">Sistema</string>
+  <!--Author for system generated mail-->
+
+  <string id="84">Errore aprendo la cartella. Per favore contatta il supporto.</string>
+  <string id="85">Errore tentando di impostare l'accelerazione hardware.\nVisita https://pokemmo.eu/pfna per istruzioni su come sistemare questo.\n\nSe questo errore persiste, puoi provare ad usare la modalità compatibilità.\nVuoi provare la modalità compatibilità?</string>
+  <string id="86">PokeMMO è avviato in modalità compatibilità.\nLe prestazioni saranno drasticamente scalate.\nVisita https://pokemmo.eu/swr per altre informazioni.</string>
+  <string id="87">Errore nel salvataggio delle configurazioni.\nPer favore verifica che il client sia installato in una cartella con i permessi di scrittura adeguati.</string>
+  <string id="88">Spiacenti, il tuo computer non rispetta i requisiti minimini.</string>
+  <string id="89">Impossibile caricare le risorse della ROM, potrebbe essere corrotta.\nPer favore contata il supporto.</string>
+
+  <string id="90">ROM RossoFuoco</string>
+  <string id="91">ROM Smeraldo</string>
+  <string id="92">ROM Bianco/Nero</string>
+  <string id="93">ROM Platino</string>
+  <string id="99">ROM HeartGold\nSoulSilver</string>
+
+  <string id="100">Battaglia Singola</string>
+  <string id="101">Battaglia Doppia</string>
+  <string id="102">Battaglia Multipla</string>
+  <string id="103">Battaglia Multipla (PvP)</string>
+  <string id="104">Lotta in Triplo</string>
+
+  <string id="105">Battaglia Singola (Classificata)</string>
+  <string id="106">Battaglia Doppia (Classificata)</string>
+
+  <string id="110">Modalità Normale</string>
+  <string id="111">Modalità Torneo</string>
+  <string id="120">Hai guadagnato {00} Battle Points.</string>
+
+  <string id="122">Invia Richiesta</string>
+
+  <string id="200">Accetta Richiesta Duello</string>
+  <string id="201">Rifiuta Richiesta Duello</string>
+  <string id="202">Blocca Utente ( dal contattarti )</string>
+  <string id="203">Accetta Richiesta Scambio</string>
+  <string id="204">Rifiuta Richiesta Scambio</string>
+
+<!-- DUEL REQUEST -->
+
+  <string id="220">Bersaglio Duello:</string>
+  <string id="221">Tipo di Battaglia:</string>
+  <string id="222">Modalità di Battaglia:</string>
+  <string id="223">Limite di Tempo:</string>
+  <string id="224">Tier Permesse:</string>
+  <string id="225">Clausole Attive:</string>
+  <string id="226">{00} Minuti</string>
+
+  <string id="250">Impossibile creare un duello perché la squadra di {00} viola la clausola {01}.</string>
+  <string id="251">Impossibile creare un duello perché la squadra di {00} viola la restrizione di tier.</string>
+  <string id="252">Impossibile creare un duello perché la squadra di {00} viola il {01+} ban.</string>
+  <string id="253">Impossibile creare un duello perché la squadra di {00} viola il {02+} ban durante la clausola {01}.</string>
+  <string id="254">Could not create a duel because {00}'s party does not contain any battle capable {STRING_0}.</string>
+
+<!-- STAT NAMES -->
+
+  <string id="500">PS</string>
+  <string id="501">Attacco</string>
+  <string id="502">Difesa</string>
+  <string id="503">Velocità</string>
+  <string id="504">Attacco Sp.</string>
+  <string id="505">Difesa Sp.</string>
+  <string id="506">Precisione</string>
+  <string id="507">Elusione</string>
+
+<!-- UPDATER RELATED -->
+
+  <string id="902">Un aggiornamento è disponibile.\nGli aggiornamenti automatici non sono attualmente disponibili.\nAggiorna il client scaricandolo da https://pokemmo.eu\nRevisione #{00}</string>
+  <string id="903">È disponibile un aggiornamento.\nVuoi aggiornare?\nRevisione #{00}</string>
+  <string id="904">Aggiornamento in corso... Attendere prego.</string>
+  <string id="905">Verifica aggiornamento in corso...</string>
+  <string id="906">Verifica aggiornamento fallita. Nuovo tentativo in corso...</string>
+  <string id="907">Installazione aggiornamento in corso...</string>
+  <string id="908">Dowload messo in pausa...</string>
+  <string id="909">Download aggiornamento in corso...\n{00} / {01}</string>
+  <string id="910">Devi attivare "Origini Sconosciute" per gli aggiornamenti automatici.\nVuoi aprire le impostazioni?</string>
+  <string id="911">Impossibile completare l'aggiornamento automatico. Riprova più tardi.</string>
+  <string id="912">Aggiornamento PokeMMO r{00}</string>
+  <string id="913">Avvio download...</string>
+  <string id="914">Applicazione patch in corso...</string>
+  <string id="915">Dimensione Download Prevista: {00}</string>
+
+  <string id="925">Precaricando i Modelli... Attendere.</string>
+
+<!-- START LOGIN RELATED -->
+
+  <string id="1003">Accesso in corso...</string>
+  <string id="1004">Annunci</string>
+  <string id="1005">Registrati</string>
+  <string id="1006">Username Dimenticato</string>
+  <string id="1007">Password Dimenticata</string>
+  <string id="1008">Impostazioni</string>
+  <string id="1009">Esci</string>
+<!-- SERVER SELECT -->
+
+  <string id="1010">Nome Server</string>
+  <string id="1011">Stato Server</string>
+  <string id="1012">Login Server</string>
+  <string id="1013">SELEZIONE SERVER</string>
+
+<!-- SERVER STATUS -->
+
+  <string id="1020">Normale</string>
+
+  <string id="1022">Alto</string>
+  <string id="1023">Pieno</string>
+
+  <string id="1025">Ricordami</string>
+  <string id="1026">Dimentica Password Salvata</string>
+  <string id="1027">&lt;Salvato&gt;</string>
+  <string id="1028">&lt;Altro Nome Utente&gt;</string>
+
+  <string id="1030">Verifica Nuovo Dispositivo</string>
+
+  <string id="1032">Codice di Sicurezza:</string>
+  <string id="1033">Invia Codice</string>
+  <string id="1034">Stai effettuando l'accesso da un nuovo dispositivo.\n\nDal momento che hai aggiunto una misura di sicurezza,\nper favore inserisci il codice che ti è stato mandato per email.</string>
+  <string id="1035">Cambia Email</string>
+  <string id="1036">Inserisci il codice che ti è stato inviato per email per continuare.</string>
+
+<!-- CHARACTER SELECT/CREATE -->
+
+  <string id="1049">Selezione Personaggio</string>
+  <string id="1050">NUOVO PERSONAGGIO</string>
+  <string id="1051">CREA PERSONAGGIO</string>
+  <string id="1052">TORNA INDIETRO</string>
+  <string id="1053">Nome\nPersonaggio:</string>
+  <string id="1054">Nome Rivale:</string>
+  <string id="1055">Sesso:</string>
+  <string id="1056">     Maschio</string>
+  <string id="1057">     Femmina</string>
+  <string id="1058">Il personaggio selezionato ({00}) è momentaneamente impossibilitato ad effettuare il login.\nInizio Provvedimento: {01}\nFine Provvedimento: {02}\nNote Provvedimento: {03}</string>
+  <string id="1059">L'account selezionato è momentaneamente impossibilitato ad effettuare il login.\nInizio Provvedimento: {00}\nFine Provvedimento: {01}\nNote Provvedimento: {02}</string>
+  <string id="1060">Regione Iniziale:</string>
+  <string id="1061">Il nome del personaggio {00} risulta violare il Codice di Condotta ed è stato bloccato {01}.\n\nNon puoi utilizzare un nome personaggio che includa:\n► parole Offensive/Inappropriate\n► L'intento di impersonare altri utenti\n► Riferimenti a Droga/Fatti criminali\n► Parole incomprensibili, senza senso.\n\nSeleziona un nuovo nome personaggio per continuare: </string>
+
+<!-- QUEUE -->
+
+  <string id="1075">Il server è attualmente pieno. Attendere Prego...</string>
+  <string id="1076">Attuale Posizione in Coda:</string>
+
+  <string id="1080">Impossibile salvare il ticket di riconnessione. L'opzione di riconnessione non sarà disponibile per questa sessione.</string>
+  <string id="1081">PROVA RICONNESSIONE</string>
+<!-- HUD -->
+
+  <string id="1100">Zaino</string>
+  <string id="1101">Allenatore</string>
+
+  <string id="1103">Lista Amici</string>
+  <string id="1110">Indietro</string>
+  <string id="1111">Impostazioni</string>
+
+  <string id="1113">Cambia Canale</string>
+  <string id="1114">Esci</string>
+  <string id="1115">Sei sicuro di voler chiudere PokeMMO?</string>
+  <string id="1116">Negozio</string>
+  <string id="1117">Squadra</string>
+  <string id="1118">Box Deposito PC</string>
+
+  <string id="1120">Gilda</string>
+  <string id="1121">Giocatori Vicini</string>
+  <string id="1122">Nessun Giocatore Vicino</string>
+  <string id="1123">Tu</string>
+  <string id="1124">Richiesta di Supporto</string>
+  <string id="1125">Scegli seguace</string>
+  <string id="1126">Comunità</string>
+  <string id="1127">Classifiche</string>
+  <string id="1128">Tornei</string>
+
+  <string id="1145">Errore del Tema</string>
+
+  <string id="1148">Mattina</string>
+  <string id="1149">Sera</string>
+  <string id="1150">Stato di Donatore attivo.</string>
+  <string id="1151">{00} passi repellente rimanenti.</string>
+  <string id="1152">{00} passi safari rimanenti.</string>
+  <string id="1153">Orario Gioco</string>
+  <string id="1154">Orario Locale</string>
+  <string id="1155">OG {00}</string>
+  <string id="1156">OL {00}</string>
+  <string id="1157">Giorno</string>
+  <string id="1158">Notte</string>
+
+  <string id="1160">Sei sicuro di voler fare il logout?</string>
+
+<!-- CLIENT/ROM MANAGEMENT -->
+
+  <string id="1168">Necessario</string>
+  <string id="1169">Opzionale</string>
+  <string id="1170">Rom Caricate:</string>
+  <string id="1171">Vuoi provare a riparare il tuo client PokeMMO?</string>
+  <string id="1172">Ripara Client</string>
+  <string id="1173">Apri la cartella dove le rom possono essere salvate per l'utilizzo.\n\nFare questo non è necessario se hai selezionato le rom dal menu sopra.</string>
+  <string id="1174">Apri la cartella delle Rom</string>
+  <string id="1175">Gestione Client</string>
+  <string id="1176">Seleziona File</string>
+
+  <string id="1178">{00} è necessario per avviare il gioco.\n\nSelezionalo per continuare.</string>
+  <string id="1179">Il gioco deve essere riavviato.</string>
+  <string id="1180">{00} è già caricato.</string>
+  <string id="1181">Decomprimi il file prima di selezionarlo.</string>
+  <string id="1182">{00} non è una rom di {01} valida.\n\nNote: I file compressi devono essere decompressi prima di essere selezionati.</string>
+  <string id="1183">{00} non è una rom di {01} valida.\n\nAssicurati di aver selezionato il gioco corretto.</string>
+  <string id="1184">{00} è ora caricato.</string>
+  <string id="1185">{00} è caricato.\n\nROM:\n{01}</string>
+  <string id="1186">{00} non è caricato.</string>
+  <string id="1187">La lingua selezionata di {00} non è {01}. Alcune parti del testo non verranno mostrate in {01}.</string>
+  <string id="1188">Il tema selezionato è stato ripristinato a causa di un aggiornamento del client.\nIl tema può richiedere delle modifiche per essere compatibile.</string>
+
+<!-- MOD MANAGEMENT -->
+
+  <string id="1189">Apri la cartella delle Mod</string>
+  <string id="1190">Gestione Mod</string>
+  <string id="1191">Ottieni Mod</string>
+  <string id="1192">Autore: {00}</string>
+  <string id="1193">Versione: {00}</string>
+  <string id="1194">Abilita</string>
+  <string id="1195">Link</string>
+  <string id="1196">Non è stato trovato alcun collegamento per questa mod.</string>
+  <string id="1197">Le risorse ufficiali di PokeMMO non possono essere disabilitate.</string>
+  <string id="1198">Modalità\nDebug\nProlissa</string>
+  <string id="1199">Questa opzione aggiunge più info al file log/mods.log.\nQuest' opzione causerà un rallentamento all'avvio del gioco.</string>
+
+<!-- SETTINGS -->
+
+  <string id="1200">Impostazioni</string>
+
+  <string id="1202">Audio</string>
+  <string id="1203">Controlli</string>
+  <string id="1204">Gioco</string>
+  <string id="1205">Altro</string>
+  <string id="1206">Lingua</string>
+
+  <string id="1209">Utilità</string>
+  <string id="1210">Interfaccia</string>
+
+  <string id="1225">Importa Mod</string>
+
+  <string id="1228">Elimina Mod</string>
+
+<!-- SETTINGS VIDEO -->
+
+  <string id="1248">Effetti UI</string>
+  <string id="1249">Renderizza gli effetti speciali nella finestra di riepilogo.\nDisabilitarlo dovrebbe migliorare le prestazioni.</string>
+
+  <string id="1250">Risoluzione Display:</string>
+  <string id="1251">Schermo Intero:</string>
+  <string id="1252">Mostra Bordi:</string>
+  <string id="1254">Limite FPS:</string>
+  <string id="1255">Renderizza BG Battaglia:</string>
+  <string id="1256">Renderizza Meteo:</string>
+  <string id="1257">Renderizza Overworld in\nBattaglia:</string>
+  <string id="1258">Mostra Contatore FPS:</string>
+  <string id="1259">Schermo Intero senza bordi:</string>
+  <string id="1260">Tema:</string>
+  <string id="1261">HUD Menu Piccolo:</string>
+  <string id="1262">Abilita Modalità Compatibilità:</string>
+
+  <string id="1265">Nessun Anti Aliasing</string>
+  <string id="1266">Cursore Personalizzato</string>
+
+  <string id="1268">Renderizza il mondo di gioco in battaglia.\n\nSe disabilitato, produrrà un lieve miglioramento delle prestazioni su vecchio hardware.</string>
+  <string id="1269">Renderizza il background in battaglia.\nSe disabilitato, viene mostrato più mondo di gioco.\n\nSemplice tweak grafico.</string>
+
+  <string id="1270">Tipo di Visualizzazione:</string>
+  <string id="1271">Finestra</string>
+  <string id="1272">Schermo Intero</string>
+  <string id="1273">Finestra senza bordi</string>
+  <string id="1274">Dimensione Finestra Battaglia:</string>
+<!-- SETTINGS SOUND -->
+
+  <string id="1276">Volume Musica:</string>
+  <string id="1277">Volume Effetti:</string>
+  <string id="1279">Volume di Sistema:\nVarie notifiche di gioco.</string>
+  <string id="1282">Silenzia la musica quando\nla finestra passa in secondo piano:</string>
+
+<!-- Mobile Settings -->
+
+  <string id="1286">Nessuno</string>
+
+  <string id="1288">Medio</string>
+  <string id="1289">Alto</string>
+
+<!-- SETTINGS CONTROLS -->
+
+  <string id="1300">Tasto A:</string>
+  <string id="1301">Tasto B:</string>
+  <string id="1302">Tasto Su:</string>
+  <string id="1303">Tasto Giù:</string>
+  <string id="1304">Tasto Sinistra:</string>
+  <string id="1305">Tasto Destra:</string>
+  <string id="1306">Scorciatoia</string>
+  <string id="1307">Scheda Allenatore:</string>
+  <string id="1308">Zaino:</string>
+  <string id="1309">Lista Amici:</string>
+  <string id="1310">Menù di Gioco:</string>
+  <string id="1311">Nascondi GUI:</string>
+
+  <string id="1313">Gilda:</string>
+
+<!-- SETTINGS GAMEPLAY -->
+
+  <string id="1320">Mai</string>
+
+  <string id="1322">Sempre</string>
+  <string id="1323">Premi un tasto qualsiasi...</string>
+  <string id="1324">Conosci bene un'altra lingua? Aiutaci a tradurre PokeMMO.</string>
+  <string id="1325">Velocità Testo:</string>
+  <string id="1326">Filtro Parolacce:</string>
+  <string id="1327">Suono Notifica:</string>
+  <string id="1328">Fusione BG Battaglia:</string>
+  <string id="1329">Tema Vecchia Chat:</string>
+  <string id="1330">Nuvolette Chat:</string>
+  <string id="1332">Lingua Client:</string>
+  <string id="1333">Aspetta Pressione dei Tasti\nin Battaglia:</string>
+  <string id="1334">Formato Screenshot:</string>
+  <string id="1335">Marcatura Orario Chat:</string>
+  <string id="1336">Mostra Tipo Chat:</string>
+  <string id="1337">Lingua Chat:</string>
+  <string id="1338">Mostra Lingua Chat:</string>
+  <string id="1339">Lingue Chat\nVisibili:</string>
+  <string id="1341">Precarica Sprite Seguace:</string>
+  <string id="1342">Dimensioni Buffer Chat:</string>
+  <string id="1343">Suono Notifica Battaglia:</string>
+  <string id="1344">Nuvoletta Chat NPC:</string>
+  <string id="1345">Interruttore Corsa:</string>
+  <string id="1346">Mostra {STRING_0}\nSprites in Chat:</string>
+  <string id="1347">Mostra il Proprio Nome\n nell'Overworld:</string>
+  <string id="1348">Suono Notifica Bisbiglio:</string>
+  <string id="1349">Abilita Supporto Controller:</string>
+
+<!-- SETTINGS OTHER -->
+
+  <string id="1350">Rifiuta Automaticamente\nRichiesta Duello:</string>
+  <string id="1351">Rifiuta Automaticamente\nRichiesta Amicizia:</string>
+  <string id="1352">Rifiuta Automaticamente\nRichiesta Scambio:</string>
+  <string id="1353">Rifiuta Automaticamente\nInvito Gilda</string>
+  <string id="1354">Rifiuta Automaticamente\nInvito Collegamento:</string>
+
+  <string id="1360">Altri</string>
+  <string id="1361">Amici</string>
+  <string id="1362">Gilda</string>
+
+  <string id="1375">Alcune impostazioni che hai selezionato non saranno attive fino al prossimo riavvio.</string>
+  <string id="1376">Esporta Stringhe in\nun file XML:</string>
+  <string id="1377">Processo</string>
+  <string id="1378">Stringhe XML sono state esportate nella cartella 'dump/strings'.</string>
+  <string id="1379">Errore nell'esecuzione del processo. Assicurati di avere i diritti di scrittura nella cartella del client.</string>
+  <string id="1380">Esporta Risorse Modificabili:</string>
+  <string id="1381">Le risorse sono state esportante nella cartella 'dump/resources'.</string>
+  <string id="1382">Esporta Stringhe della\nStoryline:</string>
+  <string id="1383">Questo processo potrebbe richiedere del tempo, continuare?\n\nNote: Questo processo non esporterà risorse modificate.</string>
+  <string id="1384">Colore tema 1</string>
+  <string id="1385">Colore tema 2</string>
+  <string id="1386">Colore tema barra del titolo</string>
+
+  <string id="1391">Deseleziona Tutto</string>
+
+<!-- BAG -->
+
+  <string id="1400">Zaino</string>
+  <string id="1401">Oggetti</string>
+  <string id="1402">Oggetti Chiave</string>
+  <string id="1403">Cosmetici</string>
+
+  <string id="1405">Strumenti Lotta</string>
+
+  <string id="1410">Usa</string>
+  <string id="1411">Dai</string>
+  <string id="1412">Registrati</string>
+  <string id="1413">Scorciatoia #{00}</string>
+
+  <string id="1420">Barra Scorciatoie</string>
+  <string id="1421">Prendi {00}</string>
+  <string id="1422">Usa {00}</string>
+  <string id="1423">Annulla</string>
+
+  <string id="1425">Non Scambiabile</string>
+  <string id="1426">PS Curati: {00}</string>
+  <string id="1427">PS Curati: {00}%</string>
+
+  <string id="1433">With 20 Gems, changes {STRING_110237}\nto {00}</string>
+
+  <string id="1450">Oggetto Sconosciuto</string>
+  <string id="1451">Il tuo client non supporta\nquesto oggetto.\nVerifica di avere tutte le rom necessarie.</string>
+<!-- CHAT -->
+
+  <string id="1500">Normale</string>
+  <string id="1501">Urlo</string>
+  <string id="1502">Sussurri</string>
+  <string id="1503">Scambio</string>
+  <string id="1504">Globale</string>
+  <string id="1505">Canale</string>
+  <string id="1506">Annuncio di Sistema</string>
+  <string id="1507">Gilda</string>
+  <string id="1508">Battaglia</string>
+  <string id="1509">Messaggio di Sistema</string>
+
+  <string id="1519">Copia messaggio</string>
+  <string id="1520">Per favore utilizza la chat per gli scambi per tutte le discussioni relative allo scambio.</string>
+  <string id="1521">Il messaggio conteneva caratteri non supportati. Riprova.</string>
+  <string id="1522">{00} è attualmente disconnesso. Riprova a breve.</string>
+  <string id="1523">Riceverai ora {00} messaggi di chat.</string>
+  <string id="1524">Specifica un bersaglio a cui bisbigliare.</string>
+  <string id="1525">Invia</string>
+  <string id="1526">Bisbigliando</string>
+  <string id="1527">{00} è attualmente in modalità Non Disturbare.</string>
+  <string id="1528">{00} è attualmente in modalità Non Disturbare con il messaggio "{01}".</string>
+  <string id="1529">Ora sei in modalità Non Disturbare.</string>
+  <string id="1530">Non sei pià in modalità Non Disturbare.</string>
+  <string id="1531">Devi essere in una Gilda per essere la Chat Gilda.</string>
+  <string id="1532">Impostazioni Linguetta Chat</string>
+  <string id="1533">Aggiungi Nuova Linguetta</string>
+  <string id="1534">Nome Linguetta:</string>
+  <string id="1535">Tipi di Chat Visualizzati:</string>
+  <string id="1536">Aggiungi Linguetta</string>
+  <string id="1537">Aggiorna Linguetta</string>
+  <string id="1538">Rimuovi Linguetta</string>
+  <string id="1539">Noma linguetta non valido.</string>
+  <string id="1540">Il giocatore {00} non può essere trovato.</string>
+  <string id="1541">Impossibile sussurrare a se stessi.</string>
+  <string id="1542">Impossibile usare quel tipo di chat.</string>
+  <string id="1543">{00} messaggi possono essere inviati ogni {01} secondi. Attendi {02} secondi.</string>
+  <string id="1544">Stai inviando troppi messaggi. Attendi {00} secondi.</string>
+  <string id="1545">Il messaggio richiesto era troppo lungo. Prova ancora.</string>
+  <string id="1546">Opzioni Notifiche Sonore Chat</string>
+  <string id="1547">Aggiungi lista di parole per cui vorresti ricevere una notifica.\n(separa parole andando accapo)</string>
+  <string id="1548">Da</string>
+  <string id="1549">A</string>
+  <string id="1550">Trasparenza Chat</string>
+
+  <string id="1551">Manager Comunità</string>
+  <string id="1552">Mod Supporto</string>
+  <string id="1553">Mod Bug</string>
+  <string id="1554">Mod Globale</string>
+
+  <string id="1559">Sviluppatore</string>
+  <string id="1560">Amministratore</string>
+  <string id="1599">Amico</string>
+<!-- TRAINER CARD -->
+
+  <string id="1600">Allenatore da:</string>
+  <!-- DEPRECATED -->
+
+  <string id="1601">Nome:</string>
+  <string id="1602">Soldi:</string>
+  <string id="1603">Tempo giocato: {00} ore.</string>
+  <string id="1604">GIRA SCHEDA</string>
+
+  <string id="1606">Rilasciata il </string>
+  <string id="1607">Massima Obbedienza: Lv. {00}</string>
+<!-- FRIENDSLIST -->
+
+  <string id="1649">Amici</string>
+  <string id="1650">Lista Amici</string>
+  <string id="1651">Nome Giocatore</string>
+  <string id="1652">Amici da</string>
+  <string id="1653">Aggiungi Amico</string>
+  <string id="1654">Vuoi togliere {00} dalla tua lista amici?</string>
+
+  <string id="1656">Rimuovi</string>
+  <string id="1657">Ora sei amico con {00}.</string>
+  <string id="1658">Non sei più amico con {00}.</string>
+  <string id="1659">Ultima connessione</string>
+  <string id="1660">Lista Bloccati</string>
+  <string id="1661">Motivo Blocco:</string>
+  <string id="1662">Data Blocco</string>
+  <string id="1663">Sblocca</string>
+  <string id="1664">Vuoi rimuovere {00} dalla tua Lista Bloccati?</string>
+  <string id="1665">Blocca</string>
+  <string id="1666">La tua Lista Bloccati è piena.</string>
+  <string id="1667">{00} è già nella tua Lista Bloccati.</string>
+  <string id="1668">Impossibile bloccare membri dello staff.</string>
+  <string id="1669">Hai bloccato {00} per il seguente motivo "{01}".</string>
+  <string id="1670">Hai sbloccato {00}.</string>
+  <string id="1671">Non puoi bloccare te stesso.</string>
+  <string id="1672">Il giocatore {00} ti ha bloccato.</string>
+  <string id="1673">Non puoi aggiungere te stesso agli amici.</string>
+  <string id="1674">La tua Lista Amici è piena.</string>
+  <string id="1675">La Lista Amici di {00} è piena.</string>
+  <string id="1676">Errore nella creazione dell'amicizia. Una delle vostre Liste Amici è piena.</string>
+  <string id="1677">{00} è già nella tua Lista Amici.</string>
+  <string id="1678">Adesso</string>
+  <!-- Last online -->
+
+  <string id="1679">{00} giorni {01} ore fa.</string>
+  <!-- Last online -->
+
+  <string id="1680">{00} ore fa.</string>
+  <!-- Last online -->
+
+  <string id="1681">Non puoi contattare un utente nella tua lista bloccati.</string>
+
+<!-- TRACKER -->
+
+  <string id="1700">Nascondi sconosciuti.</string>
+  <string id="1701">Visti:</string>
+  <string id="1702">Posseduti:</string>
+  <string id="1703">Info</string>
+  <string id="1704">Mosse</string>
+  <!-- Number Abbreviation -->
+
+  <string id="1706">Tipo</string>
+
+  <string id="1708">EV Racco.</string>
+  <string id="1709">Altezza</string>
+  <string id="1710">Peso</string>
+  <string id="1711">LIVELLO</string>
+  <string id="1712">TIPO</string>
+  <string id="1713">POTENZA</string>
+  <string id="1714">PREC</string>
+
+  <string id="1716">NOME</string>
+  <string id="1717">Statistiche</string>
+  <string id="1720">PS:</string>
+  <string id="1721">Attacco:</string>
+  <string id="1722">Difesa:</string>
+  <string id="1723">Velocità:</string>
+  <string id="1724">Attacco Sp.:</string>
+  <string id="1725">Difesa Sp.:</string>
+  <string id="1726">Totale:</string>
+  <string id="1727">Riproduci Verso</string>
+  <string id="1728">Catturati:</string>
+  <string id="1729">Mostra Voce {STRING_1}</string>
+
+  <string id="1730">Gruppo\nUova</string>
+
+  <string id="1732">INIZIA</string>
+
+  <string id="1750">UOVO</string>
+
+  <string id="1752">SPECIALE</string>
+
+  <string id="1775">Luoghi</string>
+  <string id="1776">Tipo</string>
+  <string id="1777">Regione</string>
+  <string id="1778">Luogo</string>
+  <string id="1779">Livelli</string>
+  <string id="1781">Rarità</string>
+  <string id="1782">Comune</string>
+  <string id="1783">Non comune</string>
+  <string id="1784">Raro</string>
+  <string id="1785">Erba</string>
+  <string id="1786">Acqua</string>
+  <string id="1787">Rocce</string>
+  <string id="1788">Pesca</string>
+  <string id="1789">Erba Scura</string>
+
+  <string id="1791">Nessuna locazione dei selvatici trovata.</string>
+  <string id="1792">Grotta</string>
+  <string id="1793">Dentro</string>
+
+  <string id="1795">Speciale</string>
+  <string id="1796">Ombra</string>
+  <string id="1797">Polverone</string>
+
+  <string id="1799">Gruppo</string>
+
+<!-- SUMMARY -->
+
+  <string id="1801">Info</string>
+  <string id="1802">Oggetto</string>
+  <string id="1803">Nome:</string>
+  <string id="1804">Tipo:</string>
+  <string id="1805">Natura:</string>
+  <string id="1806">Nessun Cambio di Stato.</string>
+  <string id="1807">AO:</string>
+  <string id="1808">Allenatore Originario</string>
+  <string id="1809">PS:</string>
+  <string id="1810">Exp:</string>
+  <string id="1811">Felicità:</string>
+  <string id="1812">Attacco:</string>
+  <string id="1813">Difesa:</string>
+  <string id="1814">Att Sp.:</string>
+  <string id="1815">Dif Sp.:</string>
+  <string id="1816">Velocità:</string>
+  <string id="1817">PS EV:</string>
+  <string id="1818">Attacco EV:</string>
+  <string id="1819">Difesa EV:</string>
+  <string id="1820">Att Sp. EV:</string>
+  <string id="1821">Dif Sp. EV:</string>
+  <string id="1822">Velocità EV:</string>
+  <string id="1823">Mossa {00}:</string>
+  <string id="1824">Abilità:</string>
+  <string id="1825">LIBERA {00}\n\nQuesta funzione è irreversibile.\n\nLibera solo {00}\nche non vuoi più.</string>
+  <string id="1826">Conferma liberazione</string>
+  <string id="1827">Vuoi rimuovere {00} da {01}?</string>
+  <string id="1828">Catturato:</string>
+  <string id="1829">Al prossimo\nLv.</string>
+  <string id="1830">PS IV:</string>
+  <string id="1831">Attacco IV:</string>
+  <string id="1832">Difesa IV:</string>
+  <string id="1833">Att Sp. IV:</string>
+  <string id="1834">Dif Sp. IV:</string>
+  <string id="1835">Velocità IV:</string>
+  <string id="1836">Cosa sono gli IV?</string>
+  <string id="1837">Gli IV sono statistiche ereditate dai genitori di {STRING_0}\nle quali decretano le loro abilità naturali.\n\nVengono scelte quando il {STRING_0} è nato e non possono essere cambiate.\n\nOgni IV ha un valore massimo di 31.</string>
+  <string id="1838">Cosa sono gli EV?</string>
+  <string id="1839">Gli EV sono statistiche guadagnate battendo\n{STRING_0} selvatici, o dalle Vitamine.\n\nOgni {STRING_0} può guadagnare un totale massimo di 510EV.\nPossono essere rimossi con bacche speciali.</string>
+  <string id="1840">Livello:</string>
+  <string id="1841">Specie:</string>
+  <string id="1842">Oggetto Tenuto:</string>
+  <string id="1843">Mosse:</string>
+  <string id="1844">REGALO,\n {STRING_0} è un regalo.\nNon può essere scambiato.</string>
+  <string id="1845">Inserisci un soprannome per {00}:</string>
+  <string id="1846">Informazioni:</string>
+  <string id="1847">Fiocchi:</string>
+  <string id="1848">Statistiche Base: {00}\nDagli IV: {01}\nDagli EV: {02}\nDalla Natura: {03}</string>
+
+<!-- MOVES -->
+
+  <string id="1850">Potenza:</string>
+  <string id="1851">Precisione:</string>
+
+  <string id="1853">Costo:</string>
+  <string id="1854">Nome:</string>
+  <string id="1855">Tipo:</string>
+
+  <string id="1857">Prec:</string>
+  <string id="1858">Clicca per mostrare le statistiche di {STRING_0} al livello 50 o 5.</string>
+  <string id="1859">(Al Lv. {00})</string>
+  <string id="1860">Questo {STRING_0} può\nreimparare mosse speciali:\n\n{00}</string>
+  <string id="1861">Priorità: </string>
+  <string id="1862">Normale</string>
+
+<!-- INFO TAB -->
+
+<!-- {00} is {STRING_1871} if from trade -->
+<!-- {01} is action (1872-1874) -->
+<!-- {02} is level (1875) -->
+<!-- {03} is location (1876-1877) -->
+<!-- {04} is capture date (1878) -->
+
+  <string id="1871">Apparentemente </string>
+  <string id="1872">Incontrato</string>
+  <string id="1873">Schiuso</string>
+  <string id="1874">Ottenuto</string>
+  <!-- Only during egg/trade -->
+
+  <string id="1875"> al lv. {00}</string>
+
+  <string id="1878">\nsu {00}</string>
+<!-- Level Cap indicators -->
+
+  <string id="1891">This {STRING_0} has no particles.</string>
+
+<!-- CHANNELS -->
+
+  <string id="1900">Canale {00}</string>
+  <string id="1901">Canale {00} -- Canale Attuale</string>
+  <string id="1902">Cambia</string>
+  <string id="1903">Non puoi trasferti sul canale sul quale sei già.</string>
+  <string id="1904">Cooldown: {00} secondi.</string>
+  <string id="1905">Non puoi farlo per {00} secondi.</string>
+  <string id="1906">Imposta Canale Preferito:</string>
+
+<!-- MART -->
+
+  <string id="1925">Totale: ${00}</string>
+  <string id="1926">Prezzo: ${00}</string>
+  <string id="1927">Non hai abbastanza soldi.</string>
+  <string id="1928">Soldi Attuali: ${00}</string>
+  <string id="1929">Numero Attuale: x{00}</string>
+  <string id="1930">Prezzo di Vendita: ${00}</string>
+
+<!-- COIN TRADE -->
+
+  <string id="1939">Totale: {00} Gettoni</string>
+  <string id="1940">Prezzo: {00} Gettoni</string>
+  <string id="1941">Gettoni Attuali: {00}</string>
+  <string id="1942">Non hai abbastanza gettoni.</string>
+<!-- BP TRADE -->
+
+  <string id="1944">Totale: {00} BP</string>
+  <string id="1945">Prezzo: {00} Battle Points</string>
+
+  <string id="1947">Non hai abbastanza Battle Points.</string>
+<!-- ITEM EXCHANGE -->
+
+  <string id="1948">Oggetti necessari:</string>
+  <string id="1949">Non hai tutti gli oggetti necessari.</string>
+<!-- TRADE -->
+
+  <string id="1950">Scambio</string>
+  <string id="1951">Blocca Lista</string>
+  <string id="1952">Sbloccati</string>
+  <string id="1953">Conferma Scambio</string>
+  <string id="1954">In Attesa di Conferma</string>
+  <string id="1955">Lista Bloccati</string>
+  <string id="1956">Scambio Confermato</string>
+  <string id="1957">Soldi:</string>
+  <string id="1958">Il {STRING_0} richiesto non può essere scambiato finché è livello {00}.</string>
+  <string id="1959">Il {STRING_0} richiestò non può essere scambiato perché sta tenendo {00} che non può essere scambiato.</string>
+  <string id="1960">Non puoi scambiare un UOVO.</string>
+  <string id="1961">Non puoi depositare un UOVO.</string>
+  <string id="1962">Quanti {00} vuoi scambiare?</string>
+  <string id="1963">Sei sicuro di voler confermare lo scambio?</string>
+  <string id="1964">Per:</string>
+  <string id="1965">Stai scambiando:</string>
+  <string id="1966">{00} non è un oggetto scambiabile.</string>
+  <string id="1967">Oggetti:</string>
+  <string id="1968">Scambio completato.</string>
+  <string id="1969">Scambio annullato.</string>
+  <string id="1970">Il {STRING_0} richiesto non può essere scambiato perché era un dono.</string>
+
+  <string id="1973">The requested {STRING_0} cannot be traded because it has stored up XP.\nPlease level it up before trading.</string>
+
+<!-- LOGIN ERROR MESSAGES -->
+
+  <string id="2000">Errore di Sistema. Riprova più tardi.</string>
+  <string id="2001">Combinazione username/password non valida.</string>
+  <string id="2002">Non ci sono server disponibili. Riprova più tardi.</string>
+  <string id="2003">La sessione è stata terminata dall'utente.</string>
+  <string id="2004">Il server richiesto non è attivo. Riprova più tardi.</string>
+  <string id="2005">L'account con cui stai tentando di accedere è stato chiuso\nSe non viene mostrata alcuna ragione, può essere dovuto ad un rimborso.</string>
+  <string id="2006">Il server selezionato è attualmente limitato ai membri dello staff. Riprova più tardi.</string>
+  <string id="2007">Non puoi accedere al gioco attraverso questo IP.</string>
+  <string id="2008">Hai inserito la tua password non correttamente troppe volte.\nRiprova più tardi.</string>
+  <string id="2009">Errore nella connessione al server di autorizzazione. Riprova più tardi.</string>
+  <string id="2010">Revisione dei Termini di Servizion non valida. Il tuo client potrebbe essere non aggiornato. Controlla i forum per maggiore supporto.</string>
+  <string id="2011">Non puoi accedere al gioco attraverso questo IP, è stato bloccato.</string>
+  <string id="2012">Questo account non ha accesso a PokeMMO Android Alpha. Riprova più tardi.</string>
+  <string id="2013">Non puoi accedere da questo indirizzo IP.</string>
+  <string id="2014">Errore di connessione al server di gioco. Riprova più tardi.</string>
+
+  <string id="2016">Impossibile contattare il server di autorizzazione.\nControlla le impostazioni del tuo firewall o contatta il supporto.</string>
+  <string id="2017">Hai sbagliato il codice di sicurezza troppe volte.\nRiprova più tardi.</string>
+  <string id="2018">Codice di sicurezza errato.\nRiprova più tardi.</string>
+
+  <string id="2020">Il tuo account è ancora loggato.\nVuoi ricollegarti alla sessione esistente?</string>
+
+<!-- CHARACTER CREATE ERROR MESSAGES -->
+
+  <string id="2100">Il tuo account è pieno. Non puoi creare nuovi personaggi.</string>
+  <string id="2101">Nome personaggio non valido. Inserisci 2-16 caratteri senza numeri o simboli.</string>
+  <string id="2102">Nome personaggio già esistente.</string>
+  <string id="2103">Errore di Sistema. Riprova più tardi.</string>
+  <string id="2104">Sesso non valido.</string>
+  <string id="2105">Colore non valido.</string>
+  <string id="2106">Nome rivale non valido. Inserisci 1-7 caratteri senza numeri o simboli.</string>
+  <string id="2107">Dati aspetto giocatore non validi.</string>
+  <string id="2108">Il tuo client non supporta la regione selezionata.\nVerifica di avere tutte le rom necessarie.</string>
+
+<!-- REQUESTS -->
+
+  <string id="2200">{00} ha richiesto un {04} duello con te.\n\n{STRING_0} Conto: {01}\n{STRING_0} Livello Medio: {02}\n{STRING_0} Livello Max: {03}\nModalità Duello: {05}\nLimite di Tempo: {06}\nTier Permessi: {07}\nClausole: {08}\n\nVuoi accettare?</string>
+  <string id="2201">{00} ti ha inviato una richiesta di amicizia.\nVuoi accettare?</string>
+  <string id="2202">{00} ha richiesto uno scambio.\nVuoi accettare?</string>
+  <string id="2203">{00} ti ha invitato alla gilda {01}.\nVuoi accettare?</string>
+  <string id="2204">{00} ti ha richiesto un collegamento.\nVuoi accettare?</string>
+
+<!-- PLAYER MENU -->
+
+  <string id="2250">Duello</string>
+  <string id="2251">Bisbiglio</string>
+  <string id="2252">Scambio</string>
+  <string id="2253">Aggiungi Amico</string>
+  <string id="2254">Rimuovi dagli Amici</string>
+  <string id="2255">Blocca</string>
+  <string id="2256">Richiama</string>
+  <string id="2257">Assisti</string>
+  <string id="2258">Invita a Collegamento</string>
+  <string id="2259">Finestra Bisbiglio</string>
+
+<!-- PC MENU -->
+
+  <string id="2300">Info</string>
+  <string id="2301">Sposta in</string>
+  <string id="2302">Libera</string>
+  <string id="2303">Sposta Su</string>
+  <string id="2304">Sposta Giù</string>
+
+  <string id="2310">Are you sure you want to release these {STRING_0}?</string>
+  <string id="2311">Sei sicuro di voler liberare {00}?</string>
+
+  <string id="2350">A quale funzione vuoi accedere?</string>
+  <string id="2351">PC di {01}</string>
+
+  <string id="2361">Battaglia</string>
+
+<!-- MISC WINDOW TITLES -->
+
+  <string id="2400">Domande Frequenti</string>
+
+<!-- LINK RELATED -->
+
+  <string id="2500">Caccia da Collegamento</string>
+  <string id="2501">Abbandona Collegamento</string>
+
+<!-- BREEDING DIALOG -->
+
+  <string id="2525">Allevamento</string>
+  <string id="2526">Colloca uno dei genitori qui.</string>
+  <string id="2527">Colloca l'altro genitore qui.</string>
+  <string id="2528">\nRiproduci\n</string>
+  <!-- Extra \n for positioning -->
+
+  <string id="2529">\nQuesti due {STRING_0}\nnon possono accoppiarsi tra loro.\n</string>
+  <string id="2530">Eredità garantita dovuta a {00}</string>
+  <string id="2531">Eredità potenziale dovuta a {00}</string>
+  <string id="2532">Qualsiasi natura è possibile.</string>
+  <string id="2533">Mossa imparata normalmente.</string>
+  <string id="2534">Mossa imparata normalmente, insegnata presto dai genitori.</string>
+  <string id="2535">{STRING_3} mossa conosciuta da un genitore.</string>
+  <string id="2536">Mossa UOVO conosciuta da un genitore.</string>
+  <string id="2537">Mossa speciale, dovuta ad un oggetto tenuto da un genitore.</string>
+  <string id="2538">Questo accoppiamento {STRING_0} non conta per l' "OT catturato {STRING_1}"\nperchè il genitore principale non era il tuo OT.</string>
+
+  <string id="2540">OT sconosciuto</string>
+
+<!-- EVO TYPES -->
+
+  <string id="2550">Albero Evoluzione</string>
+  <string id="2551">Felicità</string>
+  <string id="2552">Felicità - Giorno</string>
+  <string id="2553">Felicità - Notte</string>
+  <string id="2554">Livello {00}</string>
+  <string id="2555">Scambio</string>
+  <string id="2556">Scambio mentre tiene {00}</string>
+  <string id="2557">Scambia per {00}</string>
+  <string id="2558">Usa Oggetto {00}</string>
+  <string id="2559">Level {00} - Statistica di Attacco più alta della Difesa</string>
+  <string id="2560">Level {00} - Statistica di Attacco uguale alla Difesa</string>
+  <string id="2561">Level {00} - Statistica di Attacco più bassa della Difesa</string>
+  <string id="2562">Casuale</string>
+  <string id="2563">Casuale</string>
+  <string id="2564">Livello {00}</string>
+  <string id="2565">Livello {00} - Spazio nella squadra con un {STRING_240004}</string>
+  <string id="2566">Alte statistiche di Bellezza</string>
+  <string id="2567">Usa strumento {00} (♂)</string>
+  <string id="2568">Usa strumento {00} (♀)</string>
+  <string id="2569">Sale di livello mentre tiene {00} - Giorno</string>
+  <string id="2570">Sale di livello mentre tiene {00} - Notte</string>
+  <string id="2571">Sale di livello con {00}</string>
+  <string id="2572">Sale di livello con {00} in squadra</string>
+  <string id="2573">Sale di livello (♂)</string>
+  <string id="2574">Sale di livello (♀)
+
+  </string>
+  <string id="2575">Sale di livello vicino a speciali campi magnetici.</string>
+  <string id="2576">Sale di livello vicino a rocce coperte di muschio.</string>
+  <string id="2577">Sale di livello vicino a rocce ghiacciate.</string>
+
+<!-- GUILD RELATED -->
+
+  <string id="2600">{00} è ora un membro della Gilda {01}.</string>
+  <string id="2601">{00} non è più un membro della Gilda {01}.</string>
+  <string id="2602">Il grado della Gilda {00} è stato cambiato in {01}.</string>
+  <string id="2603">I permessi della Gilda sono stati modificati.</string>
+  <string id="2604">{00} è ora online.</string>
+  <string id="2605">{00} è ora offline.</string>
+  <string id="2606">Sei già in una Gilda.</string>
+  <string id="2607">Nome gilda non Valido. Inserisci 2-16 caratteri senza numeri o simboli.</string>
+  <string id="2608">Una gilda con quel nome esiste già. Scegli un nome differente.</string>
+  <string id="2609">Tag gilda non valido. Inserisci 2-4 caratteri senza numeri o simboli.</string>
+  <string id="2610">Una gilda con quel tag esiste già. Scegli un nome differente.</string>
+  <string id="2611">C'è stato un errore nel server. Riprova più tardi.</string>
+  <string id="2612">C'è stato un errore sconosciuto. Riprova più tardi.</string>
+  <string id="2613">La tua gilda è piena.</string>
+  <string id="2614">Non hai il permesso di farlo.</string>
+  <string id="2615">{00} è già membro di una gilda.</string>
+  <string id="2616">Non sei in una gilda.</string>
+  <string id="2617">Non puoi lasciare una gilda quando ne sei il capo.</string>
+  <string id="2618">Non puoi cacciare il capo di una gilda.</string>
+  <string id="2619">La tua gilda è stata sciolda.</string>
+  <string id="2620">Ci possono essere solo {00} {01}.</string>
+  <string id="2621">La gilda {00} è stata rinominata in {01}.</string>
+  <string id="2622">La gilda {00} ha cambiato il suo tag in {01}.</string>
+  <string id="2623">{00} si è riconnesso.</string>
+
+  <string id="2625">Membro</string>
+  <string id="2626">Ufficiale</string>
+  <string id="2627">Capo</string>
+
+  <string id="2628">Soldato</string>
+  <string id="2629">Comandante</string>
+  <string id="2630">Dirigente</string>
+
+<!-- GUILD WINDOW -->
+
+  <string id="2700">Informazioni</string>
+  <string id="2701">Membri</string>
+  <string id="2702">Nome membro</string>
+  <string id="2703">Membro da</string>
+  <string id="2704">Grado</string>
+  <string id="2705">Opzioni</string>
+  <string id="2706">Caccia dalla gilda</string>
+  <string id="2707">Cambia grado</string>
+  <string id="2708">Crea Gilda</string>
+  <string id="2709">Lascia Gilda</string>
+  <string id="2710">Permessi</string>
+  <string id="2711">Invita Membro</string>
+  <string id="2712">Membri: {00}/{01}</string>
+  <string id="2713">Sciogli Gilda</string>
+  <string id="2714">Scioglimento in {00}.</string>
+  <string id="2715">alcuni minuti</string>
+  <string id="2716">Annulla Scioglimento</string>
+  <string id="2717">Invita nel team</string>
+
+  <string id="2720">Sei sicuro di voler cacciare {00} dalla gilda?</string>
+  <string id="2721">Scegli nuovo grado {00}:</string>
+  <string id="2722">Il membro è già del grado selezionato.</string>
+  <string id="2724">Sei sicuro di voler lasciare il comando a {00}?</string>
+  <string id="2725">Al momento non sei in una gilda. Vuoi crearne una?\n\nCosto creazione gilda: ${00}</string>
+  <string id="2726">Vuoi creare una gilda chiamata {00}?</string>
+  <string id="2727">Vuoi lasciare questa gilda?</string>
+  <string id="2728">Non puoi lasciare la Gilda perché ne sei il Capo.</string>
+  <string id="2729">Nome Gilda:</string>
+  <string id="2730">Tag Gilda:</string>
+  <string id="2731">Vuoi sciogliere questa gilda?</string>
+  <string id="2732">Vuoi annullare lo scioglimento di questa gilda?</string>
+
+  <string id="2750">Invita Membri:</string>
+  <string id="2751">Caccia Membri:</string>
+  <string id="2752">Cambia Messaggio Gilda:</string>
+
+<!-- CUSTOMIZATION -->
+
+  <string id="2800">Personalizza Personaggio</string>
+  <string id="2801">Scegli Colore</string>
+  <string id="2802">Scegli Abbigliamento</string>
+  <string id="2803">Nessuno</string>
+  <string id="2804">Attiva Cappello</string>
+  <string id="2805">Errore nella selezione dell'aspetto.</string>
+  <string id="2806">Stai comprando questo oggetto del colore attualmente selezionato.\nSei sicuro sia questo il colore che vuoi comprare?</string>
+  <string id="2807">Personalizzazione</string>
+  <string id="2808">Colore Pelle #{00}</string>
+  <string id="2809">Abbigliamento e accounciature possono essere acquistati\nnei Marts, nel {STRING_3000}, e\nin altre parti nel mondo.\n\nIl tuo aspetto base può essere solamente cambiato\ncon un {STRING_100009}, che puoi trovare nel {STRING_3000}.</string>
+
+  <string id="2870">Colore Pelle</string>
+  <string id="2871">Fronte</string>
+  <string id="2872">Cappello</string>
+  <string id="2873">Capelli</string>
+  <string id="2874">Occhi</string>
+  <string id="2875">Faccia</string>
+  <string id="2876">Schiena</string>
+  <string id="2877">Maglia</string>
+  <string id="2878">Guanti</string>
+  <string id="2879">Scarpe</string>
+  <string id="2880">Gambe</string>
+  <string id="2881">Canna da Pesca</string>
+  <string id="2882">Bicicletta</string>
+
+<!-- SUPPORT REQUEST -->
+
+  <string id="2900">Richiesta di Supporto</string>
+  <string id="2901">Titolo:</string>
+  <string id="2902">Testo:</string>
+  <string id="2903">Tipo:</string>
+  <string id="2904">Invia Richiesta</string>
+  <string id="2905">Cancella Richiesta</string>
+  <string id="2906">Risposta GM:</string>
+  <string id="2907">Titolo e Testo sono richiesti.</string>
+  <string id="2908">Seleziona una categoria.</string>
+  <string id="2909">Il supporto non esiste per questo tipo di richieste. Puoi ricevere supporto dalla chat o dal forum.</string>
+
+<!-- GIFTSHOP -->
+
+  <string id="2999">Sei sicuro di voler acquistare:{00}\n\nPer {01} Punti Premio?\n\nNOTA: Stai acquistando gli oggetti con i correnti colori selezionati.</string>
+  <string id="3000">Negozio</string>
+  <string id="3001">Bilancio attuale</string>
+  <string id="3002">Punti Premio</string>
+  <string id="3003">Ottieni Punti Premio.</string>
+  <string id="3004">Nessun Oggetto Disponibile.</string>
+  <string id="3005">Sei sicuro di voler comprare\n{00}\nper {01} Punti Premio?</string>
+  <string id="3006">ANTEPRIMA</string>
+  <string id="3007">Nascondi\nCappello</string>
+  <string id="3008">Hai speso {00} Punti Premio.</string>
+  <string id="3009">Sei sicuro di voler comprare {00} per {01} Punti Premio?\n\nNOTA: Stai comprando l'oggetto con il colore attualmente selezionato.</string>
+  <string id="3010">Oggetto a Tempo Limitato!\n{00} rimasti.</string>
+  <string id="3011">Non hai abbastanza Punti Premio.</string>
+  <string id="3012">Ottieni Più Punti Premio</string>
+  <string id="3013">Errore di Sistema. Riprova più tardi.</string>
+  <string id="3014">Hai raggiunto il numero massimo di espansioni PC per questo personaggio.</string>
+  <string id="3015">Hai ottenuto {00} {01}.</string>
+
+  <string id="3018">Hai ottenuto {00} Punti Premio.</string>
+  <string id="3019">Sei sicuro di voler comprare {00} contenente:{01}\n\nPer {02} Punti Premio?\n\nNOTA: Stai comprando gli oggetti con i colori attualmente selezionati.</string>
+
+  <string id="3020">Nuovi</string>
+  <string id="3021">Nome</string>
+  <string id="3022">Prezzo Minore</string>
+  <string id="3023">Prezzo Maggiore</string>
+
+  <string id="3030">Tintura</string>
+
+  <string id="3050">Speciali</string>
+  <string id="3051">Stato di Donatore</string>
+  <string id="3052">Oggetti Vanità</string>
+  <string id="3053">Consumabili</string>
+  <string id="3054">Miscellanea</string>
+  <string id="3055">Oggetti Decorativi</string>
+  <string id="3056">Sposta Ocarina</string>
+
+<!-- WARDROBE -->
+
+  <string id="3200">Nome Oggetto</string>
+  <string id="3201">Prezzo</string>
+  <string id="3202">Costo Totale: {00} Punti Premio</string>
+  <string id="3203">Oggetti Acquistati</string>
+  <string id="3204">Guardaroba</string>
+  <string id="3205">Al momento non ci sono oggetti in questa categoria.</string>
+
+  <string id="3300">Obiettivi:</string>
+  <string id="3349">{STRING_0} Adiacente Selezionato</string>
+  <string id="3350"> {STRING_0} Selezionato</string>
+
+  <string id="3352">Alleato Adiacente.</string>
+  <string id="3353">{STRING_0} Nemico Selezionato</string>
+  <string id="3354">Tutti i {STRING_0} adiacenti</string>
+  <string id="3355">Tutti i nemici adiacenti</string>
+  <string id="3356">Tutti gli alleati</string>
+  <string id="3357">Se stesso</string>
+  <string id="3358">Tutto</string>
+  <string id="3359">Nemico adiacente casuale</string>
+  <string id="3360">Tutto il campo</string>
+  <string id="3361">Zona Nemica</string>
+  <string id="3362">Campo alleati</string>
+  <string id="3363">Speciale</string>
+  <string id="3364">{STRING_0} Nemico Selezionato</string>
+
+  <string id="3400">Contatto fisico con l'avversario.</string>
+  <string id="3401">Può essere prevenuto da {STRING_110182}/{STRING_110197}.</string>
+  <string id="3402">Può essere respinto da {STRING_110277}.</string>
+  <string id="3403">Può essere rubato da {STRING_110289}.</string>
+  <string id="3404">Può essere copiato da {STRING_110119}.</string>
+  <string id="3405">Può essere usato da {STRING_240187}.</string>
+  <string id="3406">Sfrutta le onde sonore; È prevenuta da {STRING_210043}.</string>
+  <string id="3407">Bypassa {STRING_110164}.</string>
+  <string id="3500">{00}% di possibilità di far Tentennare il nemico.</string>
+  <string id="3501">{00}% di possibilità di Scottare il nemico.</string>
+  <string id="3502">{00}% di probabilità di Paralizzare il nemico.</string>
+  <string id="3503">{00}% di possibilità di Congelare il nemico.</string>
+  <string id="3504">{00}% di possibilità di Avvelenare il nemico.</string>
+  <string id="3505">{00}% di possibilità di Iper-Avvelenare il nemico.</string>
+  <string id="3506">{00}% di possibilità di Confondere il nemico.</string>
+  <string id="3507">{00}% di chance di Addormentare il nemico per {01} turno(i).</string>
+  <string id="3508">Probabilità del {00}% di far addormentare l'obiettivo per {01}-{02} turni.</string>
+
+  <string id="3525">Raddoppia il danno al {STRING_0} nei\nturni semi-invulnerabili di {STRING_110091}.</string>
+  <string id="3526">Raddoppia il danno al {STRING_0} nei\nturni semi-invulnerabili di {STRING_110019} e {STRING_110340}.</string>
+  <string id="3527">Raddoppia il danno al {STRING_0} nel\nturno semi-invulnerabile di {STRING_110291}</string>
+
+  <string id="3528">Può colpire un {STRING_0} nel\n turno semi-invulnerabile di {STRING_110091}.</string>
+  <string id="3529">Può colpire un {STRING_0} nei\n turni semi-invulnerabili di {STRING_110019} e {STRING_110340}.</string>
+  <string id="3530">Può colpire un {STRING_0} nei\n turni semi-invulnerabili di {STRING_110091},\n  {STRING_110019}, {STRING_110340} e {STRING_110291}.</string>
+
+  <string id="3531">Quando attiva, impedisce il Congelamento, potenzia le mosse di tipo Fuoco del 50% e riduce l'efficacia delle mosse di tipo Acqua del 50%.</string>
+  <string id="3532">Quando attiva, potenzia le mosse di tipo Acqua del 50% e riduce le mosse di tipo Fuoco del 50%.</string>
+  <string id="3533">Boosts the SP.DEFENSE of Rock-type {STRING_0} by half while active.</string>
+  <string id="3534">Si attiva il doppio più velocemente con il sole. Il suo potere è dimezzato con le altre condizioni metereologiche.</string>
+
+  <string id="3536">La sua precisione aumenta mentre piove ma diminuisce con qualsiasi altra condizione metereologica.</string>
+  <string id="3537">Il suo potere curativo aumenta con il sole ma diminuisce con le altre condizioni metereologiche.</string>
+  <string id="3538">Questa mossa di tipo Normale ha effetto su tipo Spettro {STRING_0}</string>
+  <string id="3539">Non fallisce mai se usata da un {STRING_0} di tipo Veleno</string>
+  <string id="3540">La sua probabilità di successo è dimezzata se usato consecutivamente.</string>
+  <string id="3541">Scongela l'utilizzatore se Congelato.</string>
+  <string id="3542">La condizione metereologica dura 5 turni, annullando ogni condizione metereologica precedente.</string>
+
+  <string id="4000">Biglietto Stato Donatore - 7 Giorni</string>
+  <string id="4001">Un oggetto che può essere utilizzato per\npromuovere il tuo account allo Stato di Donatore.\n\nLo Stato donatore include:\n+25% esperienza in battaglia.\n+10 possibilità di incontrare cromatici.\n+10% di velocità nella schiusura delle uova.</string>
+  <string id="4002">Biglietto Stato Donatore - 15 Giorni</string>
+  <string id="4003">Un oggetto che può essere utilizzato per\npromuovere il tuo account allo Stato di Donatore.\n\nLo Stato donatore include:\n+25% esperienza in battaglia.\n+10 possibilità di incontrare cromatici.\n+10% di velocità nella schiusura delle uova.</string>
+  <string id="4004">Biglietto Stato Donatore - 30 Giorni</string>
+  <string id="4005">Un oggetto che può essere utilizzato per\npromuovere il tuo account allo Stato di Donatore.\n\nLo Stato donatore include:\n+25% esperienza in battaglia.\n+10 possibilità di incontrare cromatici.\n+10% di velocità nella schiusura delle uova.</string>
+  <string id="4006">Espansione PC</string>
+  <string id="4007">Espandi il PC di un singolo personaggio\ndi 60 slot.</string>
+  <string id="4008">Biglietto Espansione PC</string>
+  <string id="4009">Un oggetto che può essere utilizzato per\naumentare il PC di un singolo utente di 60 slot.</string>
+
+<!-- BATTLE RELATED -->
+
+  <string id="5000">Aspettando l'azione degli altri giocatori...</string>
+  <string id="5001">Fine della battaglia dovuta a AFK timeout.</string>
+  <string id="5002">{00} ha iniziato ad assistere alla battaglia.</string>
+  <string id="5003">{00} ha smesso di assistere alla battaglia.</string>
+  <string id="5004">Gli oggetti non possono essere utilizzati in questa Modalità di Battaglia.</string>
+  <string id="5005">La differenza di livello era troppo alta!\nL'oggetto tenuto da {10} si è rotto!</string>
+  <string id="5006">Ma {00} non può rubare da un {STRING_0} esausto.</string>
+
+  <string id="5010">Non può essere usato a causa della\nclausola {00}.</string>
+  <string id="5011">La clausola di questo incontro: {00}</string>
+  <string id="5012">Ma il {STRING_0} selvatico non\nha soldi!</string>
+  <string id="5013">Il duello tra{00}\ne {01} è finito\na causa del superamento del limite di tempo.</string>
+  <string id="5014">I tier di questo incontro: {00}</string>
+  <string id="5015">Il tempo limite di questo incontro: {00} minuti</string>
+  <string id="5017">{00} ha sconfitto\n{01}!</string>
+  <string id="5018">{00}\nhanno sconfitto\n{01}!</string>
+  <string id="5019">{00} cromatico</string>
+  <string id="5020">Gruppo</string>
+  <string id="5021">Un gruppo selvatico è apparso! </string>
+  <string id="5022">{00} {01} sent\nout all of their {STRING_0}!</string>
+  <string id="5023">Sei circondato!</string>
+
+  <string id="5025">{00} di {01}</string>
+
+  <string id="5027">L'effetto di {00} non è completamente implementato.</string>
+  <string id="5028">{00} ha cercato di salire di livello,\nma non può se non hai altre medaglie!</string>
+
+  <string id="5031">Select your {STRING_0} for Slot {00}:</string>
+
+  <string id="5100">LOTTA</string>
+  <string id="5101">Scegli un attacco.</string>
+
+  <string id="5103">Cambia {STRING_0} attuale.</string>
+  <string id="5104">ZAINO</string>
+  <string id="5105">Usa un oggetto.</string>
+  <string id="5106">FUGA</string>
+  <string id="5107">Scappa dalla battaglia.</string>
+  <string id="5108">SFERA</string>
+  <string id="5109">Prova a catturare. ({00} rimaste.)</string>
+  <string id="5110">ROCCIA</string>
+  <string id="5111">Lancia una roccia.</string>
+  <string id="5112">ESCA</string>
+  <string id="5113">Lancia un'esca.</string>
+  <string id="5114">SPOSTA</string>
+  <string id="5115">Sposta nel centro.</string>
+
+<!-- BATTLE STATUS INFO -->
+
+  <string id="5200">Turno #{00}</string>
+  <string id="5201">Tempo Battaglia: {00}</string>
+  <string id="5202">Tempo Rimasto: {00}</string>
+  <string id="5203">Riavvia Timer: {00}</string>
+
+  <string id="5220">Addormentato</string>
+  <string id="5221">Avvelenato</string>
+  <string id="5222">Scottato</string>
+  <string id="5223">Congelato</string>
+  <string id="5224">Paralizzato</string>
+
+  <string id="5230">PS: {00}%</string>
+  <string id="5231">PS: {00} / {01} - {02}%</string>
+
+  <string id="5400">Le iscrizioni partono tra {00}</string>
+  <string id="5401">Il torneo parte in {00}</string>
+
+<!-- MATCHMAKING RELATED -->
+
+  <string id="5500">Iscrizione al Matchmaking</string>
+  <string id="5501">In coda...</string>
+  <string id="5502">Il round inizia in {01} secondi.</string>
+  <string id="5503">Creando la partita...</string>
+  <string id="5504">Lascia Coda</string>
+  <string id="5505">Entrando in coda per {00}.</string>
+  <string id="5506">Matchmaking: Nessun incontro adatto trovato per questo round.</string>
+  <string id="5507">Entrando in coda</string>
+
+  <string id="5509">Il risultato di questo match sarà registrato e mostrato sulla classifica.\n\nSolo {STRING_0} di livello 50 o superiore possono essere utilizzati.</string>
+  <string id="5510">Le statistiche di questa partita non saranno salvate.</string>
+  <string id="5511">Noleggio {STRING_0}</string>
+  <string id="5512">Salva</string>
+  <string id="5513">Il round inizia in {01} minuti.</string>
+  <string id="5514">Il round inizia in {01} ore.</string>
+
+  <string id="5515">Registrati</string>
+  <string id="5516">Partita in corso</string>
+  <string id="5517">Il torneo inizia in {01} secondi.</string>
+  <string id="5518">Il torneo inizia in {01} minuti.</string>
+  <string id="5519">Il torneo inizia in {01} ore.</string>
+
+  <string id="5520">Il matchmaking classificato ha una tassa di iscrizione di {00} BP.\nSaranno utilizzati solamente se sarai selezionato come partecipante.\n\nDesideri iscriverti?</string>
+  <string id="5521">Posizione Coda: {00}/{01}</string>
+  <string id="5522">I partecipanti sono selezionati in ordine di arrivo.</string>
+
+  <string id="5523">Si può avere una sola iscrizione per volta.</string>
+  <string id="5524">Sei sicuro di voler lasciare la coda?</string>
+
+  <string id="5525">Iscrizione</string>
+  <string id="5526">Clausole in vigore:</string>
+  <string id="5527">Clausole</string>
+  <string id="5528">Squadra Attuale:</string>
+  <string id="5529">Ban Attuali:</string>
+
+  <string id="5531">Aiuto</string>
+  <string id="5532">Normale</string>
+  <string id="5533"> - Parte ogni 2 minuti.\n - Minore Ricompensa BP\n - Non classificata.</string>
+  <string id="5534">Classificato</string>
+  <string id="5535">- C'è 8 volte al giorno.\n - Costo d'iscrizione in BP. \n - Classifica completa. \n - Compressione ELO mensile. \n - Ricompense mensili basate sulla classifica.</string>
+  <string id="5536">Tornei</string>
+
+  <string id="5540">SINGOLA</string>
+  <string id="5541">DOPPIA</string>
+
+  <string id="5543">MULTI (Co-Op)</string>
+
+  <string id="5550">Livello Automatico</string>
+  <string id="5551">Livello 50</string>
+  <string id="5552">Livello 100</string>
+  <string id="5560">Un {00} con modifica automatica del livello.\nLe dimensioni della squadra e i livelli sono automaticamente eguagliati a quelli del tuo avversario.</string>
+  <string id="5561">Un {00} in formato livello 50.\nLe dimensioni della squadra sono automaticamente eguagliati a quelli del tuo avversario.</string>
+  <string id="5562">Un {00} in formato livello 100t.\nLe dimensioni della squadra sono automaticamente eguagliati a quelli del tuo avversario.</string>
+
+  <string id="5581">Matchmaking: Tu o la tua attuale squadra non siete idonei.</string>
+
+<!-- Tournament Rewards dialogue -->
+<!-- Monster Prize dialog -->
+<!-- {00} is descriptor string; either "Shiny Gift", "Shiny", or "Gift" -->
+<!-- {01} is monster species -->
+
+  <string id="5585">Natura</string>
+
+<!-- {00} = count, {01} = value, e.g. (4x31) -->
+
+<!-- {00} = money value, {01} = RP -->
+
+<!-- Staff positions in tournaments -->
+
+  <string id="5600">Impossibile iscriversi al matchmaking perché già sei registrato.</string>
+  <string id="5601">Impossibile iscriversi al matchmaking perché la tua squadra contiene un livello non valido.</string>
+  <string id="5602">Impossibile iscriversi al matchmaking perché la tua squadra è troppo piccola o troppo grande.</string>
+  <string id="5603">Impossibile iscriversi al matchmaking per un errore sconosciuto.</string>
+  <string id="5604">Impossibile iscriversi al matchmaking perché la tua squadra viola la clausola {00}.</string>
+  <string id="5605">Impossibile iscriversi al matchmaking perché uno dei tuoi {STRING_0} è bandito dal matchmaking.</string>
+  <string id="5606">Non puoi iscriverti al matchmaking perché il torneo richiesto non era valido.</string>
+  <string id="5607">Non sei un partecipante di questo torneo.</string>
+  <string id="5608">Non possiedi i requisiti necessari per l'iscrizione.</string>
+  <string id="5609">Non puoi iscriverti al matchmaking perché la tua squadra viola le tier o ha un ban.</string>
+  <string id="5610">Devi completare la storia prima di poter accedere a questa funzione.</string>
+  <string id="5611">Non hai abbastanza Battle Points per iscriverti.</string>
+  <string id="5612">Non hai abbastanza denaro per iscriverti.</string>
+
+  <string id="5614">Cromatico</string>
+
+  <string id="5625">Solo il tier {00} è consentito.</string>
+  <string id="5626">È richiesta una squadra completa di 6.</string>
+  <string id="5627">Solo livelli 50+ permessi.</string>
+
+  <string id="5629">La tier {00} non è permessa.</string>
+
+  <string id="5650">Ultimo Aggiornamento: {00}</string>
+  <string id="5651">Statistiche Personali</string>
+
+  <string id="5653">Valutazione\nattuale:\n{00}</string>
+  <string id="5654">Posizione\nattuale:\n{00}</string>
+  <string id="5655">Settimana:</string>
+  <string id="5656">Mese:</string>
+  <string id="5657">Generale:</string>
+  <string id="5658">Rapporto Vincite/Perdite</string>
+  <string id="5659">Battaglia</string>
+  <string id="5660">Turno</string>
+  <string id="5661">Durata Battaglia</string>
+  <string id="5662">Nessuna battaglia trovata.</string>
+  <string id="5663">Grado</string>
+
+  <string id="5665">Vittorie / Perdite</string>
+  <string id="5666">Vittoria %</string>
+  <string id="5667">Assisti</string>
+  <string id="5668">Valutazione</string>
+
+  <string id="5700">Evasione</string>
+  <string id="5701">Sonno</string>
+
+  <string id="5703">Specie Unica</string>
+  <string id="5704">Suicidio</string>
+  <string id="5705">Oggetto Unico</string>
+  <string id="5706">Oggetto OP</string>
+
+  <string id="5710">Mosse che aumentano l'Evasione\nnon avranno effetto.</string>
+  <string id="5711">Puoi addormentare solo uno dei \n{STRING_0} del tuo avversario per volta.</string>
+
+  <string id="5713">Non puoi entrare con specie identiche\nnella tua squadra.</string>
+  <string id="5714">Se sconfiggi l'ultimo {STRING_0} del tuo\navversario con una mossa che elimina anche\nil tuo ultimo{STRING_0}, perdi.</string>
+  <string id="5715">Tutti {STRING_0} devono usare un unico oggetto tenuto.</string>
+  <string id="5716">{STRING_245221}, {STRING_245327}, {STRING_245217},\n{STRING_245213}, {STRING_245230} e {STRING_245255}\nnon possono essere utilizati.</string>
+  <string id="5730">Tutti i {STRING_0} devono essere sopra il 50.</string>
+
+  <string id="5749">Tutti i Tier</string>
+
+  <string id="5754">Piccola Coppa</string>
+
+  <string id="5760">Ubers (Classificata)</string>
+  <string id="5761">Over Used (Classificata)</string>
+  <string id="5762">Under Used (Classificata)</string>
+  <string id="5763">Never Used (Classificata)</string>
+
+<!-- MAIL -->
+
+  <string id="5800">La tua posta è stata inviata con successo</string>
+  <string id="5801">Non puoi inviare posta a questo utente avendoti bloccato.</string>
+  <string id="5802">Non puoi inviare posta a questo utente avendo la mailbox piena.</string>
+  <string id="5803">Si è verificato un errore sconosciuto.</string>
+  <string id="5804">Il destinatario non è stato trovato.</string>
+  <string id="5805">Il titolo deve essere compreso tra i 3-40 caratteri.</string>
+  <string id="5806">Il contenuto deve essere compreso tra i 3-2000 caratteri.</string>
+  <string id="5807">Non hai abbastanza soldi.</string>
+  <string id="5808">L'oggetto allegato non è stato trovato.</string>
+  <string id="5809">Il {STRING_0} allegato non è stato trovato.</string>
+  <string id="5810">Non puoi mandare il tuo ultimo {STRING_0}.</string>
+  <string id="5811">Non puoi mandare così tanto denaro.</string>
+  <string id="5812">Non puoi scambiare un UOVO.</string>
+  <string id="5813">L'allegato non è un oggetto scambiabile.</string>
+  <string id="5814">Il {STRING_0} richiesto non può essere scambiato perché era un dono.</string>
+  <string id="5815">Non puoi mandarti una mail da solo.</string>
+  <string id="5816">Sei sicuro di voler cancellare i contenuti di questo messaggio?</string>
+  <string id="5817">Hai ricevuto una nuova mail.</string>
+  <string id="5818">Non puoi inviare una mail in quanto la tua casella email è piena.</string>
+
+  <string id="5820">La mail richiesta non è stata trovata.</string>
+  <string id="5821">Non puoi cancellare mail che hanno ancora un allegato.\nRecuperalo e riprova.</string>
+  <string id="5822">Si è verificato un errore aggiungendo gli allegati.\nAlcuni allegati non sono stati aggiunti.</string>
+  <string id="5823">La tua squadra è attualmente piena.</string>
+
+  <string id="5825">{00} Mail non lette.</string>
+
+  <string id="5828">Destinatario</string>
+  <string id="5829">Titolo</string>
+  <string id="5830">Contenuto</string>
+  <string id="5831">Denaro Allegato</string>
+  <string id="5832">Oggetto Allegato</string>
+  <string id="5833">{STRING_0} Allegato</string>
+  <string id="5834">Mail Inviata</string>
+  <string id="5835">Mail Letta</string>
+  <string id="5836">Mittente</string>
+  <string id="5837">Data</string>
+  <string id="5838">Cancella</string>
+
+  <string id="5840">Costo servizio di Mail:</string>
+  <string id="5841">Pulisci</string>
+  <string id="5842">A quanti {00} vuoi inviare una mail?</string>
+  <string id="5843">Rivendica</string>
+  <string id="5844">Rispondi</string>
+
+  <string id="5846">You can only attach {STRING_0}, items and money from the PC.</string>
+  <string id="5847">Puoi reclamare gli oggetti solo dal PC.</string>
+
+  <string id="5850">Hai creato con successo un nuovo annuncio.</string>
+  <string id="5851">Si è verificato un errore sconosciuto.</string>
+  <string id="5852">Non hai abbastanza soldi.</string>
+  <string id="5853">L'oggetto allegato non è stato trovato.</string>
+  <string id="5854">Il {STRING_0} allegato non è stato trovato.</string>
+  <string id="5855">Non puoi vendere il tuo ultimo {STRING_0}.</string>
+  <string id="5856">Non puoi chiedere così tanti soldi.</string>
+  <string id="5857">Non puoi scambiare un Uovo.</string>
+  <string id="5858">Il seguente {STRING_0} allegato tiene un oggetto. Per favore rimuovilo per continuare.</string>
+  <string id="5859">Il {STRING_0} richiesto non può essere scambiato perché era un dono.</string>
+  <string id="5860">L'allegato non è un oggetto scambiabile.</string>
+  <string id="5861">L'oggetto allegato selezionato non è un oggetto scambiabile.</string>
+
+  <string id="5863">You have reached the maximum amount of active {STRING_0} listings.</string>
+  <string id="5865">Servono {00} medaglie per usare il Global Trade Link.</string>
+  <string id="5870">Hai completato con successo un acquisto.</string>
+  <string id="5871">L'annuncio richiesto non è stato trovato.</string>
+  <string id="5872">Non puoi comprare il tuo stesso annuncio.</string>
+  <string id="5880">L'annuncio richiesto è stato cancellato.</string>
+  <string id="5881">L'annuncio richiesto non è stato trovato.</string>
+  <string id="5882">L'annuncio richiesto ha fondi incerti. Rivendica prima di cancellare.</string>
+  <string id="5890">Hai rivendicato con successo l'annuncio di fondi/oggetti.</string>
+  <string id="5891">L'annuncio richiesto non è stato trovato.</string>
+  <string id="5892">Impossibile reclamare i premi del torneo con i parametri richiesti.</string>
+
+<!-- GAME MESSAGES -->
+
+  <string id="5970">None of your {STRING_0} know how to Fly.</string>
+
+  <string id="5996">{00} non può accettare la tua richiesta perché in coda per un evento PvP.</string>
+  <string id="5997">Il possessore di questo collegamento ti ha bloccato.</string>
+  <string id="5998">Non può essere trovato il collegamento a ciò che hai cliccato.\nIl possessore potrebbe essere offline o non più possessore dello stesso oggetto.</string>
+  <string id="5999">Trovato un errore di grandezza nella GUI. Le Perfomance sono rallentate.\nPerfavore controlla due volte ogni traduzione/stringa modificata per problemi di grandezza.</string>
+  <string id="6000">Screenshot salvato.</string>
+  <string id="6001">Errore salvataggio screenshot.</string>
+  <string id="6002">Non puoi farlo adesso.</string>
+  <string id="6003">Impossibile trovare oggetto.</string>
+  <string id="6004">Impossibile trovare bersaglio.</string>
+  <string id="6005">Non avrebbe alcun effetto.</string>
+  <string id="6006">L'oggetto richiesto non è stato trovato.</string>
+  <string id="6007">Non è stato trovato niente...</string>
+  <string id="6008">Deve essere ricaricato. {00} passi rimasti.</string>
+  <string id="6009">{00} è stato usato su\n{01}.</string>
+  <string id="6010">Hai ottenuto {00} {01} da {02}.</string>
+  <string id="6011">L'effetto di {00} è finito.</string>
+  <string id="6012">L'effetto di {00} è finito.\nUsarne un altro?</string>
+  <string id="6013">{00} è attualmente occupato e non può accettare la tua richiesta.</string>
+  <string id="6014">Il giocatore {00} non può essere trovato.</string>
+  <string id="6015">Il giocatore richiesto non può essere trovato.</string>
+  <string id="6016">{00} sta rifiutando automaticamente le richieste di scambio.</string>
+  <string id="6017">{00} sta rifiutando automaticamente le richieste di duello.</string>
+  <string id="6018">{00} sta rifiutando automaticamente gli inviti alle gilde.</string>
+  <string id="6019">{00} sta rifiutando automaticamente le richieste di amicizia.</string>
+  <string id="6020">{00} ha accettato la tua richiesta di amicizia.</string>
+  <string id="6021">{00} ha rifiutato la tua richiesta di amicizia.</string>
+  <string id="6022">{00} non ha risposto in tempo alla tua richiesta di amicizia.</string>
+  <string id="6023">{00} ha accettato il tuo invito alla gilda.</string>
+  <string id="6024">{00} ha rifiutato il tuo invito alla gilda.</string>
+  <string id="6025">{00} non ha risposto in tempo al tuo invito alla gilda.</string>
+  <string id="6026">{00} ha accettato la tua richiesta di duello.</string>
+  <string id="6027">{00} ha rifiutato la tua richiesta di duello.</string>
+  <string id="6028">{00} non ha risposto in tempo alla tua richiesta di duello.</string>
+  <string id="6029">{00} ha accettato la tua richiesta di scambio.</string>
+  <string id="6030">{00} ha rifiutato la tua richiesta di scambio.</string>
+  <string id="6031">{00} non ha risposto in tempo alla tua richiesta di scambio.</string>
+  <string id="6032">Non puoi usare quell'oggetto adesso.</string>
+  <string id="6037">Non hai il permesso di farlo.</string>
+  <string id="6038">Non hai abbastanza spazio per un altro {00}.</string>
+  <string id="6039">Hai il permesso di cambiare un solo {STRING_0}.</string>
+  <string id="6040">Non è permesso cambiare {STRING_0}\nin questa battaglia.</string>
+  <string id="6041">Vuoi annullare l'evoluzione?</string>
+  <string id="6042">Attualmente hai {00} gettoni.</string>
+  <string id="6043">Attualmente hai {00} soot stacks.</string>
+
+<!-- LINK RELATED -->
+
+  <string id="6044">Non puoi invitare te stesso ad un collegamento.</string>
+  <string id="6045">{00} sta rifiutanto automaticamente richieste di collegamento.</string>
+  <string id="6046">{00} ha accettato la tua richeista di collegamento.</string>
+  <string id="6047">{00} ha rifiutato la tua richeista di collegamento.</string>
+  <string id="6048">{00} non ha risposto in tempo alla tua richiesta di collegamento.</string>
+  <string id="6049">{00} è già membro di un collegamento.</string>
+  <string id="6050">Il tuo collegamento è pieno.</string>
+  <string id="6051">Errore nel creare il collegamento. Potrebbe essere pieno.</string>
+  <string id="6052">Il tuo collegamento è stato sciolto.</string>
+  <string id="6053">{00} ha lasciato il collegamento.</string>
+  <string id="6054">{00} è stato cacciato dal collegamento.</string>
+  <string id="6055">Sei stato cacciato dal collegamento.</string>
+  <string id="6056">Impossibile cambiare i membri di un collegamento ora.</string>
+  <string id="6057">In attesa del partner sul collegamento...\nPremi {KEY_B} per annullare.</string>
+  <string id="6058">Si è verificato un errore sul collegamento.\nRiprova più tardi.</string>
+  <string id="6059">Un membro del tuo collegamento ha abbandonato l'area eventi.</string>
+
+  <string id="6060">Hai usato {00}.</string>
+  <string id="6061">Obtained {00}\n{STRING_6} decoration item.</string>
+  <string id="6062">{00} ha raccolto {01}!</string>
+  <string id="6063">Hai trovato {00}!</string>
+  <string id="6064">{00} ottiene {01}\nBattle Points per la vittoria!</string>
+  <string id="6065">Hai raccolto {00} {01} da {02}.</string>
+  <string id="6066">{00} ha raccolto {01}!\n\n{02} mette {01} nello zaino.</string>
+  <string id="6067">{00} ha usato il suo {STRING_240194}!</string>
+  <string id="6068">{00} ha usato il suo {01}!</string>
+
+  <string id="6070">La tua lingua di chat è stata impostata a {00} da un moderatore.</string>
+  <string id="6071">Il tuo tipo di chat è stato impostato a "{00}" da un moderatore.\nUsa il canale appropriato per i tuoi messaggi.</string>
+  <string id="6072">La tua lingua di chat è stata impostata a {00} dal sistema.</string>
+  <string id="6073">Il tuo tipo di chat è stato impostato a "{00}" dal sistema.</string>
+  <string id="6074">Non hai abbastanza {00}.</string>
+  <string id="6075">Sei stato escluso dalla chat {00} per {01} secondi.</string>
+  <string id="6076">Sei attualmente silenziato per {00} secondi.</string>
+  <string id="6077">Motivo del silenziamento: {00}</string>
+
+  <string id="6081">None of your {STRING_0} know {00}!</string>
+
+  <string id="6091">{STRING_910000} items can not replace {STRING_910000} moves.</string>
+
+<!-- NICKNAME -->
+
+  <string id="6100">{00} è ora soprannominato {01}.</string>
+  <string id="6101">Devi essere l'Allenatore Originale per assegnare un soprannome.</string>
+  <string id="6102">{00} ha già un soprannome.</string>
+  <string id="6103">Hai inserito un soprannome non valido.</string>
+  <string id="6104">Impossibile trovare un bersaglio a cui assegnare un soprannome.</string>
+  <string id="6105">Il soprannome richiesto non è consentito.</string>
+
+<!-- PARTICLE -->
+
+<!-- INTEGRATIONS -->
+
+<!-- HIDOUT -->
+
+  <string id="6750">Crea una {STRING_6} qui</string>
+  <string id="6751">Entra nella {STRING_6} di {00}</string>
+  <string id="6752">Impossibile entrare nella {STRING_6} di {00}.\nPotrebbero non essere più online, o potresti non avere più il permesso.</string>
+  <string id="6753">Impossibile entrare nella {STRING_6}.\nIl proprietario potrebbe non essere più online, o potresti non avere più il permesso.</string>
+  <string id="6754">Deposito Decorazioni: {00} / {01}</string>
+
+<!-- PING RELATED -->
+
+<!-- DISCONNECT MESSAGES -->
+
+  <string id="6800">Sei stato disconnesso dal server di gioco.</string>
+  <string id="6801">Un altro utente ha effettuato l'accesso.</string>
+  <string id="6802">Sei stato disconnesso dal server di gioco perché eri AFK.</string>
+  <string id="6803">Il tuo client non è aggiornato, aggiorna prima di provare a connetterti.</string>
+  <string id="6804">C'è stato un errore, riprova più tardi.</string>
+
+  <string id="6806">Il server è spento per manutenzione.\nControlla i forum per maggiori informazioni.</string>
+  <string id="6808">Il ticket richiesto per la connessione è scaduto o non è valido.\nEntra normalmente.</string>
+
+<!-- OVERWORLD LEGENDARIES -->
+
+  <string id="6900">{00} non ti permette di volare.</string>
+  <string id="6901">{00} non ti permette di andare in bicicletta.</string>
+  <string id="6902">{00} ha catturato un {01} selvatico vicino {02} sul canale {03}! {00} dovrà accettare battaglie per mantenere il controllo del {01}!</string>
+  <string id="6903">{00} ha sconfitto {01} e ha ottenuto il controllo del {02} selvatico vicino {03} sul canale {04}! {00} dovrà accettare battaglie per mantenere il controllo del {02}!</string>
+  <string id="6904">{00} ha sconfitto lo sfidante {01} e ha mantenuto il controllo del {02} selvatico vicino {03} sul canale {04}!</string>
+  <string id="6905">Il {00} selvatico si è annoiato del suo attuale allenatore ed è scappato. Si può ora trovare selvatico.</string>
+  <string id="6906">Il {00} selvatico esce dalla sua {STRING_240004}.</string>
+  <!-- Follower change attempt message -->
+
+  <string id="6907">Un {STRING_240001} non può essere usato su\nquesto {STRING_0} selvatico.</string>
+  <string id="6908">{00} non ti permette di farlo.</string>
+
+  <string id="6910">Questa specie di {STRING_0} è troppo timida per uscire dalla {STRING_245004}.</string>
+
+<!-- TOOLTIP MESSAGES -->
+
+  <string id="7000">• conferma sempre i tuoi scambi prima della conferma finale.\n• Assicurati di avere abbastanza spazi liberi nella tua squadra, o lo scambio fallirà.\n• Quando un {STRING_0} cromatico è messo nello slot per lo scambio avrà uno speciale contorno dorato:</string>
+  <string id="7001">Party Slot shortcuts:\n\n• Right Click ➡ Open popup menu.\n• Ctrl + Right Click ➡ Open {STRING_0} window.\n• Ctrl + Left Click ➡ Move to first free slot.\n• Shift + Left Click ➡ Multiselect.\n• Alt + Left Click ➡ Move to tab popup.\n• Shift + Ctrl + Left Click ➡ Release popup.</string>
+  <string id="7002">Seleziona Tutto</string>
+  <string id="7003">Deseleziona Tutto</string>
+  <string id="7004">Modifica Nome Linguetta</string>
+
+<!-- INSTANCE INFO -->
+
+  <string id="7900">Informazione istanza</string>
+  <string id="7901">Regione</string>
+  <string id="7902">Nome istanza</string>
+  <string id="7903">Livello Minimo</string>
+
+  <string id="7905">Completato</string>
+  <string id="7910">Pronto</string>
+  <string id="7911">{00} volta/e</string>
+
+<!-- TRADE HOUSE -->
+
+  <string id="8001">{STRING_0} Annunci</string>
+  <string id="8002">Annunci Oggetti</string>
+  <string id="8003">Tuoi Annunci</string>
+  <string id="8004">Crea Annuncio</string>
+
+  <string id="8005">Oggetto</string>
+  <string id="8006">Richiedi Prezzo Unità</string>
+  <string id="8007">Costo Annuncio</string>
+  <string id="8008">Pulisci</string>
+  <string id="8009">Vendi</string>
+  <string id="8010">Ricerca Avanzata</string>
+  <string id="8011">Cromatico</string>
+  <string id="8012">Prezzo</string>
+  <string id="8013">Data Fine</string>
+  <string id="8014">Compra</string>
+  <string id="8015">Oggetto</string>
+  <string id="8016">Quantità</string>
+  <string id="8017">Invenduti</string>
+  <string id="8018">Non\nrivendicati</string>
+  <string id="8019">Stato</string>
+  <string id="8020">Annulla</string>
+  <string id="8021">Rivendica</string>
+  <string id="8022">Attivo</string>
+  <string id="8023">Terminato</string>
+
+  <string id="8025">Hai ottenuto {00} {01} da {STRING_8000}.</string>
+  <string id="8026">Ti è stata mandata posta {00} {01} da {STRING_8000}.</string>
+  <string id="8027">Hai ottenuto ${00} da {STRING_8000}.</string>
+  <string id="8028">Mostrando da {00} a {01} di {02} annunci.</string>
+  <string id="8029">Questa funzione si usa solo al PC.</string>
+  <string id="8030">Sei sicuro di voler cancellare questo annuncio?\nLa tassa non verrà rimborsata.</string>
+  <string id="8031">Quanti {00} vuoi comprare?</string>
+  <string id="8032">Sei sicuro di voler comprare questo annuncio?</string>
+  <string id="8033">Quanti {00} vuoi vendere?</string>
+  <string id="8034">Scambio</string>
+  <string id="8035">Ricarica</string>
+  <string id="8036">Rimuovi i filtri di ricerca avanzata.</string>
+  <string id="8037">Data Inizio</string>
+
+  <string id="8044">Are you sure you want to sell {00} for {01}?\n\nThis {STRING_0} is highly valuable.</string>
+
+  <string id="8050">NUOVI</string>
+  <string id="8051">PIÙ VECCHIO</string>
+  <string id="8052">PREZZO MINORE</string>
+  <string id="8053">PREZZO MAGGIORE</string>
+
+<!-- SEARCH -->
+
+  <string id="8100">Sesso</string>
+  <string id="8101">MASCHIO</string>
+  <string id="8102">FEMMINA</string>
+  <string id="8103">Cromatico</string>
+  <string id="8104">SI</string>
+
+  <string id="8106">Natura</string>
+  <string id="8107">Gruppo\nUova</string>
+  <string id="8108">Livello Minimo</string>
+  <string id="8109">Livello Massimo</string>
+
+  <string id="8112">Cerca</string>
+  <string id="8113">Prezzo Minimo</string>
+  <string id="8114">Prezzo Massimo</string>
+
+  <string id="8120">Tasca Oggetti</string>
+  <string id="8121">Tasca Cosmetici</string>
+
+  <string id="8200">Acquisto GTL</string>
+  <string id="8201">Qui ci sono i tuoi recenti acquisti dal\nGlobal Trade Link.</string>
+
+  <string id="8203">Qui ci sono i tuoi oggetti restituiti dal\nGlobal Trade Link.</string>
+  <string id="8204">Rivendicazione GTL</string>
+  <string id="8205">Qui ci sono i tuoi oggetti rivendicati dal\nGlobal Trade Link.</string>
+  <string id="8206">Premio Torneo</string>
+  <string id="8207">Ecco i tuoi premi ricevuti dal\ntorneo.</string>
+
+  <string id="8501">Tinta</string>
+  <string id="8502">Sei sicuro di voler colorare questo oggetto col colore selezionato?</string>
+  <string id="8503">L'oggetto non può colorare.</string>
+  <string id="8504">Seleziona un oggetto da colorare.</string>
+  <string id="8505">Seleziona un oggetto per l'anteprima di colorazione.</string>
+
+  <string id="8550">Seleziona la bacca che desideri raccogliere:</string>
+  <string id="8551">Semi Raccolti</string>
+  <string id="8552">Sei sicuro di voler raccogliere x{00} {01}?</string>
+  <string id="8554">Quanti {00} desideri raccogliere?</string>
+  <string id="8555">L'oggetto non può essere raccolto.</string>
+
+  <string id="8557">Seleziona una bacca da raccogliere.</string>
+  <string id="8558">Strumenti da Raccolta</string>
+  <!-- Shop dialog -->
+
+  <string id="8559">Semi Pianta</string>
+
+  <string id="8560">Mixer Bacche</string>
+  <string id="8561">Mixa</string>
+  <string id="8562">Quell'oggetto non può essere piegato.</string>
+
+  <string id="8570">Macinazione Bacche</string>
+  <string id="8571">Macina</string>
+  <string id="8572">Quell'oggetto non può essere macinato.</string>
+  <string id="8573">Lavorazione Farina di Bacche</string>
+
+  <string id="8580">Serve un {STRING_100045} per raccogliere semi.</string>
+  <string id="8581">Serve un {STRING_240372} per macinare bacche.</string>
+
+<!-- TOURNAMENTS -->
+
+  <string id="9000">{00} Il torneo è entrato nella fase di iscrizione!</string>
+  <string id="9001">{00} Il torneo è iniziato!</string>
+  <string id="9002">{00} Il torneo è finito! Congratulazioni ai vincitori!</string>
+  <string id="9100">Non sei stato selezionato per partecipare al torneo.</string>
+  <string id="9101">Hai vinto la battaglia del torneo per abbandono.</string>
+  <string id="9102">Aspettando il tuo avversario per l'iscrizione alla battaglia, ha {00} minuti restanti prima della squalifica.</string>
+  <string id="9103">Hai {00} minuti per iscriverti alla battaglia del torneo o sei squalificato.</string>
+  <string id="9104">Sei stato squalificato dalla battaglia del torneo.</string>
+  <string id="9105">Scusa, il torneo è stato cancellato a causa del numero di partecipanti non sufficiente.</string>
+  <string id="9106">Ci spiace, non sei stato selezionato per partecipare al torneo.\nEri occupato durante la selezione.</string>
+  <string id="9107">Eri occupato e non hai potuto iniziare la battaglia del torneo.\nVerrai squalificato tra {00} minuti.</string>
+  <string id="9108">La tua squadra non è più idonea per la battaglia del torneo.\nHai {00} minuti prima di venire squalificato.</string>
+
+  <string id="9120">Questo torneo ha un costo d'iscrizione di {00}.\nQuesto denaro verrà speso solo se verrai effettivamente selezionato come partecipante.\n\nVuoi registrarti?</string>
+  <string id="9121">Posizione in Classifica</string>
+
+  <string id="9150">Iscrizione Torneo</string>
+  <string id="9151">Non sono presenti tornei a cui è possibile iscriversi al momento.</string>
+  <string id="9152">Tornei</string>
+  <string id="9153">Torneo Attuale</string>
+  <string id="9154">Storia Torneo</string>
+  <string id="9155">Nome</string>
+  <string id="9156">Posti</string>
+  <string id="9157">Data Inizio</string>
+  <string id="9158">Stato</string>
+  <string id="9159">Nome Torneo</string>
+  <string id="9160">Id Torneo</string>
+  <string id="9161">Formato Torneo</string>
+  <string id="9162">Posti Torneo</string>
+  <string id="9163">Tier Torneo</string>
+  <string id="9164">Data Inizio</string>
+  <string id="9165">Stato Torneo</string>
+  <string id="9166">Requisiti e Costo di Iscrizione</string>
+  <string id="9167">Staff Torneo</string>
+  <string id="9168">Premi Torneo</string>
+
+  <string id="9170"> - Finali</string>
+  <string id="9171"> - Semi-finali</string>
+
+  <string id="9175">In Corso</string>
+
+  <string id="9177">Vincitore: {00}</string>
+  <string id="9178">Mutua Squalificazione</string>
+  <string id="9179">Entrambi i giocatori sono stati squalificati</string>
+
+  <string id="9200">Bozza</string>
+  <string id="9201">In arrivo</string>
+
+  <string id="9204">Completato</string>
+  <string id="9205">Cancellato</string>
+
+  <string id="9225">Eliminazione singola</string>
+
+<!-- BAG SUBCATEGORIES -->
+
+  <string id="10101">Oggetti Avventura:</string>
+  <string id="10102">Strumenti da Allevamento:</string>
+  <string id="10104">Oggetti da Tenere:</string>
+  <string id="10105">Strumenti Evolutivi:</string>
+
+  <string id="10129">Oggetti Vari:</string>
+  <string id="10130">Oggetti Mail:</string>
+
+  <string id="10201">Oggetti Usabili:</string>
+  <string id="10210">Oggetti Storia:</string>
+
+  <string id="10501">Strumenti da Raccolta:</string>
+  <string id="10502">Semi:</string>
+  <string id="10503">{STRING_240273}:</string>
+  <string id="10504">Polvere:</string>
+
+  <string id="10601">Cappelli:</string>
+  <string id="10602">Capelli:</string>
+  <string id="10603">Occhi:</string>
+  <string id="10604">Oggetti Faccia:</string>
+
+  <string id="10606">Busto:</string>
+  <string id="10607">Guanti:</string>
+  <string id="10608">Scarpe:</string>
+  <string id="10609">Gambe:</string>
+  <string id="10610">Ami:</string>
+  <string id="10611">Biciclette:</string>
+
+  <string id="10701">Vitamine:</string>
+
+  <string id="10999">\n\nUse to assign this particle to a {STRING_0}.\n\nCan only be used once.</string>
+
+  <string id="11200">Unique to shiny {STRING_0}.</string>
+
+<!-- 11400-11599 are particle item description string ids. -->
+
+  <string id="11402">{STRING_11202}{STRING_10999}</string>
+  <string id="11403">{STRING_11203}{STRING_10999}</string>
+  <string id="11404">{STRING_11204}{STRING_10999}</string>
+  <string id="11405">{STRING_11205}{STRING_10999}</string>
+  <string id="11406">{STRING_11206}{STRING_10999}</string>
+  <string id="11407">{STRING_11207}{STRING_10999}</string>
+  <string id="11408">{STRING_11208}{STRING_10999}</string>
+  <string id="11409">{STRING_11209}{STRING_10999}</string>
+  <string id="11410">{STRING_11210}{STRING_10999}</string>
+  <string id="11411">{STRING_11211}{STRING_10999}</string>
+  <string id="11412">{STRING_11212}{STRING_10999}</string>
+  <string id="11413">{STRING_11213}{STRING_10999}</string>
+  <string id="11414">{STRING_11214}{STRING_10999}</string>
+  <string id="11415">{STRING_11215}{STRING_10999}</string>
+
+<!-- CUSTOM MULTICHOICE -->
+
+  <string id="90000">MASCHIO</string>
+  <string id="90001">FEMMINA</string>
+
+<!-- CUSTOM ITEMS -->
+
+  <string id="100000">Cappa Amnesia</string>
+  <string id="100001">Un oggetto non scambiabile da far tenere\nad un {STRING_0}.\nPermette a chi lo tiene di dimenticare ogni\nnuova esperienza in battaglia continuando\na guadagnare EV.</string>
+  <string id="100002">Biglietto Cambia Nome</string>
+  <string id="100003">Un oggetto che può essere usato per\ncambiare nome al tuo personaggio.\n\nPuò essere usato una sola volta.</string>
+  <string id="100004">Sei sicuro di voler usare un Biglietto Cambia Nome\nper cambiare il nome del tuo personaggio in {00}?</string>
+  <string id="100005">Hai cambiato il nome del tuo personaggio con successo.</string>
+  <string id="100006">Il nome che hai selezionato è in uso o non valido.</string>
+  <string id="100007">Scatola Misteriosa</string>
+  <string id="100008">Una scatola misteriosa\nche contiene una ricompensa sconosciuta.\n\nUsala per aprirla.</string>
+  <string id="100009">Kit Cambia Aspetto</string>
+  <string id="100010">Un oggetto che può essere usato per\ncambiare l'aspetto di base del tuo personaggio.\n\n\Può essere usato una sola volta.</string>
+  <string id="100011">Biglietto Cambia Nome Gilda</string>
+  <string id="100012">Un oggetto che può essere usato per\ncambiare il nome e il tag della tua gilda.\n\nPuò essere usato solo una volta.\nDeve essere usato dal capo.</string>
+  <string id="100013">Sei sicuro di voler usare un Biglietto Cambia Nome Gilda\nper cambiare il nome della tua gilda in {00} ed il tag in {01}?</string>
+  <string id="100014">Hai cambiato il nome della tua gilda ed il tag con successo.</string>
+
+  <string id="100015">Vigorpeso</string>
+  <string id="100016">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, tenerlo renderà i PS IV del\n{STRING_0}il tratto dominante.\nViene consumato all'uso.</string>
+  <string id="100017">Vigorcerchio</string>
+  <string id="100018">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, tenerlo renderà l'Attacco IV del\n{STRING_0}il tratto dominante.\nViene consumato all'uso.</string>
+  <string id="100019">Vigorfascia</string>
+  <string id="100020">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, tenerlo renderà la Difesa IV del\n{STRING_0}il tratto dominante.\nViene consumato all'uso.</string>
+  <string id="100021">Vigorlente</string>
+  <string id="100022">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, tenerlo renderà l'Attacco Sp. IV del\n{STRING_0}il tratto dominante.\nViene consumato all'uso.</string>
+  <string id="100023">Vigorbanda</string>
+  <string id="100024">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, tenerlo renderà la Difesa Sp. IV del\n{STRING_0}il tratto dominante.\nViene consumato all'uso.</string>
+  <string id="100025">Vigorgliera</string>
+  <string id="100026">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, tenerlo renderà la Velocità IV del\n{STRING_0}il tratto dominante.\nViene consumato all'uso.</string>
+
+  <string id="100027">Biglietto Avanzato</string>
+  <string id="100028">Un biglietto richiesto per navigare tra\nle regioni di {STRING_250000} e {STRING_250001}.</string>
+  <string id="100029">Pacchetto Laboratorio</string>
+  <string id="100030">Un pacchetto da consegnare in una regione lontana.</string>
+  <string id="100031">Pillola Abilità</string>
+  <string id="100032">Una pillola che può essere usata per cambiare\nl'abilità di un {STRING_0}.\nViene consumata all'utilizzo.</string>
+  <string id="100033">Caramella Sinistra</string>
+  <string id="100034">Uno spuntino dallo sguardo spaventoso.\n\nRipristina i PS di un {STRING_0}\ndi un ammontare casuale.</string>
+  <string id="100035">Busta Regalo</string>
+
+  <string id="100037">Caramella Cattiva</string>
+
+  <string id="100039">Grosso Pezzo Di Robot</string>
+  <string id="100040">Un grosso pezzo di un robot.\n\nÈ davvero pesante!</string>
+  <string id="100041">Piccolo Pezzo Di Robot</string>
+  <string id="100042">Un piccolo pezzo di un robot.</string>
+  <string id="100043">Regalo di Natale</string>
+  <string id="100044">Un regalo elegante\nche contiene un premio sconosciuto.\n\nPotrebbe contenere oggetti esclusivi per\nNatale 2015. Usalo per aprirlo.</string>
+  <string id="100045">Attrezzo Da Raccolta</string>
+  <string id="100046">Strumento che può essere utilizzato\nper estrarre semi dalle bacche.\nViene consumato una volta usato.</string>
+  <string id="100047">Strumento da Raccolta Indistruttibile</string>
+  <string id="100048">Strumento che può essere utilizzato\nper estrarre semi dalle bacche.</string>
+
+  <string id="100049">Seme Piccante</string>
+  <string id="100050">Un seme piccante che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100051">Seme Molto Piccante</string>
+  <string id="100052">Un seme piccante che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100053">Seme Secco</string>
+  <string id="100054">Un seme secco che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100055">Seme Molto Secco</string>
+  <string id="100056">Un seme secco che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100057">Seme Dolce</string>
+  <string id="100058">Un seme dolce che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100059">Seme Molto Dolce</string>
+  <string id="100060">Un seme dolce che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100061">Seme Amaro</string>
+  <string id="100062">Un seme amaro che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100063">Seme Molto Amaro</string>
+  <string id="100064">Un seme amaro che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100065">Seme Aspro</string>
+  <string id="100066">Un seme aspro che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+  <string id="100067">Seme Molto Aspro</string>
+  <string id="100068">Un seme aspro che può essere piantato sul\n terreno argilloso per far crescere delle bacche.</string>
+
+  <string id="100069">Busta Regalo - 2015</string>
+  <string id="100070">Una busta regalo dallo sguardo spaventoso\nche contiene un premio sconosciuto.\n\nPotrebbe contenere oggetti esclusivi per Halloween 2016\n\nAprilo.</string>
+  <string id="100071">Regalo di natale - 2015</string>
+  <string id="100072">Un regalo elegante\nche contiene un premio sconosciuto.\n\nPotrebbe contenere oggetti esclusivi per\nNatale 2016. Usalo per aprirlo.</string>
+
+  <string id="100075">Regalo di natale - 2016</string>
+  <string id="100076">Un regalo elegante\nche contiene un premio sconosciuto.\n\nPotrebbe contenere oggetti esclusivi per\nNatale 2017. Usalo per aprirlo.</string>
+
+  <string id="100081">A fancy looking snack.\n\nIt restores the HP of one {STRING_0}\nby a random amount.</string>
+
+  <string id="100095">A delicious looking fruit.\nUnfortunately there's nothing written on it.\n\nIt restores the HP of one {STRING_0} slightly.</string>
+
+  <string id="100100">Piccante</string>
+  <string id="100101">Molto Piccante</string>
+  <string id="100102">Secco</string>
+  <string id="100103">Molto Secco</string>
+  <string id="100104">Dolce</string>
+  <string id="100105">Molto Dolce</string>
+  <string id="100106">Amaro</string>
+  <string id="100107">Molto Amaro</string>
+  <string id="100108">Aspro</string>
+  <string id="100109">Molto Aspro</string>
+
+  <string id="100119">({00} ore)</string>
+  <string id="100120">Tempo di crescita breve</string>
+  <string id="100121">Tempo di crescita medio </string>
+  <string id="100122">Tempo di crescita lungo</string>
+  <string id="100123">Tempo di crescita molto lungo</string>
+
+  <string id="100125">Non molto assetato</string>
+  <string id="100126">Assetato</string>
+  <string id="100127">Molto assetato</string>
+
+  <string id="100130">Appassisce molto in fretta</string>
+  <string id="100131">Appassisce in fretta</string>
+  <string id="100132">Appassisce lentamente</string>
+  <string id="100133">Appassisce molto lentamente</string>
+
+  <string id="101050">Tinta Bianca</string>
+  <string id="101051">Tinta Nera</string>
+  <string id="101052">Tinta Blu</string>
+  <string id="101053">Tinta Azzurra</string>
+  <string id="101054">Tinta Verde Acqua</string>
+  <string id="101055">Tinta Verde</string>
+  <string id="101056">Tinta Oliva</string>
+  <string id="101057">Tinta Giallo Acido</string>
+  <string id="101058">Tinta Gialla</string>
+  <string id="101059">Tinta Arancione</string>
+  <string id="101060">Tinta Marrone</string>
+  <string id="101061">Tinta Rossa</string>
+  <string id="101062">Tinta Rosa</string>
+  <string id="101063">Tinta Ametista</string>
+  <string id="101064">Tinta Porpora</string>
+  <string id="101065">Tinta Viola</string>
+
+  <string id="101100">PvP Scatola Misteriosa</string>
+  <string id="101101">Una scatola misteriosa\nche contiene una ricompensa sconosciuta.\n\nUsala per aprirla.</string>
+  <string id="101106">Biglietto di Cambio Sesso</string>
+  <string id="101107">Un oggetto che può essere usato\nper cambiare il sesso\ndel tuo personaggio.\n\nSi può usare una sola volta.</string>
+  <string id="101112">Farina di Bacche</string>
+
+  <string id="101114">Gemma Misteriosa</string>
+
+  <string id="101127">A charm which increases the chance to\nencounter a shiny {STRING_0}.\n\nStacks with other bonuses.\nConsumed upon use.\nEffects last 1 hour.\nLink members receive a 5% bonus.</string>
+
+  <string id="101130">{STRING_245231} (Small)</string>
+
+  <string id="101200">{STRING_270600}</string>
+  <string id="101201">Aumenta {STRING_310418} di\na {STRING_0}.</string>
+  <string id="101202">{STRING_270601}</string>
+  <string id="101203">Raises the {STRING_310419} of\na {STRING_0}.</string>
+  <string id="101204">{STRING_270602}</string>
+  <string id="101205">Aumenta la {STRING_310420} di\nun {STRING_0}.</string>
+  <string id="101206">{STRING_270603}</string>
+  <string id="101207">Aumenta l'{STRING_310421} di\nun {STRING_0}.</string>
+  <string id="101208">{STRING_270604}</string>
+  <string id="101209">Aumenta la {STRING_310422} di\nun {STRING_0}.</string>
+  <string id="101210">{STRING_270612}</string>
+  <string id="101211">Raises all contest stats of\na {STRING_0}.</string>
+  <string id="101212">{STRING_270600} +</string>
+  <string id="101213">Una Pokémella pepata che aumenta la {STRING_310418} di\nun {STRING_0} di molto.</string>
+  <string id="101214">{STRING_270601} +</string>
+  <string id="101215">Una Pokémella secca che aumenta la {STRING_310419} di\nun {STRING_0} di molto.</string>
+  <string id="101216">{STRING_270602} +</string>
+  <string id="101217">Greatly raises the {STRING_310420} of\na {STRING_0}.</string>
+  <string id="101218">{STRING_270603} +</string>
+  <string id="101219">Greatly raises the {STRING_310421} of\na {STRING_0}.</string>
+  <string id="101220">{STRING_270604} +</string>
+  <string id="101221">Greatly raises the {STRING_310422} of\na {STRING_0}.</string>
+  <string id="101222">{STRING_270612} +</string>
+  <string id="101223">Greatly raises all contest stats of\na {STRING_0}.</string>
+  <string id="101224">{STRING_270611}</string>
+  <string id="101225">Lowers all contest stats of\na {STRING_0}.</string>
+
+  <string id="101300">Ocarina {STRING_110015}</string>
+  <string id="101301">Summons a {STRING_0} which will use\n{STRING_110015} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101302">Ocarina {STRING_110019}</string>
+  <string id="101303">Summons a {STRING_0} which will use\n{STRING_110019} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101304">Ocarina {STRING_110057}</string>
+  <string id="101305">Summons a {STRING_0} which will use\n{STRING_110057} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101306">Ocarina {STRING_110070}</string>
+  <string id="101307">Summons a {STRING_0} which will use\n{STRING_110070} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101308">Ocarina {STRING_110148}</string>
+  <string id="101309">Summons a {STRING_0} which will use\n{STRING_110148} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101310">Ocarina {STRING_110249}</string>
+  <string id="101311">Summons a {STRING_0} which will use\n{STRING_110249} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101312">Ocarina {STRING_110127}</string>
+  <string id="101313">Summons a {STRING_0} which will use\n{STRING_110127} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101314">Ocarina {STRING_110291}</string>
+  <string id="101315">Summons a {STRING_0} which will use\n{STRING_110291} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101316">{STRING_110431} Ocarina</string>
+  <string id="101317">Summons a {STRING_0} which will use\n{STRING_110431} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101318">{STRING_110432} Ocarina</string>
+  <string id="101319">Summons a {STRING_0} which will use\n{STRING_110432} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+  <string id="101320">{STRING_110250} Ocarina</string>
+  <string id="101321">Summons a {STRING_0} which will use\n{STRING_110250} outside of a battle.\n\nCannot be used in certain instances.\n\nRequires a certain badge in each region to use.</string>
+
+<!-- Charms allocation -->
+
+  <string id="101400">{STRING_101120} (+25%)</string>
+  <string id="101401">{STRING_101120} (+50%)</string>
+  <string id="101402">{STRING_101120} (+100%)</string>
+  <string id="101403">{STRING_101122} (+25%)</string>
+  <string id="101404">{STRING_101122} (+50%)</string>
+  <string id="101405">{STRING_101122} (+100%)</string>
+  <string id="101406">{STRING_101124} (+25%)</string>
+  <string id="101407">{STRING_101124} (+50%)</string>
+  <string id="101408">{STRING_101124} (+100%)</string>
+  <string id="101409">{STRING_101126} (+10%)</string>
+  <string id="101410">{STRING_101126} (+15%)</string>
+  <string id="101411">{STRING_101126} (+20%)</string>
+  <string id="101412">{STRING_101128} (+25%)</string>
+  <string id="101413">{STRING_101128} (+50%)</string>
+  <string id="101414">{STRING_101128} (+100%)</string>
+
+<!-- Transform potion allocation -->
+
+  <string id="101500">{STRING_101116} (Elfbot)</string>
+  <string id="101501">{STRING_101118} (Elfbot)</string>
+  <string id="101502">{STRING_101116} (Robosanta)</string>
+  <string id="101503">{STRING_101118} (Robosanta)</string>
+  <string id="101504">{STRING_101116} (Elf)</string>
+  <string id="101505">{STRING_101118} (Elf)</string>
+
+  <string id="101609">A tasty cookie exclusive\nto Halloween. It restores HP\nwhen eaten, but causes a\nSugar Rush in battle.\n\nWhen fighting Pumpking,\neating this cookie will grant\nparty members the ability {STRING_210064} and\ncauses attacks to drain their target.\n\nEffects last 5 turns.</string>
+
+  <string id="19950">Colorabile</string>
+  <string id="19951">Effetti di Luce</string>
+  <string id="19952">Animazioni Extra</string>
+  <string id="19953">Tempo Limitato</string>
+  <string id="19954">Stagionale</string>
+
+  <string id="19999">Un cosmetico che può essere\nusato per modificare il tuo aspetto.</string>
+<!-- ADDON NAMES -->
+
+  <string id="20002">Semplice</string>
+
+  <string id="20004">Giallo</string>
+
+  <string id="21001">Berretto all'indietro</string>
+
+  <string id="21004">Basco</string>
+  <string id="21005">Cuffia da nuoto</string>
+
+  <string id="21008">Fiocco</string>
+
+  <string id="21010">Velo</string>
+  <string id="21011">Berretto</string>
+  <string id="21012">Cappello da Chef</string>
+  <string id="21013">Cappello di Babbo Natale</string>
+  <string id="21014">Visiera</string>
+
+  <string id="21016">Cappello da Cowboy</string>
+  <string id="21017">Cappello da Elf</string>
+  <string id="21018">Cappello da Esploratore</string>
+  <string id="21019">Borsalino</string>
+
+  <string id="21021">Berretto Piatto</string>
+  <string id="21022">Occhiali a Speccio</string>
+  <string id="21023">Fascia</string>
+  <string id="21024">Cuffie</string>
+
+  <string id="21027">Cappuccio</string>
+  <string id="21028">Orecchie da Gatto nero</string>
+  <string id="21029">Elmo</string>
+
+  <string id="21032">Maschera Ninja</string>
+  <string id="21033">Cappello da Infermiera</string>
+  <string id="21034">Orecchie da Gatto Rosa</string>
+
+  <string id="21042">Cappello a righe</string>
+
+  <string id="21044">Orecchie da Orso</string>
+
+  <string id="21046">Tricorno</string>
+  <string id="21047">Elmo Vichingo</string>
+
+  <string id="21049">Orecchie di Coniglio</string>
+  <string id="21050">Cappello Bicolore</string>
+
+  <string id="21053">Corna</string>
+
+  <string id="21056">Occhiali da sole e Cappello</string>
+
+  <string id="21058">Orecchie di Fennec</string>
+  <string id="21059">Cappello da Rana Blu</string>
+
+  <string id="21061">Orecchie da Gatto Bianco</string>
+  <string id="21062">Casco da moto</string>
+  <string id="21063">Casco da moto verde</string>
+  <string id="21064">Cappello da Festa</string>
+
+  <string id="21069">Cappello di Paglia</string>
+
+  <string id="21072">Maschera da Teschio con Fiamme Blu</string>
+
+  <string id="21074">Casco Rock</string>
+
+  <string id="21078">Cappello Pigliamosche</string>
+
+  <string id="21080">Maschera da Teschio con Fiamme Arancioni</string>
+  <string id="21081">Testa di Cavallo</string>
+  <string id="21082">Colonna di Cappelli</string>
+
+  <string id="21087">Maschera di Jack-O-Lantern</string>
+  <string id="21088">Zanne da Vampiro</string>
+  <string id="21089">Costume da Fantasma</string>
+
+  <string id="21091">Cappello da Piccolo Aiutante di Babbo Natale</string>
+
+  <string id="21110">Berretto da marinaio</string>
+
+  <string id="21112">Casco da Football</string>
+  <string id="21113">Cappello da Baseball</string>
+
+  <string id="21119">Cappuccio da Rana</string>
+
+  <string id="22000">Capelli Default</string>
+
+  <string id="22007">Tendine</string>
+
+  <string id="22020">Trecce</string>
+  <string id="22021">Coda di Cavallo</string>
+
+  <string id="22037">Maschera Maledetta</string>
+  <string id="22038">Calvo</string>
+
+  <string id="22042">TEMPESTA DI FULMINI</string>
+
+  <string id="22008">Coda di Cavallo Bionda</string>
+
+  <string id="23000">Arrabbiato</string>
+  <string id="23001">Calmo</string>
+  <string id="23002">Occhi Grigi</string>
+  <string id="23003">Occhiali</string>
+
+  <string id="23005">Occhiali da Sole</string>
+
+  <string id="24000">Sopracciglia arrabbiate</string>
+  <string id="24001">Barba</string>
+
+  <string id="24003">Sopracciglia &amp; Barba</string>
+  <string id="24004">Sopracciglia</string>
+  <string id="24005">Baffi</string>
+
+  <string id="24007">Sopracciglia &amp; Baffi</string>
+
+  <string id="24012">Baffi Sottili</string>
+
+  <string id="24015">Sopracciglia &amp; Baffi Disegnati</string>
+
+  <string id="24019">Sopracciglia &amp; Baffi Disegnati</string>
+
+  <string id="25000">Ali d'Angelo</string>
+
+  <string id="25002">Mantello</string>
+  <string id="25003">Ali Demoniache</string>
+  <string id="25004">Ali di Fata</string>
+  <string id="25005">Tracolla</string>
+  <string id="25006">Falce</string>
+  <string id="25007">Ali di Farfalla</string>
+
+  <string id="25010">Manico di scopa da Strega</string>
+
+  <string id="25014">Omino di pan di zenzero</string>
+  <string id="25015">Sciarpa</string>
+
+  <string id="25023">Sciarpa Ninja</string>
+
+  <string id="26000">Camice da Laboratorio di Desu (Colore)</string>
+  <string id="26001">Soprabito</string>
+
+  <string id="26007">Smoking</string>
+
+  <string id="26010">Vestito di Babbo Natale</string>
+
+  <string id="26013">Completo da Piccolo Aiutante di Babbo Natale</string>
+
+  <string id="26016">Giacca Cool</string>
+
+  <string id="26019">Gi della Tartaruga</string>
+
+  <string id="26025">Tunica Elfica</string>
+
+  <string id="26046">Camice da Laboratorio</string>
+
+  <string id="26051">Uniforme da Marinaio</string>
+
+  <string id="26054">Maglietta da Baseball</string>
+  <string id="26055">Maglietta da Football</string>
+
+  <string id="26062">Maglietta da Calcio</string>
+  <string id="26063">Maglietta da Basket</string>
+
+  <string id="26069">Costume da Rana</string>
+
+  <string id="26075">Tunica Vichinga</string>
+
+  <string id="26086">Armatura da Samurai</string>
+
+  <string id="26089">Costume da Panda</string>
+  <string id="26090">Costume da Orso</string>
+  <string id="26091">Costume da Coniglietto</string>
+  <string id="26092">Tuta Spaziale</string>
+
+  <string id="27001">Guanti</string>
+
+  <string id="28000">Stivali</string>
+  <string id="28001">Scarpe</string>
+
+  <string id="29002">Gonna</string>
+
+  <string id="30000">Canna da Pesca</string>
+
+  <string id="31000">Bicicletta Rossa</string>
+  <string id="31001">Bicicletta Nera</string>
+  <string id="31002">Moto</string>
+  <string id="31003">Bicicletta Blu</string>
+  <string id="31004">Bicicletta Marrone</string>
+  <string id="31005">Bicicletta Verde</string>
+  <string id="31006">Bicicletta Arancione</string>
+  <string id="31007">Bicicletta Rosa</string>
+  <string id="31008">Bicicletta Porpora</string>
+  <string id="31009">Bicicletta Argentata</string>
+  <string id="31010">Bicicletta Bianca</string>
+  <string id="31011">Bicicletta Gialla</string>
+
+<!-- Colors -->
+
+  <string id="32000">Bianco</string>
+  <string id="32001">Argento Chiaro</string>
+  <string id="32002">Argento</string>
+  <string id="32003">Grigio</string>
+  <string id="32004">Grigio Scuro</string>
+  <string id="32005">Nero</string>
+  <string id="32006">Blu Chiaro</string>
+  <string id="32007">Blu</string>
+  <string id="32008">Blu Scuro</string>
+  <string id="32009">Azzurro Chiaro</string>
+  <string id="32010">Azzurro</string>
+  <string id="32011">Azzurro Scuro</string>
+  <string id="32012">Verde Acqua Chiaro</string>
+  <string id="32013">Verde Acqua</string>
+  <string id="32014">Verde Acqua Scuro</string>
+  <string id="32015">Verde Chiaro</string>
+  <string id="32016">Verde</string>
+  <string id="32017">Verde Scuro</string>
+  <string id="32018">Oliva Chiaro</string>
+  <string id="32019">Oliva</string>
+  <string id="32020">Oliva Scuro</string>
+  <string id="32021">Giallo Acido Chiaro</string>
+  <string id="32022">Giallo Acido</string>
+  <string id="32023">Giallo Acido Scuro</string>
+  <string id="32024">Giallo Chiaro</string>
+  <string id="32025">Giallo</string>
+  <string id="32026">Giallo Scuro</string>
+  <string id="32027">Arancione Chiaro</string>
+  <string id="32028">Arancione</string>
+  <string id="32029">Arancione Scuro</string>
+  <string id="32030">Marrone Chiaro</string>
+  <string id="32031">Marrone</string>
+  <string id="32032">Marrone Scuro</string>
+  <string id="32033">Rosso Chiaro</string>
+  <string id="32034">Rosso</string>
+  <string id="32035">Rosso Scuro</string>
+  <string id="32036">Rosa Chiaro</string>
+  <string id="32037">Rosa</string>
+  <string id="32038">Rosa Scuro</string>
+  <string id="32039">Ametista Chiaro</string>
+  <string id="32040">Ametista</string>
+  <string id="32041">Ametista Scuro</string>
+  <string id="32042">Porpora Chiaro</string>
+  <string id="32043">Porpora</string>
+  <string id="32044">Porpora Scuro</string>
+  <string id="32045">Viola Chiaro</string>
+  <string id="32046">Viola</string>
+  <string id="32047">Viola Scuro</string>
+
+  <string id="120168">Attacco che ruba lo strumento\n tenuto dal {STRING_0} nemico,\n se il {STRING_0} alleato\n non ne tiene già uno.\n\nL'effetto è temporaneo\n quando si ruba dagli allenatori.\n\nNon funziona se il {STRING_0} selvatico\nè esausto.</string>
+
+  <string id="120226">The user switches places with a {STRING_0} in your party, passing along some effects.\n\nWill not pass stat changes or status ailments.</string>
+  <string id="120230">Expels a sweet scent which lowers\nthe foe's Evasion.\n\nIt lures hordes of {STRING_0} when\nused in tall grass, but requires more PP.</string>
+
+  <string id="120273">A turn after this move is used,\nit heals the {STRING_0} in the user's\ncurrent position by half of the\nuser's max HP.</string>
+  <string id="120301">An attack which lasts 5 turns,\nbecoming stronger every time it hits.\n\nIts power is doubled if\n{STRING_110111} was used.</string>
+  <string id="120343">Attacco che ruba lo strumento\n tenuto dal {STRING_0} nemico,\n se il {STRING_0} alleato\n non ne tiene già uno.\n\nL'effetto è temporaneo\n quando si ruba dagli allenatori.\n\nNon funziona se il {STRING_0} selvatico\nè esausto.</string>
+
+<!--EVENT MOVES-->
+
+  <string id="111000">Dolcetto-O-Scherzetto</string>
+  <string id="121000">Dolcetto-O-Scherzetto</string>
+
+  <string id="112001">Moe Moe Kyun (Singolo)</string>
+
+  <string id="112002">Moe Moe Kyun (Nemico + Alleati)</string>
+
+  <string id="112003">Moe Moe Kyun (Nemico + Alleati + Se Stesso)</string>
+
+  <string id="135037">Erba medicinale amarissima.\n\nRianima un {STRING_0} esausto e gli\nrestituisce la metà dei PS.</string>
+  <string id="135158">Se tenuta da un {STRING_0},\nse i suoi PS scendono sotto la metà,\nrestituisce un un quarto dei PS massimi.</string>
+  <string id="135214">Strumento da far tenere\nche ripristina le statistiche ridotte in lotta. \n\nSi può usare una sola volta.</string>
+
+  <string id="135220">Strumento da far tenere a un {STRING_0}.\nQuesta benda aumenta l'Attacco del 50%,\nma costringe il {STRING_0} ad usare sempre la stessa mossa. </string>
+  <string id="135222">Strumento da far tenere a un {STRING_0}.\n\nPolvere argentea e brillante che potenzia\nle mosse di tipo Coleottero del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+
+  <string id="135225">Sfera miracolosa da far tenere a\n{STRING_150380} o {STRING_150381}.\n\nAumenta del 20% la potenza\n delle loro mosse di tipo Psico e Drago.</string>
+  <string id="135228">When held by a {STRING_0},\nit increases the chance to escape from\na wild {STRING_0}.</string>
+  <string id="135229">Strumento da far tenere a un {STRING_0}.\n\nChi tiene questa pietra particolare evita l'evoluzione.\n\nSe tenuta da uno dei genitori, nella Pensione Pokémon,\nil Pokémon cucciolo erediterà la natura di chi la tiene.</string>
+
+  <string id="135233">Strumento da far tenere a un {STRING_0}.\nSpeciale pellicola metallica che potenzia le mosse di tipo Acciaio del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135234">Strumento da far tenere ad un {STRING_0}.\nIn battaglia, il {STRING_0} che lo tiene\nrecupera il 6.25% dei suoi PS\nad ogni turno.</string>
+  <string id="135236">Strumento da far tenere a {STRING_150025}.\nSfera insolita che aumenta l'Attacco e l'Attacco Sp. in battaglia.\n\nSe tenuto da un {STRING_150025} durante l'allevamento,\nil {STRING_150172} che ne nascerà conoscerà la mossa {STRING_110344}.</string>
+  <string id="135237">Strumento da far tenere a un {STRING_0}.\nSabbia leggera e farinosa ceh potenzia le mosse di tipo Terra del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135238">Strumento da far tenere a un {STRING_0}.\nPietra indistruttibile che potenzia le mosse di tipo Roccia del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135239">Strumento da far tenere a un {STRING_0}.\nSeme intriso di vita che potenzia le mosse di tipo Erba del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135240">Strumento da far tenere a un {STRING_0}.\nInquietante paio di occhiali\nche potenzia le mosse di tipo Buio del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135241">Strumento da far tenere a un {STRING_0}.\nCintura che potenzia la determinazione e le mosse di tipo Lotta del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135242">Strumento da far tenere a un {STRING_0}.\nPotente magnete che potenzia le mosse di tipo Elettro del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135243">Strumento da far tenere a un {STRING_0}.\nGemma a forma di goccia che\npotenzia le mosse di tipo Acqua del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135244">Strumento da far tenere a un {STRING_0}.\nBecco lungo e affilato che potenzia le mosse di tipo Volante del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135245">Strumento da far tenere a un {STRING_0}.\nAculeo piccolo e tossico che potenzia le mosse di tipo Veleno del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135246">Strumento da far tenere a un {STRING_0}.\nPezzo di ghiaccio che respinge il calore e potenzia le mosse di tipo Ghiaccio del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135247">Strumento da far tenere a un {STRING_0}.\nTarga sinistra e inquietante che potenzia le mosse di tipo Spettro del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135248">Strumento da far tenere a un {STRING_0}.\nCucchiaio dotato di potere telecinetico che potenzia le mosse di tipo Psico del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135249">Strumento da far tenere a un {STRING_0}.\nSostanza combustibile che potenzia le mosse di tipo Fuoco del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135250">Strumento da far tenere a un {STRING_0}.\nDente duro e affilato che potenzia le mosse di tipo Drago del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135251">Strumento da far tenere a un {STRING_0}.\nSciarpa raffinata che potenzia le mosse di tipo Normale del 20%.\n\nMolto popolare tra alcuni Insegnamosse.</string>
+  <string id="135253">Strumento da far tenere ad un {STRING_0}.\n Chi lo tiene recupera il 12.5% di PS inflitti.\nIl suo effetto può essere annullato con l'abilità {STRING_110377}.</string>
+  <string id="135254">Strumento da far tenere a un {STRING_0}.\nIncenso dal curioso aroma che potenzia le mosse di tipo Acqua del 20%.\n\nSe tenuto da {STRING_150183} o\n{STRING_150184} durante l'allevamento,\npermette di generare un uovo di {STRING_150298}. </string>
+  <string id="135255">Strumento da far tenere a un {STRING_0}.\nIl suo aroma insidioso riduce la Precisione del nemico.\n\nSe tenuto da {STRING_150202} durante l'allevamento,\npermette di generare un uovo di {STRING_150360}.</string>
+  <string id="135266">Strumento da far tenere a un {STRING_0}.\nFascia che potenzia le mosse Fisiche del 10%.</string>
+  <string id="135268">Strumento da far tenere a un {STRING_0}.\nCintura consumata che potenzia le mosse Superefficaci del 20%.</string>
+  <string id="135269">Strumento da far tenere a un {STRING_0}.\nAumenta la durata delle mosse\n{STRING_110113} e {STRING_110115} da 5 ad 8 turni,\nquando utilizzate da chi la tiene. </string>
+  <string id="135270">Strumento da far tenere a un {STRING_0}.\nAumenta la potenza delle mosse del 30%,\nma al costo del 10% dei PS massimi.</string>
+  <string id="135275">Strumento da far tenere a un {STRING_0}.\nSe chi lo tiene ha tutti i PS,\neviterà un potenziale KO, rimanendo con un PS.\n\nSi consuma dopo la lotta.</string>
+  <string id="135277">Strumento da far tenere a un {STRING_0}.\nPotenzia una mossa del 20% per ogni uso consecutivo,\nfino ad un massimo del 100%.</string>
+  <string id="135281">Strumento da far tenere ad un {STRING_0}.\nSe il {STRING_0} che lo tiene è di tipo {STRING_230003}, recupererà il 6.25% dei PS ad ogni turno.\nSe il {STRING_0} che lo tiene non è di tipo {STRING_230003}, subirà un danno del 12.5% ad ogni turno;\nnon danneggia i {STRING_0} con l'abilità {STRING_210098}.</string>
+  <string id="135286">Strumento da far tenere ad un {STRING_0}\nche prolunga la durata delle mosse intrappolatrici, garantendo 7 turni.</string>
+  <string id="135287">Strumento da far tenere a un {STRING_0}.\nStola che aumenta la Velocità del 50%,\nma consente l'uso di una sola mossa.</string>
+  <string id="135288">Strumento da far tenere ad un {STRING_0}.\nDanneggia chi la tiene del 12.5% dei suoi PS massimi ad ogni turno.\nDanneggia l'attaccante che usa una mossa fisica del 12.5% dei suoi PS Max ad ogni turno. {STRING_245288} verrà trasferita al contatto sul nemico, se questo non tiene alcun oggetto;\nnon danneggia i {STRING_0} con l'abilità {STRING_210098}.</string>
+  <string id="135289">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, il {STRING_0} figlio erediterà\ngli IV relativi all'Attacco del genitore che lo tiene.\n\nSi consuma dopo l'uso.</string>
+  <string id="135290">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, il {STRING_0} figlio erediterà\ngli IV relativi alla Difesa del genitore che lo tiene.\n\nSi consuma dopo l'uso.</string>
+  <string id="135291">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, il {STRING_0} figlio erediterà\ngli IV relativi all'Att Sp. del genitore che lo tiene.\n\nSi consuma dopo l'uso.</string>
+  <string id="135292">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, il {STRING_0} figlio erediterà\ngli IV relativi alla Dif Sp. del genitore che lo tiene.\n\nSi consuma dopo l'uso.</string>
+  <string id="135293">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, il {STRING_0} figlio erediterà\ngli IV relativi alla Velocità del genitore che lo tiene.\n\nSi consuma dopo l'uso.</string>
+  <string id="135294">Strumento da far tenere a un {STRING_0}.\nDurante l'allevamento, il {STRING_0} figlio erediterà\ngli IV relativi ai PS del genitore che lo tiene.\n\nSi consuma dopo l'uso.</string>
+  <string id="135297">Strumento da far tenere a un {STRING_0}.\nQuesti occhiali aumentano l'Att. Sp. del 50%,\nma permettono l'uso di una sola mossa.</string>
+  <string id="135314">Strumento da far tenere a un {STRING_0}.\nIncenso dal profumo esotico che potenzia le mosse di tipo Psico del 20%.\n\nSe tenuto da {STRING_150122} durante l'allevamento,\npermette di generare un uovo di {STRING_150439}.</string>
+  <string id="135315">Strumento da far tenere a un {STRING_0}.\nIncenso dal profumo esotico che potenzia le mosse di tipo Roccia del 20%.\n\nSe tenuto da {STRING_150185} durante l'allevamento,\npermette di generare un uovo di {STRING_150438}.</string>
+  <string id="135316">Strumento da far tenere a un {STRING_0}.\nIncenso dal profumo esotico che rende gonfi e lenti;\nil {STRING_0} che lo usa agirà per ultimo, nel caso di mosse con la stessa priorità dell'avversario.\n\nSe tenuto da {STRING_150143} durante l'allevamento,\npermette di generare un uovo di {STRING_150446}.</string>
+  <string id="135316">Strumento da far tenere a un {STRING_0}.\nIncenso dal profumo esotico che rende gonfi e lenti;\nil {STRING_0} che lo usa agirà per ultimo, nel caso di mosse con la stessa priorità dell'avversario.\n\nSe tenuto da {STRING_150143} durante l'allevamento,\npermette di generare un uovo di {STRING_150446}.</string>
+  <string id="135317">Strumento da far tenere a un {STRING_0}.\nIncenso dal curioso aroma che potenzia le mosse di tipo Acqua del 20%.\n\nSe tenuto da {STRING_150226} durante l'allevamento,\npermette di generare un uovo di {STRING_150458}.</string>
+  <string id="135318">Strumento da far tenere a un {STRING_0}.\nIncenso dal profumo esotico che potenzia le mosse di tipo Erba del 20%.\n\nSe tenuto da {STRING_150315} o\n{STRING_150407} durante l'allevamento,\npermette di generare un uovo di {STRING_150406}.</string>
+  <string id="135319">An item to be held by a {STRING_0}.\n\nIf held by a {STRING_150113} while breeding,\nit may help them produce a {STRING_150440} egg.</string>
+  <string id="135320">Strumento da far tenere a un {STRING_0}.\nAiuta ad allontanare i {STRING_0} selvatici se chi lo tiene è il primo della squadra.\n\nSe tenuto da {STRING_150358} durante l'allevamento,\npermette di generare un uovo di {STRING_150433}.</string>
+  <string id="135526">Strumento da far tenere a  {STRING_150373}.\nDente dai bagliori argentei che aumenta l'Attacco Speciale.</string>
+  <string id="135527">Strumento da far tenere a  {STRING_150373}.\nSquama dai bagliori rosei che aumenta la Difesa Speciale.</string>
+  <string id="135536">Ripristina il 25% dei PS, se il {STRING_0} che la tiene è colpito da un attacco superefficace. </string>
+  <string id="135540">An item to be held by a {STRING_0}.\n\nIf the holder of this item\nis hit by a move that makes contact,\nit will inflict damage on the attacker\nfor 16.67% of their maximum HP per-hit.</string>
+  <string id="135544">When held by a {STRING_0},\nit causes the damage inflicted by binding\nmoves used by the holder to increase\nfrom 12.5% to 16.7% of the opponent's\nmaximum HP at the end of each turn.</string>
+  <string id="135548">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Fuoco del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135549">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Acqua del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135550">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Elettro del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135551">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Erba del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135552">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Ghiaccio del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135553">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Lotta del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135554">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Veleno del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135555">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Terra del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135556">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Volante del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135557">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Psico del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135558">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Coleottero del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135559">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Roccia del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135560">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Spettro del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135561">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Drago del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135562">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Buio del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135563">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Acciaio del 50%.\n\nViene consumato dopo l'uso.</string>
+  <string id="135564">Strumento da far tenere a un {STRING_0}.\nGioiello che potenzia le mosse di tipo Normale del 50%.\n\nViene consumato dopo l'uso.</string>
+
+<!--EVENT MAPS-->
+
+  <string id="140120">Polo Nord</string>
+
+  <string id="150000">nullo</string>
+<!--EVENT MONSTERS-->
+
+  <string id="151003">Elfbot ({STRING_230001})</string>
+  <string id="151004">Elfbot ({STRING_230002})</string>
+  <string id="151005">Elfbot ({STRING_230003})</string>
+  <string id="151006">Elfbot ({STRING_230004})</string>
+  <string id="151007">Elfbot ({STRING_230005})</string>
+  <string id="151008">Elfbot ({STRING_230006})</string>
+  <string id="151009">Elfbot ({STRING_230007})</string>
+  <string id="151010">Elfbot ({STRING_230008})</string>
+  <string id="151011">Elfbot ({STRING_230010})</string>
+  <string id="151012">Elfbot ({STRING_230011})</string>
+  <string id="151013">Elfbot ({STRING_230012})</string>
+  <string id="151014">Elfbot ({STRING_230013})</string>
+  <string id="151015">Elfbot ({STRING_230014})</string>
+  <string id="151016">Elfbot ({STRING_230015})</string>
+  <string id="151017">Elfbot ({STRING_230016})</string>
+  <string id="151018">Elfbot ({STRING_230017})</string>
+
+<!--EVENT TRAINER CLASSES-->
+
+  <string id="200375">{00}|br|non è più avvelenato!</string>
+  <string id="200376">{00}|br|non è più bruciato!</string>
+  <string id="200377">{00} Ha dato {01}\n{02} da tenere.</string>
+
+  <string id="200387">Your {STRING_0} is still too scared\nto fight.</string>
+
+  <string id="200399">{00} non è più insomme!</string>
+
+  <string id="200401">Piove.</string>
+  <string id="200402">La nebbia è spessa.</string>
+
+<!--EVENT ABILITIES-->
+
+  <string id="211001">-15% possibilità di incontro {STRING_0} selvatico.</string>
+  <string id="211008">-25% possibilità di incontro {STRING_0} selvatico.</string>
+
+  <string id="211021">Possibilità aumentate di abboccamenti durante la pesca.</string>
+
+  <string id="211028">20% chance for wild {STRING_0}'s nature to match.</string>
+  <string id="211035">+10% possibilità di incontro {STRING_0} selvatico.</string>
+  <string id="211040">L'uovo si schiuderà più velocemente.</string>
+
+  <string id="211049">L'uovo si schiuderà più velocemente.</string>
+
+  <string id="211053">Possibilità di ottenere oggetti dagli incontri con {STRING_0} selvatici.</string>
+
+  <string id="211060">Possibilità aumentate di abboccamenti durante la pesca.</string>
+  <string id="211068">+10% possibilità di incontro {STRING_0} selvatico.</string>
+  <string id="211071">+10% possibilità di incontro {STRING_0} selvatico.</string>
+
+  <string id="211073">-15% possibilità di incontro {STRING_0} selvatico.</string>
+  <string id="211081">-25% wild {STRING_0} encounter rate during snowstorms.</string>
+  <string id="211095">-10% possibilità di incontro {STRING_0} selvatico.</string>
+  <string id="211099">+10% possibilità di incontro {STRING_0} selvatico.</string>
+
+  <string id="220026">Immune to Ground-type moves,\nSpikes, and {STRING_210071}.</string>
+
+  <string id="220033">Raddoppia la Velocità\nquando piove.</string>
+
+  <string id="220037">Doubles the {STRING_0}'s Attack.</string>
+
+  <string id="220053">May pick up items after\ndefeating wild {STRING_0}.</string>
+
+  <string id="220074">Doubles the {STRING_0}'s Attack.</string>
+
+  <string id="181001">Mostro</string>
+
+  <string id="181003">Coleottero</string>
+  <string id="181004">Volante</string>
+  <string id="181005">Campo</string>
+  <string id="181006">Folletto</string>
+  <string id="181007">Pianta</string>
+  <string id="181008">Umanoide</string>
+
+  <string id="181010">Minerale</string>
+  <string id="181011">Caos</string>
+
+  <string id="181013">{STRING_150132}</string>
+  <string id="181014">Drago</string>
+
+<!-- DIALOG OVERRIDES -->
+
+  <string id="1538045">TRAINER TIPS\n\nSome {STRING_0} can be\nfound more often on certain days.</string>
+
+  <string id="270776032">A small crevice is seen on the wall.\n\nA {STRING_110290} may allow you to\nbreak it open.</string>
+  <string id="271009606">An imposing tree stands in your way.\n\nA {STRING_110290} may allow you to climb it.</string>
+  <string id="271009757">A large clump of grass blocks the path.\n\nA {STRING_110290} may allow you\nto move it.</string>
+
+<!-- CUSTOM STRINGS -->
+
+  <string id="16777216">Ma, non hai le medaglie\nnecessarie.</string>
+  <string id="16777217">Hai già abbastanza gettoni.</string>
+  <string id="16777218">{02} è un soprannome decente,\nma vorresti che\nlo cambiassi per ${03}?</string>
+  <string id="16777219">Vorresti permettere a {00}\ndi allenarsi con altri {STRING_0} e\nguadagnare esperienza?</string>
+  <string id="16777220">Come va con l'uovo?\nFammi sapere se si schiude!</string>
+  <string id="16777221">Do you have a {STRING_240004}\nto hold this Egg?</string>
+  <string id="16777223">Torna quando avrai una\n {STRING_240004}!</string>
+  <string id="16777224">Tornerà tra\n{00}.</string>
+  <string id="16777225">Ma, devi avere l'oggetto {00}\nper procedere.</string>
+  <string id="16777226">Questa funzione non è ancora stata implementata.</string>
+  <string id="16777227">Vorresti comprare un {00}?\nI {STRING_0} non ne hanno mai abbastanza!\n\nSolo ${01} l'uno!|br|Prendine finché puoi!</string>
+
+  <string id="16777229">Scusa, per favore torna tra\n{00}.</string>
+  <string id="16777230">Questa funzione è stata temporaneamente disattivata.</string>
+
+  <string id="16777245">Non hai abbastanza gettoni.</string>
+
+  <string id="16777300">EDIZIONE STRAORDINARIA! Abbiamo appena sentito\nda {00} che un {01}\n\nselvatico è stato visto vicino\n{02}!</string>
+  <string id="16777301">EDIZIONE STRAORDINARIA! Persone arrabbiate per\ncose senza conseguenze si lamentano\nsu forum pubblici!</string>
+  <string id="16777302">A Seguire: Può una mancanza di aggiornamenti\nfar impazzire i giocatori?\nLo scopriremo il prossimo Febbraio!</string>
+  <string id="16777303">Pubblicità: Vuoi essere il\nmigliore? Peccato, non puoi.\n\nMa puoi essere meno grasso.\nProva 'grasso-vai-via'!</string>
+  <string id="16777304">EDIZIONE STRAORDINARIA! Incastrata organizzazione di sfruttamento\nminorile! Migliaia di piccoli\n\nfratelli e sorelle liberati dalla\nschiavitù delle Slot Machine!</string>
+  <string id="16777305">ATTENZIONE! Pericolosi alti livelli di\nperdite di tsundere sono stati registrati\ndai nostri Tiddle.</string>
+  <string id="16777306">EDIZIONE STRAORDINARIA! Artista locale impazzito;\nAsserisce di star ridisegnando il mondo\na sua immagine! Aggiornamenti alle 11!</string>
+  <string id="16777307">A Seguire: Può la forza di polizia\nessere corrotta con piccole quantità\n\ndi Té? La nostra shockante inchiesta\nsull'incompetenza nazionale continua!</string>
+  <string id="16777308">A Seguire: Grandi ondate di rimpicciolimenti\ndi corpi verificati dagli scienziati.\n\nI cittadini avvisati di evitare l'acqua.</string>
+  <string id="16777309">A Seguire: Programma di allevamento\nfermato dopo migliaia di\ncasi di crampi alle mani e schiene\nrovinate!</string>
+  <string id="16777310">A Seguire: Il proprietario afferma che l'ultimo\ndesiderio del suo cane era di vedere aggiornamenti\ndel video game.\n\nIl proprietario corre all'ospedale poco dopo.</string>
+  <string id="16777311">A Seguire: Un'intervista esclusiva!\nUna madre di {STRING_140000} afferma di avere\nmilioni di figli!</string>
+  <string id="16777312">Pubblicità: Stanco di bambini vaganti\nche ti invadono casa? Installa oggi una porta sul\nlato Nord della tua casa!\nPrivacy garantita!</string>
+  <string id="16777313">Commercial: The bestseller "Mystery of\nJumpeon" is now available in the\n{STRING_140108} Store 7F!\nOnly $4999!</string>
+
+<!-- 16777400 - 16777409 legacy NPC. No longer in the game. -->
+
+  <string id="16777410">I sono un {STRING_140052} psychic.\n\nLe mie abilità psichiche mi permettono di cambiare la\n{STRING_110237} di un {STRING_0}</string>
+  <string id="16777411">Portami un pezzo della terra e io sarà in grado\n di alterare il tuo {STRING_110237} di {STRING_0}</string>
+  <string id="16777412">I sense you have a piece\nof the earth in your possession!\n\nWould you like me to alter\nyour {STRING_0}'s {STRING_110237}?</string>
+  <string id="16777413">Torna nuovamente se\nhai bisogno dei miei servizi.</string>
+  <string id="16777414">Changing a {STRING_0}'s {STRING_110237}\nis dangerous work.\n\nThe {STRING_0} will have its individual values\npermanently reduced.\n\nAre you sure?</string>
+  <string id="16777415">Quale {STRING_0} vuoi cambiare?</string>
+  <string id="16777416">Che tipo di {STRING_110237} deve avere\nquesto{STRING_0}?</string>
+  <string id="16777417">This will cost ${00} and a {STRING_240204}.\nIs this OK?</string>
+  <string id="16777418">Questo {STRING_0}è troppo debole per\ncambiare il suo {STRING_110237}.</string>
+  <string id="16777419">Il {STRING_110237} di {STRING_0} è già\n{00}!</string>
+  <string id="16777420">Okay. Stai indietro.\nQuesta è una procedura molto delicata.\n\n...\n\nOof!\n\n...\n\nMfh!\n\n...\n\nCome nuovo!\n\nTorna ancora se avessi\nbisogno dei miei servizi.</string>
+  <string id="16777421">Torna con ${00} ed un\n{STRING_240204}.</string>
+
+  <string id="16777422">Ma con la giusta conoscenza puoi\nsistemare il suo componente.</string>
+  <string id="16777423">Bring me a {STRING_240204} and I will be able\nto change your {STRING_0}'s {STRING_110237}.</string>
+  <string id="16777424">Would you like me to alter\nyour {STRING_0}'s {STRING_110237}?</string>
+  <string id="16777425">I am a {STRING_142056} psychic.\n\nMy psychic abilities allow me to change the\n{STRING_110237} of a {STRING_0}</string>
+
+<!-- 16777500 - 16777505 legacy egg move -->
+
+  <string id="16778000">Would you like to retire\nfrom the {STRING_140091}?</string>
+  <string id="16778001">Sorry, the PvP {STRING_140091}\nis not currently available.</string>
+  <string id="16778002">Would you like to register for\nthe PvP {STRING_140091}?</string>
+  <string id="16778003">Ma, non hai le medaglie\nnecessarie.</string>
+  <string id="16778004">Attendi mentre troviamo un avversario
+da farti affrontare.</string>
+  <string id="16778005">Would you like to register for\nthe Mixed {STRING_140091}?</string>
+
+  <string id="16778007">Non hai abbastanza soldi.</string>
+
+  <string id="16778010">Buona fortuna!</string>
+
+  <string id="16778100">I'm the Move Maniac.\n\nI know every single move that\n{STRING_0} can learn.\n\nI'm also a mushroom maniac.\n\nBring me some {STRING_240604}, or twice\nas many {STRING_240603}, and I'll teach\na move to one {STRING_0}.</string>
+  <string id="16778102">Non hai abbastanza {00}.</string>
+
+<!-- CUSTOM MOVE TUTOR1 -->
+
+  <string id="16778904">Vuoi che alleni un {STRING_0}\ndei tuoi?</string>
+  <string id="16778905">Torna presto!</string>
+
+  <string id="16778914">Vuoi che alleni un {STRING_0}\ndei tuoi?</string>
+
+  <string id="16778924">Vuoi che alleni un {STRING_0}\ndei tuoi?</string>
+
+  <string id="16778930">Which {STRING_0} do you want to teach?</string>
+
+<!-- RED -->
+
+  <string id="16779001">I have been searching for {STRING_240048}s\nin {STRING_140081} but wandered\ntoo far.</string>
+  <string id="16779002">If you bring me some, I may be able\nto teach your {STRING_0} something\nspecial.</string>
+  <string id="16779003">Cos'e'?\nHai {STRING_240048}?</string>
+  <string id="16779004">Vuoi che alleni un {STRING_0}\ndei tuoi?</string>
+  <string id="16779005">Se vorrai mai avere scambi,\nvieni a cercarmi.</string>
+
+  <string id="16779006">Non posso insegnare ad un Uovo!</string>
+  <string id="16779007">Necessito di {00} {01} per\ninsegnare questo.\nOK?</string>
+  <string id="16779008">Non hai abbastanza soldi.</string>
+  <string id="16779009">It appears that I don't have any moves\nto teach that {STRING_0}.</string>
+
+<!-- GREEN -->
+
+  <string id="16779011">I have come to these islands seeking\n{STRING_240051}s to rejuvenate\nher mind, but I am no longer a\nTrainer.</string>
+  <string id="16779012">If you bring me {STRING_240051}s I can\nteach your {STRING_0} techniques\nunlike any other.</string>
+  <string id="16779013">Hai {STRING_240051}?</string>
+  <string id="16779014">Vuoi che alleni un {STRING_0}\ndei tuoi?</string>
+
+<!-- YELLOW -->
+
+  <string id="16779020">My Master sent me to {STRING_140055} to\ntrain with red hot ferocity in order to\nbecome a Master Tutor!</string>
+  <string id="16779021">I am seeking {STRING_240050}s to help\nhone my abilities. Rumor has it they\nhelp you run faster and stay strong!</string>
+  <string id="16779022">Bring me {STRING_240050}s and I'll\nteach your {STRING_0} to fight with\nstrength they have never had\nbefore!</string>
+  <string id="16779023">Oh? Quindi hai {STRING_240050}?</string>
+  <string id="16779024">Vuoi che alleni un {STRING_0}\ndei tuoi?</string>
+
+<!-- BLUE -->
+
+  <string id="16779031">I've been sent to gather\n{STRING_240049}s to study their\nproperties.\n\nNobody around here has proven useful,\nbut maybe you will.</string>
+  <string id="16779032">If you find any, bring them to me\nand I can teach your {STRING_0}\nsomething interesting.</string>
+  <string id="16779033">Hai {STRING_240049}?\nIniziamo allora!</string>
+  <string id="16779034">You do want me to tutor a {STRING_0}\nof yours, don't you?</string>
+  <string id="16779035">Don't worry, this experiment's failure\nrates are very low.\n\nOnly 0.012% of {STRING_0} have\nunintended side-effects.</string>
+
+<!-- BP Tutor -->
+
+  <string id="16779040">Ciao!\nI sono il Tutor delle Mosse Speciali,\n\nposso insegnare ai tuoi {STRING_0} delle mosse\nche non imparano normalmente\nin cambio di Battle Points.</string>
+  <string id="16779041">Vuoi che io insegni una\nmossa speciale al tuo {STRING_0}?</string>
+  <string id="16779042">Non hai abbastanza Battle Points per quella mossa.</string>
+  <string id="16779043">Necessito di {00} Battle Points per insegnare quello.\nOK?</string>
+  <string id="16779044">Non hai abbastanza\nBattle Points.</string>
+  <string id="16779045">Your {00} now knows\n{01}!\n\nWould you like me to teach one\nof your {STRING_0} another move?</string>
+  <string id="16779046">Grazie per aver usato il Servizio Scambio\nBattle Points.</string>
+
+<!-- REUSABLE MOVE TUTOR -->
+
+  <string id="16779051">Non hai abbastanza soldi.</string>
+  <string id="16779052">Costerà {00}x {01} per\ninsegnare {02}.\n\nOK?</string>
+  <string id="16779053">Torna con {00}x {01}.</string>
+
+<!-- DELETER -->
+
+  <string id="16779056">Non hai abbastanza soldi.</string>
+
+<!-- BP Store -->
+
+  <string id="16779060">Ciao!\nBenvenuto al Servizio Scambio\nBattle Points.\n\nQui puoi scambiare Battle Points\ncon premi!</string>
+  <string id="16779061">Vuoi scambiare i tuoi\nBattle Points?</string>
+  <string id="16779062">Un {00} costerà\n{01} Battle Points.\nOK?</string>
+  <string id="16779063">Non sembra che tu abbia abbastanza\nBattle Points.</string>
+  <string id="16779064">Grazie per aver usato il Servizio Scambio\nBattle Points.</string>
+  <string id="16779065">SERVIZIO SCAMBIO BATTLE POINTS</string>
+
+<!-- Brace Store -->
+
+  <string id="16779070">Ciao!\nCome posso esserti di aiuto?</string>
+
+  <string id="16779080">I'm the {STRING_10}.\n\nI breed {STRING_0} to help them\nunlock their true potential.\n\nYour {STRING_0} seem healthy!\nHow about a trade?\n\nI'll keep two of your {STRING_0}, and\nin return I will give you an egg.</string>
+  <string id="16779081">You don't seem to have enough\n{STRING_0}...</string>
+  <string id="16779082">You won't get these {STRING_0} back.\n\nAre you sure?</string>
+  <string id="16779083">Quale {STRING_0} vorresti\n scambiare?</string>
+  <string id="16779084">Fine, I'll take your {00}.\n\nWhich other {STRING_0} would you\nlike to trade?</string>
+  <string id="16779085">These {STRING_0} are unable to\nproduce an Egg...</string>
+  <string id="16779086">Torna da me fra poco.</string>
+  <string id="16779087">Ah, it’s you!\n\nYou're just in time.\nYour {STRING_0} had an Egg!\n\nAs promised, it belongs to you.\n\nYou do want it, yes?</string>
+
+  <string id="16779090">Il {STRING_0} richiesto non può essere scambiato perché era un dono.</string>
+  <string id="16779091">Vuoi un sesso specifico?\nTi costerà un piccolo extra.</string>
+  <string id="16779092">Quale preferiresti?</string>
+
+  <string id="16779094">Non hai abbastanza soldi.</string>
+  <string id="16779095">That {STRING_0} looks special.\nYou should hold onto it for now.</string>
+  <string id="16779096">Both of those {STRING_0} are holding\na {00}!\n\nYou should retrieve one.</string>
+
+<!-- REGION LINK FERRY -->
+
+  <string id="16780102">Your {STRING_0} will be sent to the PC.\nIs that okay?</string>
+  <string id="16780103">Per favore, sali a bordo del traghetto ed attendi\nla partenza.</string>
+  <string id="16780104">Torna quando sarai pronto.</string>
+  <string id="16780105">Your PC does not have enough room.\nYou can't deposit all of your {STRING_0}.\n\nCome back when you are ready.</string>
+  <string id="16780107">Non hai la ROM richiesta per questa mappa.\nAggiungi la rom richiesta per effettuare l'accesso.</string>
+
+<!-- REGION RETURN -->
+
+<!-- MAILMAN -->
+
+  <string id="16780151">{01}!\nHo delle mail per te.</string>
+
+<!-- Evolution rock NPCs -->
+
+<!-- VANITY SHOPS -->
+
+  <string id="16780200">Sai che puoi modificare l'aspetto\ndi una Bicicletta?\n\nCon le nostre skin per Biciclette puoi spiccare!</string>
+  <string id="16780201">Torna quando avrai una Bicicletta!</string>
+  <string id="16780202">Torna quando vuoi.</string>
+
+<!-- SEED PLANTING -->
+
+  <string id="16780300">Quale seme vorresti piantare per primo?</string>
+  <string id="16780301">Quale seme vorresti piantare per secondo?</string>
+  <string id="16780302">Quale seme vorresti piantare per terzo?</string>
+
+  <string id="16780306">Sei sicuro di voler piantare\nx{00} {01}?</string>
+
+  <string id="16780310">Qui sono piantati alcuni semi.</string>
+  <string id="16780311">I semi hanno germogliato.</string>
+  <string id="16780312">semi</string>
+
+  <string id="16780315">Il suolo è secco.</string>
+  <string id="16780316">Il suolo è umido.</string>
+  <string id="16780317">Il suolo è bagnato.</string>
+
+  <string id="16780320">Il suolo è quasi secco.</string>
+
+  <string id="16780323">A {STRING_240268} is needed to plant seeds.</string>
+
+  <string id="16780375">I used to be a farmer, but as we all\ngrow older, it becomes harder to do\nthe things we once loved.\n\nPlease take this, and use it to grow\ndelicious berries for your {STRING_0}.</string>
+
+<!-- BLEND -->
+
+<!-- EVENTS -->
+
+  <string id="16800000">L'evento di Halloween è iniziato.</string>
+  <string id="16800001">L'evento di Halloween è finito.</string>
+  <string id="16800002">Sob..\n\nSob..\n\nHalloween makes me so sad.\n\nIt's been so long since\nI've tasted candy...\n\nCan you bring me some?\n\nI'll give you a {STRING_100035}\nif you give me {00}!</string>
+  <string id="16800003">Cosa? Possiedi {STRING_100033}?\n\nMe li faresti avere?</string>
+
+  <string id="16800005">{01} handed over {00} {STRING_100033}.</string>
+  <string id="16800006">Se mi porti più {STRING_100033}\nTi darò un altro {STRING_100035}.</string>
+  <string id="16800007">Delicious..\nI'm almost th-\n\nHey, you!\nGo beat up some trick-or-treaters\nand bring me their candy!\n\nI'll give you a {STRING_100035} for {00} {STRING_100033}.</string>
+  <string id="16800008">Cosa? Hai {STRING_100033}?\n\nDallo a me!</string>
+
+  <string id="16800010">{01} handed over {00} {STRING_100033}.</string>
+  <string id="16800011">Bring me more {STRING_100033} and\nI'll give you another {STRING_100035}.</string>
+  <string id="16800012">Hey you...\n\nYeah you.\n\nYou have any more {STRING_100033}?\n\nI'm getting a head start for next year.\nBring me {00} {STRING_100033}\n\nI'll reward you with another {STRING_100035}!</string>
+  <string id="16800013">You have {STRING_100033}?\n\nGive them here!</string>
+  <string id="16800014">Non farò gli stessi errori l'anno prossimo.</string>
+  <string id="16800015">{01} handed over {00} {STRING_100033}.</string>
+  <string id="16800016">I have plenty more {STRING_100035} left.\nBring me more {STRING_100033}.</string>
+
+  <string id="16800020">Vampiro</string>
+  <string id="16800021">Fantasma</string>
+
+  <string id="16800027">Buon Halloween!</string>
+
+  <string id="16800030">Gwahaha!\nYou fools!\n\nThanks to you\nI have finally been revived!\n\nWith this much {STRING_100033},\nI'm undefeatable!</string>
+  <string id="16800031">Blech, you got lucky.\n\nYou caught me before I could eat all of my\n{STRING_100033}!\n\n*Munch* *Munch*\n\n*Burp Burp*</string>
+
+  <string id="16800038">Gwahahaha!\nYou fools!\n\nThanks to you\nI have finally been revived!\n\nWith this much {STRING_100033},\nI'm undefeatable!</string>
+
+  <string id="16800043">Gwahaha!\nYou want more?!\n\nWith this much {STRING_100033}\nyou don't stand a chance!</string>
+
+  <string id="16800100">Progresso Caramella Sinistra</string>
+  <string id="16800101">Una ragazza misteriosa a {STRING_140004} sta collezionando caramelle!\nColleziona {STRING_100033} dai dolcetto-o-scherzetto e portali a lei in cambio di {STRING_100035}S.</string>
+  <string id="16800102">La piccola ragazza fantasma a {STRING_140004} ha collezionato abbastanza caramelle!\nVuole ringraziarti personalmente per il tuo contributo.</string>
+  <string id="16800103">La piccola "ragazza fantasma" a {STRING_140004} sta scomparendo!\nCambia i tuoi {STRING_100033} per {STRING_100035}S prima che sia troppo tardi!</string>
+
+  <string id="16800200">A giant pumpkin has been spotted outside {STRING_142010}. Strange things happen when you feed it candy...</string>
+  <string id="16800201">The giant pumpkin in {STRING_142010} has been defeated, but it's still collecting the last of this year's candy!\nTurn in your {STRING_100033} for {STRING_100035}s before it's too late!</string>
+  <string id="16800202">The Pumpking has returned to {STRING_142010}! Turn in your {STRING_100080} to defeat him!</string>
+  <string id="16800203">It's a spooky Jack-o'-lantern!\n\n"Made in {STRING_142010}" is\ncarved into the back.</string>
+
+  <string id="16801000">L'evento di Natale è iniziato.</string>
+  <string id="16801001">L'evento di Natale è finito.</string>
+
+  <string id="16801005">There should be some Robot Parts in\nthis cave.\n\nIf you can get me {00} {STRING_100039}(S) and\n{01} {STRING_100041}(S), I'll give you an extra\n{STRING_100043}!\n\nWhat did you need?</string>
+
+  <string id="16801007">Torna a Casa</string>
+
+  <string id="16801010">{01} handed over {00} {STRING_100039}(S) and\n{02} {STRING_100041}(S).</string>
+  <string id="16801011">I need at least {00} {STRING_100039}(S) and\n{01} {STRING_100041}(S)!</string>
+
+  <string id="16801018">Riposa</string>
+
+  <string id="16801020">The last working Robot Santa is broken!\n\nWithout a new one I won't be able to deliver all the presents!\n\n{STRING_16801005}</string>
+  <string id="16801021">The Robot Santa you all helped make is\nout delivering the presents.\n\nMrs. Claus was right, I needed to make\nspare Robot Santas.\n\n{STRING_16801005}</string>
+  <string id="16801022">I think we have a problem...\nThat Robot Santa is refusing to give back\nmy {STRING_150234}...\n\nWhat did you need?</string>
+  <string id="16801023">Mrs. Claus was right, I needed to make\nspare Robot Santas...\n\nAnd... to program a remote kill switch...\n\n{STRING_16801005}</string>
+
+  <string id="16801032">CONSEGNA DEI REGALI COMPLETATA.\nCALCOLANDO LA PROSSIMA ROUTINE...</string>
+  <!--Before you talk to santa after spawning-->
+
+  <string id="16801033">Your {STRING_0} are looking worn out...\n\nShall I heal them with a little bit of\nChristmas magic?</string>
+
+  <string id="16801040">Babbo Natale</string>
+  <string id="16801041">ERRORE DI SEGMENTAZIONE</string>
+  <string id="16801042">NON POSSO ESSERE FERMATO</string>
+
+  <string id="16801101">Santa needs your help to build a replacement Robot Santa to deliver presents on time!\nHe's waiting in {STRING_140010} for volunteers!</string>
+  <string id="16801102">Santa needs your help defeating the malfunctioning Robot Santa!\nHe's waiting in {STRING_140010} for volunteers!</string>
+  <string id="16801103">Santa needs your help to build a spare Robot Santas for years to come!\nHe's waiting in {STRING_140010} for volunteers!</string>
+
+  <string id="16802000">L'evento di Natale è iniziato.</string>
+  <string id="16802001">L'evento di Natale è finito.</string>
+
+  <string id="16802005">ALLERTA INTRUSO</string>
+
+  <string id="16802009">BERSAGLIO ACQUISITO</string>
+
+  <string id="16802011">You can't enter with more than\n3 {STRING_0}!</string>
+
+<!-- World //announce message -->
+
+  <string id="16802015">Santa needs your help defeating the malfunctioning Robot Elves!\nHe's waiting in {STRING_140010} for volunteers!</string>
+
+<!-- Overworld dialogue -->
+<!-- BEFORE OR ON DECEMBER 25TH -->
+
+<!-- AFTER DECEMBER 25TH -->
+
+  <string id="16802021">Fine, you win.\nTake a {STRING_100039}.\n\nThose elfthings are less\nmerciful than I am.\n\nTake care.</string>
+  <string id="16802022">CRITICAL FAILURE\n\nObtained 2 {STRING_100039}.</string>
+
+  <string id="16802031">NON RISPARMIARE I TRADITORI</string>
+
+  <string id="16804005">Santa needs your help with a secret mission!\nHe's waiting in {STRING_142012} for volunteers!</string>
+
+  <string id="16804008">Santa has departed, but his elves are still\ncleaning up!\nTurn in your parts in {STRING_142012} before it's too late!</string>
+
+  <string id="16805009">It's a paper lantern, to help\ncelebrate the new year.\n\n"Made in {STRING_142007}" is printed\non the back.</string>
+  <string id="16805010">It's a pig balloon, to help\ncelebrate the new year.\n\n"Made in {STRING_142007}" is printed\non the back.</string>
+  <string id="16805011">It's a firework, to help\ncelebrate the new year.\n\n"Made in {STRING_142007}" is etched\non the back.</string>
+  <string id="16805012">(The {STRING_150186} is helping the fortune teller\ndistribute red envelopes.)</string>
+
+  <string id="16805020">Happy Lunar New Year!\n\nOr it would be,\nif things were peaceful...\n\nThe {STRING_0} at the {STRING_142070} are\nfighting over who should be celebrated next\nyear and are causing a ruckus!\n\nCalm them down for me, would you?\nI'll lend you one of my {STRING_0}.</string>
+
+  <string id="16805022">It's a rat balloon, to help\ncelebrate the new year.\n\n"Made in {STRING_142007}" is printed\non the back.</string>
+
+  <string id="16806000">A dilapidated looking book peddler has appeared in the department store of {STRING_250000}.</string>
+
+  <string id="16806031">After a brief introductory period,\nwe set off on the journey for a stone which,\nin his words, “is said to propel the holder upwards,\nbut for a brief moment.”\n\nIts rumored effects of evolution\nwere unproven at the time, but\nI had brought a certain {STRING_0}\nwith me to test the theory..</string>
+
+<!--<string id="16801000">
+EXAMPLE event has started.</string>
+  <string id="16801001">EXAMPLE event has ended.</string>-->
+
+  <string id="17000001">Ahaha! Sto bloccando la tua strada!</string>
+
+  <string id="17000003">Tch, tch.\nSei forte!.</string>
+
+  <string id="17000005">Sono un ladro! Dammi qualcosa.</string>
+  <string id="17000006">Eek! Mi arrendo!</string>
+  <string id="17000007">Non ruberò di nuovo.\nDavvero, lo prometto.</string>
+
+  <string id="17000009">I will show you the amazing power\nof {STRING_0}!</string>
+  <string id="17000010">È un incubo...</string>
+  <string id="17000011">Questo è un sogno!\nUn sogno!</string>
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by female data -->
+
+  <string id="17000023">Emy: Chi sei?</string>
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <string id="17000038">Sei motivato...</string>
+
+  <string id="17000041">Hey ragazzino!\nÈ ora di andare a letto.</string>
+  <string id="17000042">Distrutto...</string>
+
+  <string id="17000047">La prossima volta vincerò di sicuro.</string>
+
+  <string id="17000049">Wahahaha!\nMy {STRING_0} are full of power.</string>
+
+  <string id="17000051">Oooh-Oooh!\nQuesto è troppo.</string>
+
+  <string id="17000061">Every one of my {STRING_0}\n are strong.</string>
+  <string id="17000062">I tuoi {STRING_0} sono troppo forti!</string>
+  <string id="17000063">Nelle partite {STRING_0}, i soprannomi sono\nimportanti, non è cosi'?!</string>
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <string id="17000089">Isac: Our {STRING_110089} will make you\nshake!\n\nMag: My {STRING_0} won't tremble.</string>
+
+  <!-- Referenced by female data -->
+
+  <string id="17000093">Mag: My {STRING_0} won't tremble.\n\nIsac: Our {STRING_110089} will make you shake!</string>
+
+  <string id="17000099">As a {STRING_190102}\nit's my job to help {STRING_0}.</string>
+
+  <string id="17000103">As a {STRING_190102}\nit's my job to protect nature.</string>
+
+  <string id="17000107">Sono esausto.</string>
+
+  <string id="17000109">A {STRING_0} battle...\nI won't lose!</string>
+
+  <string id="17000113">How's this {STRING_110230}?</string>
+
+  <string id="17000115">Using {STRING_110312} is refreshing.</string>
+
+  <string id="17000118">Non ci credo...</string>
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <string id="17000157">I'm a {STRING_190007} girl.\nGood luck trying to beat me!</string>
+  <string id="17000158">Oh caro... Non ho vinto...</string>
+  <string id="17000159">Grazie. Allenatore.</string>
+
+  <string id="17000161">Nice to meet you.\nI'm a high-class {STRING_190105}.</string>
+  <string id="17000162">How did a {STRING_190105} lose?</string>
+
+  <string id="17000165">I'm a {STRING_190074}.\nBut you knew that, right?</string>
+
+  <string id="17000174">Oh mio... Ho perso.</string>
+
+  <string id="17000179">Le mie scuse...</string>
+
+  <string id="17000181">Let's have a big {STRING_110153} party!</string>
+
+  <string id="17000185">Shocking! Here it is, {STRING_110086}!</string>
+  <string id="17000186">Were you paralyzed by my {STRING_230013}\n{STRING_110018}?</string>
+
+  <string id="17000189">This power...\nI went to {STRING_190021} school.</string>
+  <string id="17000190">Let's go. {STRING_110134}!\n...! What's this!?</string>
+  <string id="17000191">That's it. I'll be entering the {STRING_110134}\nHall of Fame!</string>
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by female data -->
+
+  <string id="17000209">Kati: Hehehe. {STRING_110086} and\n{STRING_110201} will hum happily\ntogether.\n\nGeb: She's the plus to my minus\nin this magnetic field of love.</string>
+
+  <!-- Referenced by male data -->
+
+  <string id="17000213">Geb: She's the plus to my minus.\n\nKati:  Hehehe. {STRING_110086} and\n{STRING_110201} will hum happily together.</string>
+
+  <string id="17000219">Elettricità!\n\nPotere della natura!</string>
+
+  <string id="17000223">Elettricità!\n\nè fantastica!</string>
+
+  <string id="17000229">Sono il leader del gruppo!</string>
+  <string id="17000230">Leader? Cosa?\nHo mentito. Ahaha.</string>
+  <string id="17000231">Hey! il terreno è fangoso!</string>
+
+  <string id="17000233">Sono il vero #1!</string>
+  <string id="17000234">Il prossimo allenatore è davvero il più forte.</string>
+  <string id="17000235">Sputi su di me come se fossi niente.</string>
+
+  <string id="17000237">That's right!\nI'm the {STRING_110208} champion.</string>
+
+  <string id="17000246">Beh... Non và bene.</string>
+  <string id="17000247">Bene! Mi piace la tua forza!</string>
+
+  <string id="17000250">Oh! Vuoi davvero bene a  {STRING_0}.</string>
+  <string id="17000251">Il mio tesoro? {STRING_0} ovviamente!</string>
+
+  <string id="17000254">Was my {STRING_110017} too weak?</string>
+  <string id="17000255">Il tuo senso di battaglia è brillante!</string>
+  <!-- Referenced by female data -->
+
+  <!-- Referenced by male data -->
+
+  <string id="17000263">Nick: Oh man!\nI can't live up to her {STRING_110241}.</string>
+
+  <string id="17000265">Le notti estive sono terrificanti.</string>
+  <string id="17000266">Le tue abilità ... sono veloci!</string>
+  <string id="17000267">{STRING_110174} ti rende nervoso? </string>
+
+  <string id="17000269">Siccome oggi fa caldo,\nuserò {STRING_110346}!</string>
+  <string id="17000270">{STRING_110346} non ha vinto?</string>
+  <string id="17000271">E' ancora caldo.</string>
+
+  <string id="17000273">Quale è il tuo stile di moda?</string>
+  <string id="17000274">Mine is the style of a {STRING_190014}.</string>
+  <string id="17000275">Wow!\n... {STRING_110196}!</string>
+
+  <string id="17000278">Dimmi se ti piacerebbe un bis.</string>
+  <string id="17000279">L'idea di ballare è rinfrescante\nvero?</string>
+
+  <string id="17000282">Che! È già finita?</string>
+  <string id="17000283">Possiamo fare una rivincita quando non\nsei occupato?</string>
+  <!-- Referenced by female data -->
+
+  <string id="17000287">Amy: Da oggi in poi, ti amo di più!</string>
+  <!-- Referenced by male data -->
+
+  <string id="17000301">Userò il mio {STRING_0} volante per vincere.</string>
+  <string id="17000302">Eheheh..\n\nCosa fare...</string>
+  <string id="17000303">My {STRING_0} aren't skilled at flying\nin the air.</string>
+
+  <string id="17000306">Heh. Ummm...\nDevo mantenere la mia promessa?</string>
+  <string id="17000307">Per qualche ragione non sono più\nin grado di tornare indietro.</string>
+</strings>
