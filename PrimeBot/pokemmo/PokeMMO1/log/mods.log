@@ -1,0 +1,52 @@
+[INFO 2020-05-24 18:02:43 CEST] - Possible mod resources.zip
+[INFO 2020-05-24 18:02:43 CEST] - Loaded available mod 'PokeMMO Base Resources'
+[INFO 2020-05-24 18:02:43 CEST] - Possible mod Battle Sprites DMG Icons V1.1.zip
+[INFO 2020-05-24 18:02:43 CEST] - Loaded available mod 'Battle Sprites DMG Icons'
+[INFO 2020-05-24 18:02:43 CEST] - Possible mod Battle_Sprites_Back_Normal.zip
+[INFO 2020-05-24 18:02:43 CEST] - Loaded available mod 'Last Gen Battle Sprites (back/normal)'
+[INFO 2020-05-24 18:02:43 CEST] - Possible mod Battle_Sprites_Back_Shiny.zip
+[INFO 2020-05-24 18:02:43 CEST] - Loaded available mod 'Last Gen Battle Sprites (back/shiny)'
+[INFO 2020-05-24 18:02:43 CEST] - Possible mod Battle_Sprites_Front_Normal.zip
+[INFO 2020-05-24 18:02:43 CEST] - Loaded available mod 'Last Gen Battle Sprites (front/normal)'
+[INFO 2020-05-24 18:02:43 CEST] - Possible mod Battle_Sprites_Front_Shiny.zip
+[INFO 2020-05-24 18:02:44 CEST] - Loaded available mod 'Last Gen Battle Sprites (front/shiny)'
+[INFO 2020-05-24 18:02:44 CEST] - Possible mod example_mod.zip
+[INFO 2020-05-24 18:02:44 CEST] - Loaded available mod 'PokeMMO Example Mod'
+[INFO 2020-05-24 18:02:44 CEST] - Possible mod HD Monster Icons.mod
+[INFO 2020-05-24 18:02:44 CEST] - Loaded available mod 'HD Monster Icons'
+[INFO 2020-05-24 18:02:44 CEST] - Possible mod RealCries.zip
+[INFO 2020-05-24 18:02:44 CEST] - weblink must start with https://forums.pokemmo.eu; RealCries.zip
+[INFO 2020-05-24 18:02:44 CEST] - Loaded available mod 'Real PKMN Cries'
+[INFO 2020-05-24 18:02:44 CEST] - Battle Sprites DMG Icons V1.1.zip is disabled, skipping.
+[INFO 2020-05-24 18:02:44 CEST] - Battle_Sprites_Back_Normal.zip is disabled, skipping.
+[INFO 2020-05-24 18:02:44 CEST] - Battle_Sprites_Back_Shiny.zip is disabled, skipping.
+[INFO 2020-05-24 18:02:44 CEST] - Battle_Sprites_Front_Normal.zip is disabled, skipping.
+[INFO 2020-05-24 18:02:44 CEST] - Battle_Sprites_Front_Shiny.zip is disabled, skipping.
+[INFO 2020-05-24 18:02:44 CEST] - example_mod.zip is disabled, skipping.
+[INFO 2020-05-24 18:02:44 CEST] - HD Monster Icons.mod is enabled, applying.
+[INFO 2020-05-24 18:02:44 CEST] - Only .png files supported for /sprites/monstericons/
+[INFO 2020-05-24 18:02:44 CEST] - RealCries.zip is enabled, applying.
+[INFO 2020-05-24 18:02:44 CEST] - 479-fan has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 479-frost has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 479-heat has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 479-mow has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 479-wash has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 492-sky has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 494  has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 513  has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 550 - basculin red has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 592 - frillish male has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 646-kyurem-black has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 646-kyurem-white has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 25-faint has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 646-blanco has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 646-negro has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - Only .wav files supported for /cries/
+[INFO 2020-05-24 18:02:44 CEST] - Only .wav files supported for /cries/
+[INFO 2020-05-24 18:02:44 CEST] - Only .wav files supported for /cries/
+[INFO 2020-05-24 18:02:44 CEST] - 550-azul has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 550-rojo has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 585 (2) has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 592-hembra has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - 592-macho has an invalid cry id.
+[INFO 2020-05-24 18:02:44 CEST] - Only .wav files supported for /cries/
